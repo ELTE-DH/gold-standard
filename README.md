@@ -8,12 +8,16 @@ A DH-LAB a nemzeti örökség mesterséges intelligencia alapú feldolgozásána
 A korpusz a szövegtípusok és nyelvváltozatok széles skáláját kívánja lefedni. A korpusz szövegei a következő műfajokból és forrásokból kerülnek ki:
 
 - tudományos szövegek
+
   szakdolgozatok, tudományos publikációk szövegei
 - sajtó szövegek
+
   online hírportálok szövegei
 - ismeretterjesztő szövegek
+
   tudományos-ismeretterjesztő célú weboldalak szövegei
 - beszélt nyelvi(t közelítő) szövegek
+
   blogok, online fórumok szövegei
 - jogi szövegek
 
@@ -24,12 +28,16 @@ A különböző műfajok reprezentálásán túl célunk, hogy a határon túli 
 A korpusz a szövegeket nyelvi szempontból feldolgozott, kézzel annotált formában tartalmazza. A nyelvészeti annotáció a nyers szövegeket többszintű nyelvi információval gazdagítja, ami hatékonyabb számítógépes feldolgozást tesz lehetővé. A korpuszba kerülő szövegek feldolgozásának lépései a következők:
 
 - Szegmentálás, tokenizálás
+
   A feldolgozás első lépéseként a szövegeket mondat és szó egységekre (tokenekre) bontjuk. A token az a legkisebb nyelvi egység, amelyhez annotáció tartozik (szavak, írásjelek).
 - Lemmatizálás
+
   A tokenek lemmatizálása a szótő megállapítását jelenti. A magyarhoz hasonló gazdag morfológiájú nyelvekben a szótövesítés különösen fontos lépése a nyelvfeldolgozásnak, hiszen egy szónak (szótőnek) számtalan formájú előfordulása (szóalakja) lehet. A szótövesítés lehetővé teszi, hogy a különböző ragozott szóalakokat egy szóhoz tartozó alakokként tudjuk kezelni, ezáltal a korpusz alkalmassá válik az intelligens keresésre.
 - Morfológiai elemzés
+
   A tokenek morfológiai elemzése a szóalakok morfo-szintaktikai jegyeiről ad információt, ilyenek a szófaj és a különféle nyelvtani kategóriák: pl. névszóknál szám, eset; igéknél idő, mód, szám, személy, stb.
 - Szintaktikai elemzés
+
   A szintaktikai elemzés az egyes szavak közötti mondattani relációkat, és ezáltal a mondatszerkezetet adja meg.
   
 3. A korpusz formátuma
