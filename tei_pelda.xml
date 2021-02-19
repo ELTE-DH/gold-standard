@@ -1,0 +1,246 @@
+<text>
+	<body>
+		<p xml:id="p1">
+			<s xml:id="s1">
+				<w xml:id="w1">
+					<token>Egy</token>
+					<morph>
+						<ana correct="True">
+							<lemma>egy</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/Det|Art.NDef]</simple>
+							<upos>DET</upos>
+							<feats>Definite=Ind|PronType=Art</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>1</id>
+						<deprel>DET</deprel>
+						<head>3</head>
+					</dep>
+				</w>
+				<w xml:id="w2">
+					<token>nagy</token>
+					<morph>
+						<ana correct="True">
+							<lemma>nagy</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/Adj][Nom]</simple>
+							<upos>ADJ</upos>
+							<feats>Case=Nom|Degree=Pos|Number=Sing</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>2</id>
+						<deprel>ATT</deprel>
+						<head>3</head>
+					</dep>
+				</w>
+				<w xml:id="w3">
+					<token>erdő</token>
+					<morph>
+						<ana correct="True">
+							<lemma>erdő</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/N][Nom]</simple>
+							<upos>NOUN</upos>
+							<feats>Case=Nom|Number=Sing</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>3</id>
+						<deprel>ATT</deprel>
+						<head>4</head>
+					</dep>
+				</w>
+				<w xml:id="w4">
+					<token>szélén</token>
+					<morph>
+						<ana correct="True">
+							<lemma>szél</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/N][Poss.3Sg][Supe]</simple>
+							<upos>NOUN</upos>
+							<feats>Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>4</id>
+						<deprel>OBL</deprel>
+						<head>5</head>
+					</dep>
+				</w>
+				<w xml:id="w5">
+					<token>élt</token>
+					<morph>
+						<ana correct="True">
+							<lemma>él</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/V][Pst.NDef.3Sg]</simple>
+							<upos>VERB</upos>
+							<feats>Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>5</id>
+						<deprel>ROOT</deprel>
+						<head>0</head>
+					</dep>
+				</w>
+				<w xml:id="w6">
+					<token>egy</token>
+					<morph>
+						<ana correct="True">
+							<lemma>egy</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/Det|Art.NDef]</simple>
+							<upos>DET</upos>
+							<feats>Definite=Ind|PronType=Art</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>6</id>
+						<deprel>DET</deprel>
+						<head>8</head>
+					</dep>
+				</w>
+				<w xml:id="w7">
+					<token>szegény</token>
+					<morph>
+						<ana correct="True">
+							<lemma>szegény</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/Adj][Nom]</simple>
+							<upos>ADJ</upos>
+							<feats>Case=Nom|Degree=Pos|Number=Sing</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>7</id>
+						<deprel>ATT</deprel>
+						<head>8</head>
+					</dep>
+				</w>
+				<w xml:id="w8">
+					<token>ember</token>
+					<morph>
+						<ana correct="True">
+							<lemma>ember</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/N][Nom]</simple>
+							<upos>NOUN</upos>
+							<feats>Case=Nom|Number=Sing</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>8</id>
+						<deprel>SUBJ</deprel>
+						<head>5</head>
+					</dep>
+				</w>
+				<w xml:id="w9">
+					<token>a</token>
+					<morph>
+						<ana correct="True">
+							<lemma>a</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/Det|Art.Def]</simple>
+							<upos>DET</upos>
+							<feats>Definite=Def|PronType=Art</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>9</id>
+						<deprel>DET</deprel>
+						<head>10</head>
+					</dep>
+				</w>
+				<w xml:id="w10">
+					<token>feleségével</token>
+					<morph>
+						<ana correct="True">
+							<lemma>feleség</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/N][Poss.3Sg][Ins]</simple>
+							<upos>NOUN</upos>
+							<feats>Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>10</id>
+						<deprel>OBL</deprel>
+						<head>5</head>
+					</dep>
+				</w>
+				<w xml:id="w11">
+					<token>és</token>
+					<morph>
+						<ana correct="True">
+							<lemma>és</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/Cnj]</simple>
+							<upos>CONJ</upos>
+							<feats>_</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>11</id>
+						<deprel>CONJ</deprel>
+						<head>10</head>
+					</dep>
+				</w>
+				<w xml:id="w12">
+					<token>két</token>
+					<morph>
+						<ana correct="True">
+							<lemma>két</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/Num|Attr][Nom]</simple>
+							<upos>NUM</upos>
+							<feats>Case=Nom|Number=Sing|NumType=Card</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>12</id>
+						<deprel>ATT</deprel>
+						<head>13</head>
+					</dep>
+				</w>
+				<w xml:id="w13">
+					<token>gyermekével</token>
+					<morph>
+						<ana correct="True">
+							<lemma>gyermek</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[/N][Poss.3Sg][Ins]</simple>
+							<upos>NOUN</upos>
+							<feats>Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>13</id>
+						<deprel>COORD</deprel>
+						<head>11</head>
+					</dep>
+				</w>
+				<pc xml:id="pc1">
+					<token>.</token>
+					<morph>
+						<ana correct="True">
+							<lemma>.</lemma>
+							<detailed>ide_jön_a _részletes_morfológiai_címke</detailed>
+							<simple>[Punct]</simple>
+							<upos>PUNCT</upos>
+							<feats>_</feats>
+						</ana>
+					</morph>
+					<dep>
+						<id>14</id>
+						<deprel>PUNCT</deprel>
+						<head>0</head>
+					</dep>
+				</pc>
+			</s>
+		</p>
+	</body>
+</text>
