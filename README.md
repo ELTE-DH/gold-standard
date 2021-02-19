@@ -21,7 +21,7 @@ A korpusz a szövegtípusok és nyelvváltozatok széles skáláját kívánja l
   blogok, online fórumok szövegei
 - jogi szövegek
 
-A különböző műfajok reprezentálásán túl célunk, hogy a határon túli magyar nyelvű digitális szövegek is részét a korpusz részét képezzék.
+A különböző műfajok reprezentálásán túl célunk, hogy a határon túli magyar nyelvű digitális szövegek is a korpusz részét képezzék.
 
 2. Annotáció
 
@@ -42,5 +42,5 @@ A korpusz a szövegeket nyelvi szempontból feldolgozott, kézzel annotált form
   
 3. A korpusz formátuma
 
-A korpusz alapevtően számítógépes feldolgozásra készül, így a formátum megválasztásánál is a gépi feldolgozhatóság volt az elsődleges szempont. A szövegek, annotációk és metaadatok tárolására ezért a nemzetközi sztenderdeknek is megfelelő TEI XML formátumot választottuk. Ez a formátum kereshető és feldolgozható adatbázisként szolgál, emberi szövegolvasásra azonban nem alkalmas.
+A korpusz alapvetően számítógépes feldolgozásra készül, így a formátum megválasztásánál is a gépi feldolgozhatóság volt az elsődleges szempont. A szövegek, annotációk és metaadatok tárolására ezért a nemzetközi sztenderdeknek is megfelelő TEI XML formátumot választottuk. Ez a formátum gépi eszközzel kereshető és feldolgozható adatbázisként szolgál, emberi szövegolvasásra azonban nem alkalmas.
 A korpuszt alkotó TEI XML fájlok felépítése a tei_pelda.xml fájlban látható.
