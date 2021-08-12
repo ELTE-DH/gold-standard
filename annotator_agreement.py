@@ -40,7 +40,6 @@ class AnnotatorAgreementCalculator:
             Végigmegy az A és B annotátortól érkező tokeneken és token id alapján berendezi az azonos tokeneket a
             token objects dictionary-be, aztán kiszűri az egyes annotátoroknál eltérő tokeneket.
             Ezek a token_differences dictionary-be kerülnek és a későbbi vizsgálatból kimaradnak.
-
             :param a: 1es annotátor tokenek
             :param b: 2es annotátor tokenek
             :return: token_objects = { token_id: token_a, token_b }
@@ -90,7 +89,6 @@ class AnnotatorAgreementCalculator:
         """
             Kinyeri az annotátorok egyes tokenekre adott válaszait, majd a válaszok egyezését True / False -al jelöli.
             Végül visszaadja az egyes válaszokat egy token_id alapján rendezett dictionary-ben
-
             :param token_objects: token_objects dictionary from self.create_token_objects method
             :return: answers = { token_id: a, b, results }
         """
@@ -133,7 +131,6 @@ class AnnotatorAgreementCalculator:
         """
         Két annotátor közti megegyezés kiszámítása ( Várható- és véletlenszerű megegyezés)
         Cohen-féle kappa együttható meghatározása
-
         :param results: results from self.extract_results method
         """
         lemma = [0, 0]
@@ -206,7 +203,6 @@ class AnnotatorAgreementCalculator:
     def list_differences(self, results):
         """
             Kiírja a két annotátor munkájában talált összes különbséget a meghatározott fájl-ba.
-
             :param results: results from self.extract_results method
         """
         for result in results:
@@ -216,7 +212,7 @@ class AnnotatorAgreementCalculator:
                         self.token_differences[result] = results[result]
 
         with open("annotator_differences.txt", "w", encoding="utf-8") as file:
-            for token in self.token_differences:
+            for token in sorted(self.token_differences):
                 if "modified_a" in self.token_differences[token]:
                     a = self.token_differences[token]["a"][0].text if self.token_differences[token]["a"] else None
                     b = self.token_differences[token]["b"][0].text if self.token_differences[token]["b"] else None
@@ -233,11 +229,11 @@ class AnnotatorAgreementCalculator:
                            f'detailed: {self.token_differences[token]["b"]["detailed"]} | ' \
                            f'simple: {self.token_differences[token]["b"]["simple"]})'
                     print(line, sep=", ", flush=True, file=file)
+                file.write("\n")
 
     def parse_xml(self, file):
         """
             XML fájl feldolgozása az ElementTree python library használatával.
-
             :param file: annotátor fájl
             :return: tokens = { token_id: token }
         """
@@ -257,4 +253,4 @@ if __name__ == '__main__':
     aac = AnnotatorAgreementCalculator(
         annotator_file1=annotator_files[0],
         annotator_file2=annotator_files[1]
-    )
+    ) 
