@@ -87,7 +87,7 @@ def get_stag_from_wtags(e_magyar_out_iter):
     alternatíváival.
     """
     for list_sentence in e_magyar_out_iter:
-        s_tag = ElementTree.Element("s")
+        s_tag = ElementTree.Element("s", {"modified": "False"})
         wsbefore = " "
         for form, wsafter, morph, lemma, xpos, upos, feats, *ner in list_sentence:
             if len(wsbefore) == 2 and len(wsafter) == 3:
