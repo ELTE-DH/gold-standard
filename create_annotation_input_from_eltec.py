@@ -113,6 +113,7 @@ def get_stag_from_wtags(e_magyar_out_iter):
             if len(morph) > 0:
                 correct = []
                 incorrect = []
+                has_correct = False
                 for msd_var in morph:
                     ana_tag = ElementTree.Element("ana")
 
@@ -127,9 +128,10 @@ def get_stag_from_wtags(e_magyar_out_iter):
                     simple_tag = ElementTree.Element("simple")
                     simple_tag.text = msd_var["tag"]
                     ana_tag.append(simple_tag)
-                    if msd_var["tag"] == xpos and msd_var["lemma"] == lemma:
+                    if msd_var["tag"] == xpos and msd_var["lemma"] == lemma and not has_correct:
                         ana_tag.set("correct", "True")
                         correct.append(ana_tag)
+                        has_correct = True
                     else:
                         ana_tag.set("correct", "False")
                         incorrect.append(ana_tag)
