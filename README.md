@@ -37,7 +37,7 @@ The \<ana\> elements inside \<morph\> elements contain the analysis options prov
 
 **Content of this repository**
 
-The "pilot" subdirectory of the repository contains the pilot annotations, which were made between May and August 2021. The repository also contains the annotation guide (in Hungarian), and the scripts that we used for the preprocessing of the texts and the measurement of inter-annotator agreement. The "corpus" subfolder contains the preprocessed xml files. The commit message "original files" indicates that the annotations of the file has not been manually checked yet.
+The "pilot" subdirectory of the repository contains the pilot annotations, which were made between May and August 2021. The repository also contains the annotation guide (in Hungarian), and the scripts that we used for the preprocessing of the texts and the measurement of inter-annotator agreement. The "corpus" subfolder contains the preprocessed xml files. The commit message "original files" indicates that the annotations of the file have not been manually checked yet.
 
 **License and usage**
 
