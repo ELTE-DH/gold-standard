@@ -76,7 +76,7 @@ def get_cleaned_teixml(teixml):
     return root
 
 
-def get_stag_from_wtags(e_magyar_out_iter):
+def get_stag_from_wtags(e_magyar_out_iter, onepos_list):
     """
     Egy mondat tokeneit tartalmazó listából létrehoz egy <s> XML-elemet, amely
     tartalmazza a mondat tokeneinek a <token> elemeit, amibe belerakja külön elemekként
@@ -105,7 +105,11 @@ def get_stag_from_wtags(e_magyar_out_iter):
             form_tag.text = form
             token_tag.append(form_tag)
 
-            morph_attrib = {"check": "False"}
+            if form.lower() in onepos_list:
+                morph_attrib = {"check":"True"}                    
+            else:
+                morph_attrib = {"check": "False"}
+                
             morph_tag = ElementTree.Element("morph", morph_attrib)
             token_tag.append(morph_tag)
 
@@ -156,6 +160,7 @@ def get_stag_from_wtags(e_magyar_out_iter):
                 simple_tag.text = xpos
                 ana_tag.append(simple_tag)
 
+            
 
             wsbefore = wsafter
         yield s_tag
@@ -219,7 +224,7 @@ def emagyar_api(input_data, used_tools=('tok', 'morph', 'pos', 'conv-morph')):
         yield sent
 
 
-def process_one_file(input_file_name, output_file_name):
+def process_one_file(input_file_name, output_file_name, onepos_list):
     """
     Ez a metódus egy fájlon lefuttatja bekezdésenként (<p> tagenként) az e-magyart,
     az e-magyar kimenetét belerakja az XML-be, és kiírja a level2 mappába a fájlt.
@@ -240,7 +245,7 @@ def process_one_file(input_file_name, output_file_name):
 
         # Az emagyar_api függvény lefuttatja az e magyart a bekezdés szövegén, és kiadja az elemzést.
         p.clear()
-        p.extend([s for s in get_stag_from_wtags(emagyar_api(text_p, used_tools))])
+        p.extend([s for s in get_stag_from_wtags(emagyar_api(text_p, used_tools), onepos_list)])
 
     teixml = create_xmlid(teixml)
     teixml = add_change(teixml)
@@ -261,12 +266,17 @@ def main():
     regényeket tartalmazzák, megállapítja a bemeneti és a kimeneti fájlok neveit, és
     minden fájl esetében hívja a process_one_file metódust.
     """
+    onepos_list = set()
+    with open("./level1/auto_tag.txt", "r", encoding="utf8") as f:
+       for line in f:
+           onepos_list.add(line.split("\t")[0])
+    
     os.mkdir("level2")
     for input_file_name in glob("level1/*.xml"):
         print(input_file_name, datetime.now(), end="\n\n")
         dir_name_ind = input_file_name.index("/") + 1
         output_file_name = f"level2/{input_file_name[dir_name_ind:]}"
-        process_one_file(input_file_name, output_file_name)
+        process_one_file(input_file_name, output_file_name, onepos_list)
 
 
 if __name__ == '__main__':
