@@ -41,14 +41,14 @@ The "pilot" subdirectory of the repository contains the pilot annotations, which
 
 ## Corpus size
 
-Corpus building and annotation are in progress. Size information is updated weekly.
+Corpus building and annotation are in progress. Size information is updated weekly (usually on Mondays).
 
-Last update: 28.03.2022.
+Last update: 04.04.2022.
 
 |    | Tokens |
 |:---|-------:|
-| Texts uploaded | 144264 |
-| Morphology manually corrected | 84191 |
+| Texts uploaded | 161796 |
+| Morphology manually corrected | 104342 |
 | Morphology validated | 0 |
 
 ## License and usage
