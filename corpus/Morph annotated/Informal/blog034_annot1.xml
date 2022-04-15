@@ -111,16 +111,16 @@
 				<s modified="False" xml:id="s1">
 					<token join="no" xml:id="t1">
 						<form modified="False">Múlt</form>
-						<morph check="False">
-							<ana correct="True">
-								<lemma>múlt</lemma>
-								<detailed>múl[/V] + t[_PerfPtcp/Adj] + [Nom]</detailed>
-								<simple>[/Adj][Nom]</simple>
-							</ana>
+						<morph check="True">
 							<ana correct="False">
 								<lemma>múl</lemma>
 								<detailed>múl[/V] + t[Pst.NDef.3Sg]</detailed>
 								<simple>[/V][Pst.NDef.3Sg]</simple>
+							</ana>
+							<ana correct="True">
+								<lemma>múlt</lemma>
+								<detailed>múl[/V] + t[_PerfPtcp/Adj] + [Nom]</detailed>
+								<simple>[/Adj][Nom]</simple>
 							</ana>
 							<ana correct="False">
 								<lemma>múlik</lemma>
@@ -146,7 +146,7 @@
 					</token>
 					<token join="no" xml:id="t2">
 						<form modified="False">héten</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hét</lemma>
 								<detailed>hét[/N] + en[Supe]</detailed>
@@ -161,7 +161,7 @@
 					</token>
 					<token join="no" xml:id="t3">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
@@ -181,7 +181,7 @@
 					</token>
 					<token join="no" xml:id="t4">
 						<form modified="False">nagyon</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nagyon</lemma>
 								<detailed>nagyon[/Adv]</detailed>
@@ -206,13 +206,13 @@
 					</token>
 					<token join="no" xml:id="t6">
 						<form modified="False">utazási</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>utazási</lemma>
 								<detailed>utaz[/V] + ás[_Ger/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>utazási</lemma>
 								<detailed>utazik[/V]=utaz + ás[_Ger/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -236,7 +236,7 @@
 					</token>
 					<token join="no" xml:id="t7">
 						<form modified="False">élményben</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>élmény</lemma>
 								<detailed>élmény[/N] + ben[Ine]</detailed>
@@ -246,7 +246,7 @@
 					</token>
 					<token join="no" xml:id="t8">
 						<form modified="False">volt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>van</lemma>
 								<detailed>van[/V]=vol + t[Pst.NDef.3Sg]</detailed>
@@ -301,7 +301,7 @@
 					</token>
 					<token join="no" xml:id="t12">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -326,7 +326,7 @@
 					</token>
 					<token join="no" xml:id="t13">
 						<form modified="False">VPT</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>VPT</lemma>
 								<detailed/>
@@ -336,7 +336,7 @@
 					</token>
 					<token join="no" xml:id="t14">
 						<form modified="False">Caravan</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>Caravan</lemma>
 								<detailed/>
@@ -346,7 +346,7 @@
 					</token>
 					<token join="no" xml:id="t15">
 						<form modified="False">Hymer</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>Hymer</lemma>
 								<detailed/>
@@ -356,8 +356,8 @@
 					</token>
 					<token join="no" xml:id="t16">
 						<form modified="False">lakóautójával</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lakóautó</lemma>
 								<detailed>lakik[/V]=lak + ó[_ImpfPtcp/Adj] + autó[/N] + ja[Poss.3Sg]=já + val[Ins]</detailed>
 								<simple>[/N][Poss.3Sg][Ins]</simple>
@@ -367,7 +367,7 @@
 								<detailed>lakó[/N] + autó[/N] + ja[Poss.3Sg]=já + val[Ins]</detailed>
 								<simple>[/N][Poss.3Sg][Ins]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lakóautó</lemma>
 								<detailed>lakóautó[/N] + ja[Poss.3Sg]=já + val[Ins]</detailed>
 								<simple>[/N][Poss.3Sg][Ins]</simple>
@@ -376,8 +376,8 @@
 					</token>
 					<token join="no" xml:id="t17">
 						<form modified="False">jártuk</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>jár</lemma>
 								<detailed>jár[/V] + tuk[Pst.Def.1Pl]</detailed>
 								<simple>[/V][Pst.Def.1Pl]</simple>
@@ -392,11 +392,16 @@
 								<detailed>járta[/N]=járt + uk[Poss.3Pl] + [Nom]</detailed>
 								<simple>[/N][Poss.3Pl][Nom]</simple>
 							</ana>
+							<ana correct="True" modified="True">
+								<lemma>bejár</lemma>
+								<detailed>be[/Prev]+jár[/V]+tuk[Pst.Def.1Pl]</detailed>
+								<simple>[/V][Pst.Def.1Pl]</simple>
+							</ana>
 						</morph>
 					</token>
 					<token join="no" xml:id="t18">
 						<form modified="False">be</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>be</lemma>
 								<detailed>be[/Prev]</detailed>
@@ -456,7 +461,7 @@
 					</token>
 					<token join="no" xml:id="t24">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
@@ -476,7 +481,7 @@
 					</token>
 					<token join="right" xml:id="t25">
 						<form modified="False">részét</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>rész</lemma>
 								<detailed>rész[/N] + e[Poss.3Sg]=é + t[Acc]</detailed>
@@ -489,7 +494,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t26">
+					<token join="left" xml:id="t26">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">
@@ -505,7 +510,7 @@
 				<s modified="False" xml:id="s2">
 					<token join="no" xml:id="t27">
 						<form modified="False">Nagyon</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nagyon</lemma>
 								<detailed>nagyon[/Adv]</detailed>
@@ -535,7 +540,7 @@
 					</token>
 					<token join="right" xml:id="t29">
 						<form modified="False">voltunk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>van</lemma>
 								<detailed>van[/V]=vol + tunk[Pst.NDef.1Pl]</detailed>
@@ -580,7 +585,7 @@
 					</token>
 					<token join="no" xml:id="t31">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -600,7 +605,7 @@
 					</token>
 					<token join="no" xml:id="t32">
 						<form modified="False">vajon</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>vajon</lemma>
 								<detailed>vajon[/Adv]</detailed>
@@ -615,8 +620,8 @@
 					</token>
 					<token join="no" xml:id="t33">
 						<form modified="False">mennyire</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>mennyi</lemma>
 								<detailed>mennyi[/Num|Pro|Int] + re[Subl]</detailed>
 								<simple>[/Num|Pro|Int][Subl]</simple>
@@ -636,7 +641,7 @@
 								<detailed>menny[/N] + i[_Adjz_Quant/Adj] + re[Subl]</detailed>
 								<simple>[/Adj][Subl]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>mennyire</lemma>
 								<detailed>mennyire[/Adv|Pro|Int]</detailed>
 								<simple>[/Adv|Pro|Int]</simple>
@@ -650,8 +655,8 @@
 					</token>
 					<token join="no" xml:id="t34">
 						<form modified="False">kényelmes</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelem[/N]=kényelm + es[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -661,7 +666,7 @@
 								<detailed>kényelem[/N]=kényelm + es[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelmes[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -680,7 +685,7 @@
 					</token>
 					<token join="no" xml:id="t36">
 						<form modified="False">élhető</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>élhető</lemma>
 								<detailed>él[/V] + hető[_ModPtcp/Adj] + [Nom]</detailed>
@@ -690,7 +695,7 @@
 					</token>
 					<token join="no" xml:id="t37">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
@@ -710,8 +715,8 @@
 					</token>
 					<token join="no" xml:id="t38">
 						<form modified="False">lakóautó</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lakóautó</lemma>
 								<detailed>lakik[/V]=lak + ó[_ImpfPtcp/Adj] + autó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -721,7 +726,7 @@
 								<detailed>lakó[/N] + autó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lakóautó</lemma>
 								<detailed>lakóautó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -740,7 +745,7 @@
 					</token>
 					<token join="no" xml:id="t40">
 						<form modified="False">fő</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>fő</lemma>
 								<detailed>fő[/N] + [Nom]</detailed>
@@ -760,7 +765,7 @@
 					</token>
 					<token join="right" xml:id="t41">
 						<form modified="False">számára</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>számára</lemma>
 								<detailed>számára[/Post|(Poss)] + [Poss.3Sg]</detailed>
@@ -800,7 +805,7 @@
 					</token>
 					<token join="no" xml:id="t44">
 						<form modified="False">igyekeztünk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>igyekszik</lemma>
 								<detailed>igyekszik[/V]=igyekez + tünk[Pst.NDef.1Pl]</detailed>
@@ -835,7 +840,7 @@
 					</token>
 					<token join="no" xml:id="t47">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -860,7 +865,7 @@
 					</token>
 					<token join="right" xml:id="t48">
 						<form modified="False">tapasztalatainkat</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tapasztalat</lemma>
 								<detailed>tapasztalat[/N] + aink[Pl.Poss.1Pl] + at[Acc]</detailed>
@@ -880,7 +885,7 @@
 					</token>
 					<token join="no" xml:id="t50">
 						<form modified="False">ezzel</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ez</lemma>
 								<detailed>ez[/Det|Pro] + zel[Ins]</detailed>
@@ -915,7 +920,7 @@
 					</token>
 					<token join="no" xml:id="t53">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -940,7 +945,7 @@
 					</token>
 					<token join="right" xml:id="t54">
 						<form modified="False">döntésben</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>döntés</lemma>
 								<detailed>dönt[/V] + és[_Ger/N] + ben[Ine]</detailed>
@@ -965,7 +970,7 @@
 					</token>
 					<token join="no" xml:id="t56">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -985,8 +990,8 @@
 					</token>
 					<token join="right" xml:id="t57">
 						<form modified="False">érdemes</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>érdemes</lemma>
 								<detailed>érdem[/N] + es[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -996,7 +1001,7 @@
 								<detailed>érdem[/N] + es[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>érdemes</lemma>
 								<detailed>érdemes[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -1025,7 +1030,7 @@
 					</token>
 					<token join="no" xml:id="t60">
 						<form modified="False">belevágnotok</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>belevág</lemma>
 								<detailed>bele[/Prev] + vág[/V] + notok[Inf.2Pl]</detailed>
@@ -1035,7 +1040,7 @@
 					</token>
 					<token join="no" xml:id="t61">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
@@ -1065,7 +1070,7 @@
 					</token>
 					<token join="right" xml:id="t63">
 						<form modified="False">kalandba</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kaland</lemma>
 								<detailed>kaland[/N] + ba[Ill]</detailed>
@@ -1073,7 +1078,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t64">
+					<token join="left" xml:id="t64">
 						<form modified="False">!</form>
 						<morph check="True">
 							<ana correct="True">
@@ -1089,13 +1094,13 @@
 				<s modified="False" xml:id="s3">
 					<token join="no" xml:id="t65">
 						<form modified="False">Egy</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
 								<simple>[/Det|Art.NDef]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Num] + [Nom]</detailed>
 								<simple>[/Num][Nom]</simple>
@@ -1109,7 +1114,7 @@
 					</token>
 					<token join="right" xml:id="t66">
 						<form modified="False">biztos</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>biztos</lemma>
 								<detailed>biztos[/Adj] + [Nom]</detailed>
@@ -1134,7 +1139,7 @@
 					</token>
 					<token join="no" xml:id="t68">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -1159,7 +1164,7 @@
 					</token>
 					<token join="no" xml:id="t69">
 						<form modified="False">Hymerben</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>Hymer</lemma>
 								<detailed/>
@@ -1169,7 +1174,7 @@
 					</token>
 					<token join="no" xml:id="t70">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -1189,7 +1194,7 @@
 					</token>
 					<token join="no" xml:id="t71">
 						<form modified="False">találtunk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>talál</lemma>
 								<detailed>talál[/V] + tunk[Pst.NDef.1Pl]</detailed>
@@ -1224,7 +1229,7 @@
 					</token>
 					<token join="no" xml:id="t73">
 						<form modified="False">kihasználatlan</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kihasználatlan</lemma>
 								<detailed>ki[/Prev] + használ[/V] + atlan[_NegPtcp/Adj] + [Nom]</detailed>
@@ -1259,7 +1264,7 @@
 					</token>
 					<token join="right" xml:id="t75">
 						<form modified="False">sem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>sem</lemma>
 								<detailed>sem[/Adv]</detailed>
@@ -1284,7 +1289,7 @@
 					</token>
 					<token join="no" xml:id="t77">
 						<form modified="False">ennek</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ez</lemma>
 								<detailed>ez[/Det|Pro]=en + nek[Dat]</detailed>
@@ -1299,7 +1304,7 @@
 					</token>
 					<token join="no" xml:id="t78">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -1324,8 +1329,8 @@
 					</token>
 					<token join="no" xml:id="t79">
 						<form modified="False">lakóautónak</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lakóautó</lemma>
 								<detailed>lakik[/V]=lak + ó[_ImpfPtcp/Adj] + autó[/N] + nak[Dat]</detailed>
 								<simple>[/N][Dat]</simple>
@@ -1335,7 +1340,7 @@
 								<detailed>lakó[/N] + autó[/N] + nak[Dat]</detailed>
 								<simple>[/N][Dat]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lakóautó</lemma>
 								<detailed>lakóautó[/N] + nak[Dat]</detailed>
 								<simple>[/N][Dat]</simple>
@@ -1344,7 +1349,7 @@
 					</token>
 					<token join="no" xml:id="t80">
 						<form modified="False">minden</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>minden</lemma>
 								<detailed>minden[/N|Pro] + [Nom]</detailed>
@@ -1374,7 +1379,7 @@
 					</token>
 					<token join="no" xml:id="t82">
 						<form modified="False">nagyon</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nagyon</lemma>
 								<detailed>nagyon[/Adv]</detailed>
@@ -1389,7 +1394,7 @@
 					</token>
 					<token join="no" xml:id="t83">
 						<form modified="False">át</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>át</lemma>
 								<detailed>át[/Prev]</detailed>
@@ -1404,7 +1409,7 @@
 					</token>
 					<token join="no" xml:id="t84">
 						<form modified="False">lett</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>lesz</lemma>
 								<detailed>lesz[/V]=le + tt[Pst.NDef.3Sg]</detailed>
@@ -1425,9 +1430,14 @@
 					<token join="right" xml:id="t85">
 						<form modified="False">gondolva</form>
 						<morph check="True">
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>gondol</lemma>
 								<detailed>gondol[/V] + va[_AdvPtcp/Adv]</detailed>
+								<simple>[/V][_AdvPtcp/Adv]</simple>
+							</ana>
+							<ana correct="True" modified="True">
+								<lemma>átgondol</lemma>
+								<detailed>át[/Prev]+gondol[/V]+va[_AdvPtcp/Adv]</detailed>
 								<simple>[/V][_AdvPtcp/Adv]</simple>
 							</ana>
 						</morph>
@@ -1444,8 +1454,8 @@
 					</token>
 					<token join="right" xml:id="t87">
 						<form modified="False">érződik</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>érződik</lemma>
 								<detailed>érez[/V]=érz + ődik[_MedPass/V]=őd + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -1470,7 +1480,7 @@
 								<detailed>érződik[/V]=érződ + ik[Prs.Def.3Pl]</detailed>
 								<simple>[/V][Prs.Def.3Pl]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>érződik</lemma>
 								<detailed>érződik[/V]=érződ + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -1489,7 +1499,7 @@
 					</token>
 					<token join="no" xml:id="t89">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -1509,7 +1519,7 @@
 					</token>
 					<token join="no" xml:id="t90">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -1544,7 +1554,7 @@
 					</token>
 					<token join="no" xml:id="t92">
 						<form modified="False">kialakítás</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kialakítás</lemma>
 								<detailed>ki[/Prev] + alakít[/V] + ás[_Ger/N] + [Nom]</detailed>
@@ -1574,7 +1584,7 @@
 					</token>
 					<token join="right" xml:id="t95">
 						<form modified="False">kreatív</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kreatív</lemma>
 								<detailed>kreatív[/Adj] + [Nom]</detailed>
@@ -1601,7 +1611,7 @@
 				<s modified="False" xml:id="s4">
 					<token join="no" xml:id="t97">
 						<form modified="False">Az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -1641,7 +1651,7 @@
 					</token>
 					<token join="no" xml:id="t100">
 						<form modified="False">akkumulátorral</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>akkumulátor</lemma>
 								<detailed>akkumulátor[/N] + ral[Ins]</detailed>
@@ -1691,7 +1701,7 @@
 					</token>
 					<token join="no" xml:id="t105">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -1716,7 +1726,7 @@
 					</token>
 					<token join="no" xml:id="t106">
 						<form modified="False">töltéséről</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>töltés</lemma>
 								<detailed>tölt[/V] + és[_Ger/N] + e[Poss.3Sg]=é + ről[Del]</detailed>
@@ -1741,7 +1751,7 @@
 					</token>
 					<token join="no" xml:id="t107">
 						<form modified="False">napelem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>napelem</lemma>
 								<detailed>nap[/N] + elem[/N] + [Nom]</detailed>
@@ -1766,8 +1776,8 @@
 					</token>
 					<token join="right" xml:id="t109">
 						<form modified="False">gondoskodik</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>gondoskodik</lemma>
 								<detailed>gond[/N] + os[_Adjz:s/Adj] + kodik[_Vbz:kOd/V]=kod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -1782,7 +1792,7 @@
 								<detailed>gond[/N] + oskodik[_Vbz:kOd/V]=oskod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>gondoskodik</lemma>
 								<detailed>gondoskodik[/V]=gondoskod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -1803,7 +1813,7 @@
 				<s modified="False" xml:id="s5">
 					<token join="no" xml:id="t111">
 						<form modified="False">A</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -1833,7 +1843,7 @@
 					</token>
 					<token join="no" xml:id="t112">
 						<form modified="False">víztartály</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>víztartály</lemma>
 								<detailed>víz[/N] + tartály[/N] + [Nom]</detailed>
@@ -1868,7 +1878,7 @@
 					</token>
 					<token join="no" xml:id="t115">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -1888,7 +1898,7 @@
 					</token>
 					<token join="no" xml:id="t116">
 						<form modified="False">spórolva</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>spórol</lemma>
 								<detailed>spórol[/V] + va[_AdvPtcp/Adv]</detailed>
@@ -1898,7 +1908,7 @@
 					</token>
 					<token join="no" xml:id="t117">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -1993,7 +2003,7 @@
 					</token>
 					<token join="no" xml:id="t125">
 						<form modified="False">volt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>van</lemma>
 								<detailed>van[/V]=vol + t[Pst.NDef.3Sg]</detailed>
@@ -2018,7 +2028,7 @@
 					</token>
 					<token join="no" xml:id="t126">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -2053,13 +2063,13 @@
 					</token>
 					<token join="no" xml:id="t128">
 						<form modified="False">mosogatásra</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>mosogatás</lemma>
 								<detailed>mos[/V] + ogat[_Freq/V] + ás[_Ger/N] + ra[Subl]</detailed>
 								<simple>[/N][Subl]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>mosogatás</lemma>
 								<detailed>mosogat[/V] + ás[_Ger/N] + ra[Subl]</detailed>
 								<simple>[/N][Subl]</simple>
@@ -2083,7 +2093,7 @@
 					</token>
 					<token join="no" xml:id="t130">
 						<form modified="False">tusolásra</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tusolás</lemma>
 								<detailed>tusol[/V] + ás[_Ger/N] + ra[Subl]</detailed>
@@ -2101,7 +2111,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t132">
+					<token join="left" xml:id="t132">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">
@@ -2117,7 +2127,7 @@
 				<s modified="False" xml:id="s6">
 					<token join="no" xml:id="t133">
 						<form modified="False">A</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -2147,7 +2157,7 @@
 					</token>
 					<token join="no" xml:id="t134">
 						<form modified="False">meleg</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>meleg</lemma>
 								<detailed>meleg[/Adj] + [Nom]</detailed>
@@ -2182,7 +2192,7 @@
 					</token>
 					<token join="no" xml:id="t137">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -2207,8 +2217,8 @@
 					</token>
 					<token join="no" xml:id="t138">
 						<form modified="False">lakóautó</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lakóautó</lemma>
 								<detailed>lakik[/V]=lak + ó[_ImpfPtcp/Adj] + autó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -2218,7 +2228,7 @@
 								<detailed>lakó[/N] + autó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lakóautó</lemma>
 								<detailed>lakóautó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -2227,8 +2237,8 @@
 					</token>
 					<token join="no" xml:id="t139">
 						<form modified="False">állófűtéséről</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>állófűtés</lemma>
 								<detailed>ál[/Adj] + ló[/N] + fűtés[/N] + e[Poss.3Sg]=é + ről[Del]</detailed>
 								<simple>[/N][Poss.3Sg][Del]</simple>
@@ -2238,7 +2248,7 @@
 								<detailed>ál[/Adj] + ló[/N] + fűtés[/N] + é[AnP] + ről[Del]</detailed>
 								<simple>[/N][AnP][Del]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>állófűtés</lemma>
 								<detailed>áll[/V] + ó[_ImpfPtcp/Adj] + fűt[/V] + és[_Ger/N] + e[Poss.3Sg]=é + ről[Del]</detailed>
 								<simple>[/N][Poss.3Sg][Del]</simple>
@@ -2292,7 +2302,7 @@
 					</token>
 					<token join="no" xml:id="t141">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -2317,8 +2327,8 @@
 					</token>
 					<token join="no" xml:id="t142">
 						<form modified="False">fagyasztós</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>fagyasztós</lemma>
 								<detailed>fagyaszt[/V] + ó[_ImpfPtcp/Adj] + s[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -2333,7 +2343,7 @@
 								<detailed>fagyaszt[/V] + ós[_Adjz_Hab/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>fagyasztós</lemma>
 								<detailed>fagyasztó[/N] + s[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -2347,8 +2357,8 @@
 					</token>
 					<token join="no" xml:id="t143">
 						<form modified="False">hűtő</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>hűtő</lemma>
 								<detailed>hű[/Adj] + tő[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -2358,7 +2368,7 @@
 								<detailed>hűt[/V] + ő[_ImpfPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>hűtő</lemma>
 								<detailed>hűtő[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -2367,7 +2377,7 @@
 					</token>
 					<token join="no" xml:id="t144">
 						<form modified="False">működéséről</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>működés</lemma>
 								<detailed>működik[/V]=működ + és[_Ger/N] + e[Poss.3Sg]=é + ről[Del]</detailed>
@@ -2402,7 +2412,7 @@
 					</token>
 					<token join="no" xml:id="t146">
 						<form modified="False">gázpalack</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>gázpalack</lemma>
 								<detailed>gáz[/N] + palack[/N] + [Nom]</detailed>
@@ -2417,8 +2427,8 @@
 					</token>
 					<token join="right" xml:id="t147">
 						<form modified="False">gondoskodik</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>gondoskodik</lemma>
 								<detailed>gond[/N] + os[_Adjz:s/Adj] + kodik[_Vbz:kOd/V]=kod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -2433,7 +2443,7 @@
 								<detailed>gond[/N] + oskodik[_Vbz:kOd/V]=oskod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>gondoskodik</lemma>
 								<detailed>gondoskodik[/V]=gondoskod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -2454,7 +2464,7 @@
 				<s modified="False" xml:id="s7">
 					<token join="no" xml:id="t149">
 						<form modified="False">Arra</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Pro]=ar + ra[Subl]</detailed>
@@ -2484,7 +2494,7 @@
 					</token>
 					<token join="no" xml:id="t151">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -2504,7 +2514,7 @@
 					</token>
 					<token join="right" xml:id="t152">
 						<form modified="False">számítottunk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>számít</lemma>
 								<detailed>számít[/V] + ottunk[Pst.NDef.1Pl]</detailed>
@@ -2534,7 +2544,7 @@
 					</token>
 					<token join="no" xml:id="t154">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -2554,7 +2564,7 @@
 					</token>
 					<token join="no" xml:id="t155">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -2584,7 +2594,7 @@
 					</token>
 					<token join="no" xml:id="t157">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -2604,7 +2614,7 @@
 					</token>
 					<token join="no" xml:id="t158">
 						<form modified="False">éjszakai</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>éjszakai</lemma>
 								<detailed>éjszaka[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
@@ -2629,7 +2639,7 @@
 					</token>
 					<token join="no" xml:id="t160">
 						<form modified="False">°C</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>°C</lemma>
 								<detailed>°C[/N|Unit|Abbr] + [Nom]</detailed>
@@ -2659,13 +2669,13 @@
 					</token>
 					<token join="no" xml:id="t163">
 						<form modified="False">hőmérsékletnél</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>hőmérséklet</lemma>
 								<detailed>hő[/N] + mérséklet[/N] + nél[Ade]</detailed>
 								<simple>[/N][Ade]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>hőmérséklet</lemma>
 								<detailed>hőmérséklet[/N] + nél[Ade]</detailed>
 								<simple>[/N][Ade]</simple>
@@ -2684,7 +2694,7 @@
 					</token>
 					<token join="no" xml:id="t165">
 						<form modified="False">remekül</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>remek</lemma>
 								<detailed>remek[/Adj] + ül[_Manner/Adv]</detailed>
@@ -2709,7 +2719,7 @@
 					</token>
 					<token join="no" xml:id="t167">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -2734,7 +2744,7 @@
 					</token>
 					<token join="no" xml:id="t168">
 						<form modified="False">beállított</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>beállított</lemma>
 								<detailed>be[/Prev] + állít[/V] + ott[_PerfPtcp/Adj] + [Nom]</detailed>
@@ -2749,13 +2759,13 @@
 					</token>
 					<token join="right" xml:id="t169">
 						<form modified="False">hőmérsékletet</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>hőmérséklet</lemma>
 								<detailed>hő[/N] + mérséklet[/N] + et[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>hőmérséklet</lemma>
 								<detailed>hőmérséklet[/N] + et[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
@@ -2776,7 +2786,7 @@
 				<s modified="False" xml:id="s8">
 					<token join="no" xml:id="t171">
 						<form modified="False">A</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -2806,13 +2816,13 @@
 					</token>
 					<token join="no" xml:id="t172">
 						<form modified="False">mosogatás</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>mosogatás</lemma>
 								<detailed>mos[/V] + ogat[_Freq/V] + ás[_Ger/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>mosogatás</lemma>
 								<detailed>mosogat[/V] + ás[_Ger/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -2836,7 +2846,7 @@
 					</token>
 					<token join="no" xml:id="t174">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -2861,7 +2871,7 @@
 					</token>
 					<token join="no" xml:id="t175">
 						<form modified="False">fürdés</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>fürdés</lemma>
 								<detailed>fürdik[/V]=fürd + és[_Ger/N] + [Nom]</detailed>
@@ -2876,7 +2886,7 @@
 					</token>
 					<token join="no" xml:id="t176">
 						<form modified="False">szennyvize</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>szennyvíz</lemma>
 								<detailed>szenny[/N] + víz[/N]=viz + e[Poss.3Sg] + [Nom]</detailed>
@@ -2891,7 +2901,7 @@
 					</token>
 					<token join="no" xml:id="t177">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Num] + [Nom]</detailed>
@@ -2911,7 +2921,7 @@
 					</token>
 					<token join="no" xml:id="t178">
 						<form modified="False">tartályba</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tartály</lemma>
 								<detailed>tartály[/N] + ba[Ill]</detailed>
@@ -2921,7 +2931,7 @@
 					</token>
 					<token join="right" xml:id="t179">
 						<form modified="False">gyűlik</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>gyűlik</lemma>
 								<detailed>gyűlik[/V]=gyűl + ik[Prs.NDef.3Sg]</detailed>
@@ -2946,7 +2956,7 @@
 					</token>
 					<token join="no" xml:id="t181">
 						<form modified="False">ami</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ami</lemma>
 								<detailed>ami[/N|Pro|Rel] + [Nom]</detailed>
@@ -2961,7 +2971,7 @@
 					</token>
 					<token join="right" xml:id="t182">
 						<form modified="False">fedetlen</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>fedetlen</lemma>
 								<detailed>fed[/V] + etlen[_NegPtcp/Adj] + [Nom]</detailed>
@@ -2996,7 +3006,7 @@
 					</token>
 					<token join="no" xml:id="t184">
 						<form modified="False">rácsos</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>rácsos</lemma>
 								<detailed>rács[/N] + os[_Adjz:s/Adj] + [Nom]</detailed>
@@ -3031,7 +3041,7 @@
 					</token>
 					<token join="no" xml:id="t186">
 						<form modified="False">fölé</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>fölé</lemma>
 								<detailed>fölé[/Post]</detailed>
@@ -3061,7 +3071,7 @@
 					</token>
 					<token join="no" xml:id="t188">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Num] + [Nom]</detailed>
@@ -3081,7 +3091,7 @@
 					</token>
 					<token join="no" xml:id="t189">
 						<form modified="False">gombnyomással</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>gombnyomás</lemma>
 								<detailed>gomb[/N] + nyom[/V] + ás[_Ger/N] + sal[Ins]</detailed>
@@ -3101,7 +3111,7 @@
 					</token>
 					<token join="right" xml:id="t190">
 						<form modified="False">üríthető</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>üríthető</lemma>
 								<detailed>ürít[/V] + hető[_ModPtcp/Adj] + [Nom]</detailed>
@@ -3123,7 +3133,7 @@
 				<s modified="False" xml:id="s9">
 					<token join="no" xml:id="t192">
 						<form modified="False">A</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -3153,8 +3163,8 @@
 					</token>
 					<token join="no" xml:id="t193">
 						<form modified="False">pontos</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>pontos</lemma>
 								<detailed>pont[/N] + os[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -3164,7 +3174,7 @@
 								<detailed>pont[/N] + os[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>pontos</lemma>
 								<detailed>pontos[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -3173,7 +3183,7 @@
 					</token>
 					<token join="no" xml:id="t194">
 						<form modified="False">célzásról</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>célzás</lemma>
 								<detailed>céloz[/V]=célz + ás[_Ger/N] + ról[Del]</detailed>
@@ -3188,7 +3198,7 @@
 					</token>
 					<token join="no" xml:id="t195">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -3218,7 +3228,7 @@
 					</token>
 					<token join="right" xml:id="t197">
 						<form modified="False">útitársad</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>útitárs</lemma>
 								<detailed>útitárs[/N] + ad[Poss.2Sg] + [Nom]</detailed>
@@ -3238,7 +3248,7 @@
 					</token>
 					<token join="no" xml:id="t199">
 						<form modified="False">vagy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>vagy</lemma>
 								<detailed>vagy[/Cnj]</detailed>
@@ -3258,7 +3268,7 @@
 					</token>
 					<token join="no" xml:id="t200">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
@@ -3278,7 +3288,7 @@
 					</token>
 					<token join="no" xml:id="t201">
 						<form modified="False">fedélzeti</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>fedélzeti</lemma>
 								<detailed>fedélzet[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
@@ -3298,8 +3308,8 @@
 					</token>
 					<token join="right" xml:id="t203">
 						<form modified="False">gondoskodik</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>gondoskodik</lemma>
 								<detailed>gond[/N] + os[_Adjz:s/Adj] + kodik[_Vbz:kOd/V]=kod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -3314,14 +3324,14 @@
 								<detailed>gond[/N] + oskodik[_Vbz:kOd/V]=oskod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>gondoskodik</lemma>
 								<detailed>gondoskodik[/V]=gondoskod + ik[Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t204">
+					<token join="left" xml:id="t204">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">
@@ -3335,9 +3345,9 @@
 			</p>
 			<p xml:id="p5">
 				<s modified="False" xml:id="s10">
-					<token join="no" xml:id="t205">
+					<token join="right" xml:id="t205">
 						<form modified="False">Tipp</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tipp</lemma>
 								<detailed>tipp[/N] + [Nom]</detailed>
@@ -3357,7 +3367,7 @@
 					</token>
 					<token join="no" xml:id="t207">
 						<form modified="False">Járó</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>járó</lemma>
 								<detailed>jár[/V] + ó[_ImpfPtcp/Adj] + [Nom]</detailed>
@@ -3372,7 +3382,7 @@
 					</token>
 					<token join="no" xml:id="t208">
 						<form modified="False">motorral</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>motor</lemma>
 								<detailed>motor[/N] + ral[Ins]</detailed>
@@ -3382,7 +3392,7 @@
 					</token>
 					<token join="no" xml:id="t209">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -3402,7 +3412,7 @@
 					</token>
 					<token join="no" xml:id="t210">
 						<form modified="False">működik</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>működik</lemma>
 								<detailed>működik[/V]=működ + ik[Prs.NDef.3Sg]</detailed>
@@ -3417,7 +3427,7 @@
 					</token>
 					<token join="no" xml:id="t211">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -3442,7 +3452,7 @@
 					</token>
 					<token join="right" xml:id="t212">
 						<form modified="False">leeresztés</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>leeresztés</lemma>
 								<detailed>le[/Prev] + ereszt[/V] + és[_Ger/N] + [Nom]</detailed>
@@ -3472,7 +3482,7 @@
 					</token>
 					<token join="right" xml:id="t215">
 						<form modified="False">azért</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Pro] + ért[Cau]</detailed>
@@ -3507,7 +3517,7 @@
 					</token>
 					<token join="no" xml:id="t217">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -3527,7 +3537,7 @@
 					</token>
 					<token join="no" xml:id="t218">
 						<form modified="False">ne</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ne</lemma>
 								<detailed>ne[/Adv]</detailed>
@@ -3542,7 +3552,7 @@
 					</token>
 					<token join="no" xml:id="t219">
 						<form modified="False">üríthesd</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ürít</lemma>
 								<detailed>ürít[/V] + het[_Mod/V]=hes + d[Sbjv.Def.2Sg]</detailed>
@@ -3552,7 +3562,7 @@
 					</token>
 					<token join="no" xml:id="t220">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -3587,7 +3597,7 @@
 					</token>
 					<token join="no" xml:id="t222">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -3607,7 +3617,7 @@
 					</token>
 					<token join="no" xml:id="t223">
 						<form modified="False">tetsző</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tetsző</lemma>
 								<detailed>tetszik[/V]=tetsz + ő[_ImpfPtcp/Adj] + [Nom]</detailed>
@@ -3632,7 +3642,7 @@
 					</token>
 					<token join="no" xml:id="t225">
 						<form modified="False">vagy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>vagy</lemma>
 								<detailed>vagy[/Cnj]</detailed>
@@ -3662,7 +3672,7 @@
 					</token>
 					<token join="no" xml:id="t227">
 						<form modified="False">elé</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>elé</lemma>
 								<detailed>elé[/Post]</detailed>
@@ -3677,7 +3687,7 @@
 					</token>
 					<token join="no" xml:id="t228">
 						<form modified="False">menet</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>menet</lemma>
 								<detailed>menet[/N] + [Nom]</detailed>
@@ -3697,7 +3707,7 @@
 					</token>
 					<token join="no" xml:id="t229">
 						<form modified="False">közben</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>közben</lemma>
 								<detailed>közben[/Post]</detailed>
@@ -3717,7 +3727,7 @@
 					</token>
 					<token join="no" xml:id="t230">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -3742,7 +3752,7 @@
 					</token>
 					<token join="right" xml:id="t231">
 						<form modified="False">szennyvizet</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>szennyvíz</lemma>
 								<detailed>szenny[/N] + víz[/N]=viz + et[Acc]</detailed>
@@ -3755,7 +3765,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t232">
+					<token join="left" xml:id="t232">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">
@@ -3771,7 +3781,7 @@
 				<s modified="False" xml:id="s11">
 					<token join="no" xml:id="t233">
 						<form modified="False">A</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -3811,7 +3821,7 @@
 					</token>
 					<token join="no" xml:id="t235">
 						<form modified="False">tartályába</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tartály</lemma>
 								<detailed>tartály[/N] + a[Poss.3Sg]=á + ba[Ill]</detailed>
@@ -3821,7 +3831,7 @@
 					</token>
 					<token join="no" xml:id="t236">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
@@ -3861,7 +3871,7 @@
 					</token>
 					<token join="right" xml:id="t239">
 						<form modified="False">dobni</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>dob</lemma>
 								<detailed>dob[/V] + ni[Inf]</detailed>
@@ -3881,7 +3891,7 @@
 					</token>
 					<token join="no" xml:id="t241">
 						<form modified="False">ami</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ami</lemma>
 								<detailed>ami[/N|Pro|Rel] + [Nom]</detailed>
@@ -3896,8 +3906,8 @@
 					</token>
 					<token join="no" xml:id="t242">
 						<form modified="False">fertőtlenít</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>fertőtlenít</lemma>
 								<detailed>Fertő[/N]=fertő + tlen[_Abe/Adj] + ít[_AdjVbz_Tr/V] + [Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -3907,7 +3917,7 @@
 								<detailed>fertő[/N] + tlen[_Abe/Adj] + ít[_AdjVbz_Tr/V] + [Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>fertőtlenít</lemma>
 								<detailed>fertőtlenít[/V] + [Prs.NDef.3Sg]</detailed>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
@@ -3926,7 +3936,7 @@
 					</token>
 					<token join="no" xml:id="t244">
 						<form modified="False">megköti</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>megköt</lemma>
 								<detailed>meg[/Prev] + köt[/V] + i[Prs.Def.3Sg]</detailed>
@@ -3936,7 +3946,7 @@
 					</token>
 					<token join="no" xml:id="t245">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -3961,7 +3971,7 @@
 					</token>
 					<token join="right" xml:id="t246">
 						<form modified="False">szagokat</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>szag</lemma>
 								<detailed>szag[/N] + ok[Pl] + at[Acc]</detailed>
@@ -3983,7 +3993,7 @@
 				<s modified="False" xml:id="s12">
 					<token join="no" xml:id="t248">
 						<form modified="False">Egyébként</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egyébként</lemma>
 								<detailed>egyébként[/Adv]</detailed>
@@ -4003,7 +4013,7 @@
 					</token>
 					<token join="no" xml:id="t249">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -4038,7 +4048,7 @@
 					</token>
 					<token join="no" xml:id="t251">
 						<form modified="False">tartálya</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tartály</lemma>
 								<detailed>tartály[/N] + a[Poss.3Sg] + [Nom]</detailed>
@@ -4068,7 +4078,7 @@
 					</token>
 					<token join="right" xml:id="t254">
 						<form modified="False">üríthető</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>üríthető</lemma>
 								<detailed>ürít[/V] + hető[_ModPtcp/Adj] + [Nom]</detailed>
@@ -4088,7 +4098,7 @@
 					</token>
 					<token join="right" xml:id="t256">
 						<form modified="False">kempingekben</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kemping</lemma>
 								<detailed>kemping[/N] + ek[Pl] + ben[Ine]</detailed>
@@ -4108,7 +4118,7 @@
 					</token>
 					<token join="no" xml:id="t258">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -4128,7 +4138,7 @@
 					</token>
 					<token join="no" xml:id="t259">
 						<form modified="False">arra</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Pro]=ar + ra[Subl]</detailed>
@@ -4148,7 +4158,7 @@
 					</token>
 					<token join="no" xml:id="t260">
 						<form modified="False">kijelölt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kijelölt</lemma>
 								<detailed>ki[/Prev] + jelöl[/V] + t[_PerfPtcp/Adj] + [Nom]</detailed>
@@ -4173,7 +4183,7 @@
 					</token>
 					<token join="no" xml:id="t262">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -4208,7 +4218,7 @@
 					</token>
 					<token join="no" xml:id="t264">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -4248,7 +4258,7 @@
 					</token>
 					<token join="no" xml:id="t267">
 						<form modified="False">kiemelhető</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kiemelhető</lemma>
 								<detailed>ki[/Prev] + emel[/V] + hető[_ModPtcp/Adj] + [Nom]</detailed>
@@ -4268,7 +4278,7 @@
 					</token>
 					<token join="right" xml:id="t269">
 						<form modified="False">kiönthető</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kiönthető</lemma>
 								<detailed>ki[/Prev] + önt[/V] + hető[_ModPtcp/Adj] + [Nom]</detailed>
@@ -4300,7 +4310,7 @@
 					</token>
 					<token join="no" xml:id="t272">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Pro] + [Nom]</detailed>
@@ -4320,7 +4330,7 @@
 					</token>
 					<token join="no" xml:id="t273">
 						<form modified="False">tetszett</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tetszik</lemma>
 								<detailed>tetszik[/V]=tetsz + ett[Pst.NDef.3Sg]</detailed>
@@ -4335,7 +4345,7 @@
 					</token>
 					<token join="no" xml:id="t274">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -4360,7 +4370,7 @@
 					</token>
 					<token join="right" xml:id="t275">
 						<form modified="False">legjobban</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>jobban</lemma>
 								<detailed>leg[/Supl] + jobban[/Adv]</detailed>
@@ -4390,7 +4400,7 @@
 					</token>
 					<token join="no" xml:id="t277">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -4410,7 +4420,7 @@
 					</token>
 					<token join="no" xml:id="t278">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -4435,8 +4445,8 @@
 					</token>
 					<token join="no" xml:id="t279">
 						<form modified="False">lakóautó</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lakóautó</lemma>
 								<detailed>lakik[/V]=lak + ó[_ImpfPtcp/Adj] + autó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -4446,7 +4456,7 @@
 								<detailed>lakó[/N] + autó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lakóautó</lemma>
 								<detailed>lakóautó[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -4475,7 +4485,7 @@
 					</token>
 					<token join="no" xml:id="t282">
 						<form modified="False">kijelzőn</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kijelző</lemma>
 								<detailed>kijelző[/N] + n[Supe]</detailed>
@@ -4495,7 +4505,7 @@
 					</token>
 					<token join="no" xml:id="t283">
 						<form modified="False">minden</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>minden</lemma>
 								<detailed>minden[/N|Pro] + [Nom]</detailed>
@@ -4525,7 +4535,7 @@
 					</token>
 					<token join="no" xml:id="t285">
 						<form modified="False">–</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>–</lemma>
 								<detailed>–[Hyph:Dash]</detailed>
@@ -4535,7 +4545,7 @@
 					</token>
 					<token join="no" xml:id="t286">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -4580,7 +4590,7 @@
 					</token>
 					<token join="no" xml:id="t289">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -4605,7 +4615,7 @@
 					</token>
 					<token join="right" xml:id="t290">
 						<form modified="False">szennyvíz</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>szennyvíz</lemma>
 								<detailed>szenny[/N] + víz[/N] + [Nom]</detailed>
@@ -4630,7 +4640,7 @@
 					</token>
 					<token join="no" xml:id="t292">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -4655,7 +4665,7 @@
 					</token>
 					<token join="right" xml:id="t293">
 						<form modified="False">gáz</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>gáz</lemma>
 								<detailed>gáz[/N] + [Nom]</detailed>
@@ -4675,7 +4685,7 @@
 					</token>
 					<token join="no" xml:id="t295">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -4695,17 +4705,22 @@
 					</token>
 					<token join="no" xml:id="t296">
 						<form modified="False">akksik</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>akksik</lemma>
 								<detailed/>
 								<simple>[/V][Prs.NDef.3Sg]</simple>
+							</ana>
+							<ana correct="True" modified="True">
+								<lemma>akksi</lemma>
+								<detailed>akksi[/N]+k[Pl]+[Nom]</detailed>
+								<simple>[/N][Pl][Nom]</simple>
 							</ana>
 						</morph>
 					</token>
 					<token join="no" xml:id="t297">
 						<form modified="False">–</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>–</lemma>
 								<detailed>–[Hyph:Dash]</detailed>
@@ -4715,8 +4730,8 @@
 					</token>
 					<token join="right" xml:id="t298">
 						<form modified="False">ellenőrizhető</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>ellenőrizhető</lemma>
 								<detailed>el[/Prev] + len[/N] + őr[/N] + i[_Adjz:i/Adj] + z[_NVbz_Tr:z/V] + hető[_ModPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -4731,7 +4746,7 @@
 								<detailed>ellenőr[/N] + i[_Adjz:i/Adj] + z[_NVbz_Tr:z/V] + hető[_ModPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>ellenőrizhető</lemma>
 								<detailed>ellenőriz[/V] + hető[_ModPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -4750,7 +4765,7 @@
 					</token>
 					<token join="no" xml:id="t300">
 						<form modified="False">így</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>így</lemma>
 								<detailed>így[/Cnj]</detailed>
@@ -4765,13 +4780,13 @@
 					</token>
 					<token join="no" xml:id="t301">
 						<form modified="False">pontosan</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>pontos</lemma>
 								<detailed>pont[/N] + os[_Adjz:s/Adj] + an[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>pontos</lemma>
 								<detailed>pontos[/Adj] + an[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
@@ -4790,7 +4805,7 @@
 					</token>
 					<token join="right" xml:id="t303">
 						<form modified="False">kalkulálni</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kalkulál</lemma>
 								<detailed>kalkulál[/V] + ni[Inf]</detailed>
@@ -4810,7 +4825,7 @@
 					</token>
 					<token join="no" xml:id="t305">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -4830,7 +4845,7 @@
 					</token>
 					<token join="no" xml:id="t306">
 						<form modified="False">mikor</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>mikor</lemma>
 								<detailed>mikor[/Adv|Pro|Int]</detailed>
@@ -4860,8 +4875,8 @@
 					</token>
 					<token join="no" xml:id="t307">
 						<form modified="False">szükséges</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>szükséges</lemma>
 								<detailed>szükség[/N] + es[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -4871,7 +4886,7 @@
 								<detailed>szükség[/N] + es[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>szükséges</lemma>
 								<detailed>szükséges[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -4890,7 +4905,7 @@
 					</token>
 					<token join="right" xml:id="t309">
 						<form modified="False">menned</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>megy</lemma>
 								<detailed>megy[/V]=men + ned[Inf.2Sg]</detailed>
@@ -4910,7 +4925,7 @@
 					</token>
 					<token join="no" xml:id="t311">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -4930,7 +4945,7 @@
 					</token>
 					<token join="no" xml:id="t312">
 						<form modified="False">feltöltsd/ürítsd</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>feltölt/ürít</lemma>
 								<detailed>fel[/Prev] + tölt[/V] + sd[Sbjv.Def.2Sg] + /[Hyph:Slash] + ürít[/V] + sd[Sbjv.Def.2Sg]</detailed>
@@ -4940,7 +4955,7 @@
 					</token>
 					<token join="right" xml:id="t313">
 						<form modified="False">azokat</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Pro] + ok[Pl] + at[Acc]</detailed>
@@ -4965,7 +4980,7 @@
 					</token>
 					<token join="no" xml:id="t315">
 						<form modified="False">ha</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ha</lemma>
 								<detailed>ha[/Cnj]</detailed>
@@ -4985,8 +5000,8 @@
 					</token>
 					<token join="no" xml:id="t316">
 						<form modified="False">rendszeresen</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>rendszeres</lemma>
 								<detailed>rend[/N] + szer[/N] + es[_Adjz:s/Adj] + en[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
@@ -5021,7 +5036,7 @@
 								<detailed>rendszeres[/Adj] + en[Supe]</detailed>
 								<simple>[/Adj][Supe]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>rendszeres</lemma>
 								<detailed>rendszeres[/Adj] + en[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
@@ -5030,7 +5045,7 @@
 					</token>
 					<token join="right" xml:id="t317">
 						<form modified="False">ellenőrzöd</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ellenőriz</lemma>
 								<detailed>ellenőriz[/V]=ellenőrz + öd[Prs.Def.2Sg]</detailed>
@@ -5050,7 +5065,7 @@
 					</token>
 					<token join="no" xml:id="t319">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -5070,7 +5085,7 @@
 					</token>
 					<token join="no" xml:id="t320">
 						<form modified="False">érhet</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ér</lemma>
 								<detailed>ér[/V] + het[_Mod/V] + [Prs.NDef.3Sg]</detailed>
@@ -5085,8 +5100,8 @@
 					</token>
 					<token join="no" xml:id="t321">
 						<form modified="False">váratlanul</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>váratlan</lemma>
 								<detailed>vár[/N] + atlan[_Abe/Adj] + ul[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
@@ -5096,7 +5111,7 @@
 								<detailed>vár[/V] + atlan[_NegPtcp/Adj] + ul[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>váratlan</lemma>
 								<detailed>váratlan[/Adj] + ul[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
@@ -5105,7 +5120,7 @@
 					</token>
 					<token join="right" xml:id="t322">
 						<form modified="False">semmi</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>semmi</lemma>
 								<detailed>semmi[/N|Pro] + [Nom]</detailed>
@@ -5137,8 +5152,8 @@
 				<s modified="False" xml:id="s14">
 					<token join="no" xml:id="t324">
 						<form modified="False">Mi</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>ami</lemma>
 								<detailed>ami[/Det|Pro|Rel]=mi</detailed>
 								<simple>[/Det|Pro|Rel]</simple>
@@ -5153,7 +5168,7 @@
 								<detailed>mi[/Adj|Pro|Int] + [Nom]</detailed>
 								<simple>[/Adj|Pro|Int][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>mi</lemma>
 								<detailed>mi[/N|Pro] + [1Pl] + [Nom]</detailed>
 								<simple>[/N|Pro][1Pl][Nom]</simple>
@@ -5167,13 +5182,13 @@
 					</token>
 					<token join="no" xml:id="t325">
 						<form modified="False">gyakorlatilag</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>gyakorlatilag</lemma>
 								<detailed>gyakorlat[/N] + ilag[_NAdvz:ilAg/Adv]</detailed>
 								<simple>[/Adv]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>gyakorlatilag</lemma>
 								<detailed>gyakorlatilag[/Adv]</detailed>
 								<simple>[/Adv]</simple>
@@ -5182,7 +5197,7 @@
 					</token>
 					<token join="no" xml:id="t326">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -5212,7 +5227,7 @@
 					</token>
 					<token join="no" xml:id="t328">
 						<form modified="False">nap</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nap</lemma>
 								<detailed>nap[/N] + [Nom]</detailed>
@@ -5237,7 +5252,7 @@
 					</token>
 					<token join="no" xml:id="t330">
 						<form modified="False">egyszer</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Num] + szer[_Mlt-Iter/Adv]</detailed>
@@ -5252,7 +5267,7 @@
 					</token>
 					<token join="no" xml:id="t331">
 						<form modified="False">sem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>sem</lemma>
 								<detailed>sem[/Adv]</detailed>
@@ -5267,7 +5282,7 @@
 					</token>
 					<token join="no" xml:id="t332">
 						<form modified="False">mentünk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>megy</lemma>
 								<detailed>megy[/V]=men + tünk[Pst.NDef.1Pl]</detailed>
@@ -5332,7 +5347,7 @@
 					</token>
 					<token join="no" xml:id="t337">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -5362,7 +5377,7 @@
 					</token>
 					<token join="no" xml:id="t339">
 						<form modified="False">ennek</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ez</lemma>
 								<detailed>ez[/Det|Pro]=en + nek[Dat]</detailed>
@@ -5377,7 +5392,7 @@
 					</token>
 					<token join="no" xml:id="t340">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -5412,7 +5427,7 @@
 					</token>
 					<token join="no" xml:id="t342">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -5447,7 +5462,7 @@
 					</token>
 					<token join="no" xml:id="t344">
 						<form modified="False">zárva</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>zárva</lemma>
 								<detailed>zárva[/Adv]</detailed>
@@ -5462,7 +5477,7 @@
 					</token>
 					<token join="right" xml:id="t345">
 						<form modified="False">volt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>van</lemma>
 								<detailed>van[/V]=vol + t[Pst.NDef.3Sg]</detailed>
@@ -5507,7 +5522,7 @@
 					</token>
 					<token join="no" xml:id="t348">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -5527,13 +5542,13 @@
 					</token>
 					<token join="no" xml:id="t349">
 						<form modified="False">utazás</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>utazás</lemma>
 								<detailed>utaz[/V] + ás[_Ger/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>utazás</lemma>
 								<detailed>utazik[/V]=utaz + ás[_Ger/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -5552,13 +5567,13 @@
 					</token>
 					<token join="no" xml:id="t350">
 						<form modified="False">felénél</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>fél</lemma>
 								<detailed>fél[/N]=fel + e[Poss.3Sg]=é + nél[Ade]</detailed>
 								<simple>[/N][Poss.3Sg][Ade]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>fél</lemma>
 								<detailed>fél[/Num]=fel + e[Poss.3Sg]=é + nél[Ade]</detailed>
 								<simple>[/Num][Poss.3Sg][Ade]</simple>
@@ -5567,7 +5582,7 @@
 					</token>
 					<token join="no" xml:id="t351">
 						<form modified="False">Velencében</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>Velence</lemma>
 								<detailed>Velence[/N]=Velencé + ben[Ine]</detailed>
@@ -5577,7 +5592,7 @@
 					</token>
 					<token join="no" xml:id="t352">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
@@ -5607,7 +5622,7 @@
 					</token>
 					<token join="no" xml:id="t354">
 						<form modified="False">parkolóhelyen</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>parkolóhely</lemma>
 								<detailed>parkol[/V] + ó[_ImpfPtcp/Adj] + hely[/N] + en[Supe]</detailed>
@@ -5627,8 +5642,8 @@
 					</token>
 					<token join="no" xml:id="t355">
 						<form modified="False">pihentünk</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>pihen</lemma>
 								<detailed>pihen[/V] + tünk[Pst.NDef.1Pl]</detailed>
 								<simple>[/V][Pst.NDef.1Pl]</simple>
@@ -5648,11 +5663,16 @@
 								<detailed>pihent[/Adj] + ünk[Poss.1Pl] + [Nom]</detailed>
 								<simple>[/Adj][Poss.1Pl][Nom]</simple>
 							</ana>
+							<ana correct="True" modified="True">
+								<lemma>megpihen</lemma>
+								<detailed>meg[/Prev]+pihen[/V]+tünk[Pst.NDef.1Pl]</detailed>
+								<simple>[/V][Pst.NDef.1Pl]</simple>
+							</ana>
 						</morph>
 					</token>
 					<token join="right" xml:id="t356">
 						<form modified="False">meg</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>meg</lemma>
 								<detailed>meg[/Prev]</detailed>
@@ -5687,7 +5707,7 @@
 					</token>
 					<token join="no" xml:id="t359">
 						<form modified="False">volt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>van</lemma>
 								<detailed>van[/V]=vol + t[Pst.NDef.3Sg]</detailed>
@@ -5712,8 +5732,8 @@
 					</token>
 					<token join="no" xml:id="t360">
 						<form modified="False">lehetőség</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lehetőség</lemma>
 								<detailed>lesz[/V]=le + hető[_ModPtcp/Adj] + ség[_Nz_Abstr/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -5723,7 +5743,7 @@
 								<detailed>lehető[/Adj] + ség[_Nz_Abstr/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lehetőség</lemma>
 								<detailed>lehetőség[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -5737,7 +5757,7 @@
 					</token>
 					<token join="no" xml:id="t361">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -5762,7 +5782,7 @@
 					</token>
 					<token join="no" xml:id="t362">
 						<form modified="False">készletek</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>készlet</lemma>
 								<detailed>készlet[/N] + ek[Pl] + [Nom]</detailed>
@@ -5772,7 +5792,7 @@
 					</token>
 					<token join="right" xml:id="t363">
 						<form modified="False">feltöltésre</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>feltöltés</lemma>
 								<detailed>fel[/Prev] + tölt[/V] + és[_Ger/N] + re[Subl]</detailed>
@@ -5780,7 +5800,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t364">
+					<token join="left" xml:id="t364">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">
@@ -5826,7 +5846,7 @@
 					</token>
 					<token join="no" xml:id="t368">
 						<form modified="False">városkákban</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>városka</lemma>
 								<detailed>városka[/N]=városká + k[Pl] + ban[Ine]</detailed>
@@ -5836,7 +5856,7 @@
 					</token>
 					<token join="no" xml:id="t369">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -5856,7 +5876,7 @@
 					</token>
 					<token join="no" xml:id="t370">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -5881,7 +5901,7 @@
 					</token>
 					<token join="no" xml:id="t371">
 						<form modified="False">legkényelmesebb</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kényelmes</lemma>
 								<detailed>leg[/Supl] + kényelem[/N]=kényelm + es[_Adjz:s/Adj] + ebb[_Comp/Adj] + [Nom]</detailed>
@@ -5896,7 +5916,7 @@
 					</token>
 					<token join="no" xml:id="t372">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -5921,7 +5941,7 @@
 					</token>
 					<token join="no" xml:id="t373">
 						<form modified="False">közlekedés</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>közlekedés</lemma>
 								<detailed>közlekedik[/V]=közleked + és[_Ger/N] + [Nom]</detailed>
@@ -5936,7 +5956,7 @@
 					</token>
 					<token join="no" xml:id="t374">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -5976,7 +5996,7 @@
 					</token>
 					<token join="no" xml:id="t377">
 						<form modified="False">de</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>de</lemma>
 								<detailed>de[/Cnj]</detailed>
@@ -5996,7 +6016,7 @@
 					</token>
 					<token join="right" xml:id="t378">
 						<form modified="False">szokható</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>szokható</lemma>
 								<detailed>szokik[/V]=szok + ható[_ModPtcp/Adj] + [Nom]</detailed>
@@ -6016,8 +6036,8 @@
 					</token>
 					<token join="no" xml:id="t380">
 						<form modified="False">ráadásul</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>ráadás</lemma>
 								<detailed>rá[/Prev] + ad[/V] + ás[_Ger/N] + ul[Ess]</detailed>
 								<simple>[/N][Ess]</simple>
@@ -6027,7 +6047,7 @@
 								<detailed>ráadás[/N] + ul[Ess]</detailed>
 								<simple>[/N][Ess]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>ráadásul</lemma>
 								<detailed>ráadásul[/Adv]</detailed>
 								<simple>[/Adv]</simple>
@@ -6036,7 +6056,7 @@
 					</token>
 					<token join="no" xml:id="t381">
 						<form modified="False">hegyi</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hegyi</lemma>
 								<detailed>hegy[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
@@ -6061,7 +6081,7 @@
 					</token>
 					<token join="no" xml:id="t383">
 						<form modified="False">sem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>sem</lemma>
 								<detailed>sem[/Adv]</detailed>
@@ -6076,13 +6096,13 @@
 					</token>
 					<token join="no" xml:id="t384">
 						<form modified="False">vallott</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>vallott</lemma>
 								<detailed>vall[/V] + ott[_PerfPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>vall</lemma>
 								<detailed>vall[/V] + ott[Pst.NDef.3Sg]</detailed>
 								<simple>[/V][Pst.NDef.3Sg]</simple>
@@ -6091,7 +6111,7 @@
 					</token>
 					<token join="no" xml:id="t385">
 						<form modified="False">szégyent</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>szégyen</lemma>
 								<detailed>szégyen[/N] + t[Acc]</detailed>
@@ -6101,7 +6121,7 @@
 					</token>
 					<token join="no" xml:id="t386">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -6126,7 +6146,7 @@
 					</token>
 					<token join="right" xml:id="t387">
 						<form modified="False">Hymer</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>Hymer</lemma>
 								<detailed/>
@@ -6158,7 +6178,7 @@
 					</token>
 					<token join="no" xml:id="t390">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -6183,7 +6203,7 @@
 					</token>
 					<token join="no" xml:id="t391">
 						<form modified="False">fogyasztás</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>fogyasztás</lemma>
 								<detailed>fogyaszt[/V] + ás[_Ger/N] + [Nom]</detailed>
@@ -6208,13 +6228,13 @@
 					</token>
 					<token join="no" xml:id="t393">
 						<form modified="False">l-re</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>l</lemma>
 								<detailed>l[/N|Ltr]=l- + re[Subl]</detailed>
 								<simple>[/N][Subl]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>l</lemma>
 								<detailed>l[/N|Unit|Abbr]=l- + re[Subl]</detailed>
 								<simple>[/N][Subl]</simple>
@@ -6223,8 +6243,8 @@
 					</token>
 					<token join="no" xml:id="t394">
 						<form modified="False">jött</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>jön</lemma>
 								<detailed>jön[/V]=jö + tt[Pst.NDef.3Sg]</detailed>
 								<simple>[/V][Pst.NDef.3Sg]</simple>
@@ -6234,11 +6254,16 @@
 								<detailed>jön[/V]=jö + tt[_PerfPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
+							<ana correct="True" modified="True">
+								<lemma>kijön</lemma>
+								<detailed>ki[/Prev]+jön[/V]=jö+tt[Pst.NDef.3Sg]</detailed>
+								<simple>[/V][Pst.NDef.3Sg]</simple>
+							</ana>
 						</morph>
 					</token>
 					<token join="right" xml:id="t395">
 						<form modified="False">ki</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ki</lemma>
 								<detailed>ki[/Prev]</detailed>
@@ -6283,7 +6308,7 @@
 					</token>
 					<token join="no" xml:id="t398">
 						<form modified="False">sem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>sem</lemma>
 								<detailed>sem[/Adv]</detailed>
@@ -6298,7 +6323,7 @@
 					</token>
 					<token join="right" xml:id="t399">
 						<form modified="False">autópályán</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>autópálya</lemma>
 								<detailed>autó[/N] + pálya[/N]=pályá + n[Supe]</detailed>
@@ -6323,7 +6348,7 @@
 					</token>
 					<token join="no" xml:id="t401">
 						<form modified="False">sem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>sem</lemma>
 								<detailed>sem[/Cnj]</detailed>
@@ -6338,7 +6363,7 @@
 					</token>
 					<token join="no" xml:id="t402">
 						<form modified="False">emelkedőkön</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>emelkedő</lemma>
 								<detailed>emelkedő[/N] + k[Pl] + ön[Supe]</detailed>
@@ -6353,7 +6378,7 @@
 					</token>
 					<token join="no" xml:id="t403">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -6373,7 +6398,7 @@
 					</token>
 					<token join="no" xml:id="t404">
 						<form modified="False">kíméltük</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kímél</lemma>
 								<detailed>kímél[/V] + tük[Pst.Def.1Pl]</detailed>
@@ -6388,7 +6413,7 @@
 					</token>
 					<token join="no" xml:id="t405">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -6416,7 +6441,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t407">
+					<token join="left" xml:id="t407">
 						<form modified="False">!</form>
 						<morph check="True">
 							<ana correct="True">
@@ -6432,7 +6457,7 @@
 				<s modified="False" xml:id="s17">
 					<token join="no" xml:id="t408">
 						<form modified="False">Nagyon</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nagyon</lemma>
 								<detailed>nagyon[/Adv]</detailed>
@@ -6452,7 +6477,7 @@
 					</token>
 					<token join="no" xml:id="t409">
 						<form modified="False">tetszett</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tetszik</lemma>
 								<detailed>tetszik[/V]=tetsz + ett[Pst.NDef.3Sg]</detailed>
@@ -6467,7 +6492,7 @@
 					</token>
 					<token join="no" xml:id="t410">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Pro] + [Nom]</detailed>
@@ -6507,7 +6532,7 @@
 					</token>
 					<token join="no" xml:id="t413">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -6527,7 +6552,7 @@
 					</token>
 					<token join="no" xml:id="t414">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -6557,7 +6582,7 @@
 					</token>
 					<token join="no" xml:id="t416">
 						<form modified="False">tele</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tele</lemma>
 								<detailed>tele[/Adj] + [Nom]</detailed>
@@ -6587,7 +6612,7 @@
 					</token>
 					<token join="no" xml:id="t418">
 						<form modified="False">rejtett</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>rejtett</lemma>
 								<detailed>rejt[/V] + ett[_PerfPtcp/Adj] + [Nom]</detailed>
@@ -6607,7 +6632,7 @@
 					</token>
 					<token join="right" xml:id="t419">
 						<form modified="False">rekeszekkel</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>rekesz</lemma>
 								<detailed>rekesz[/N] + ek[Pl] + kel[Ins]</detailed>
@@ -6637,8 +6662,8 @@
 					</token>
 					<token join="no" xml:id="t422">
 						<form modified="False">mi</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>mi</lemma>
 								<detailed>mi[/N|Pro|Int] + [Nom]</detailed>
 								<simple>[/N|Pro|Int][Nom]</simple>
@@ -6658,7 +6683,7 @@
 								<detailed>mi[/Adj|Pro|Int] + [Nom]</detailed>
 								<simple>[/Adj|Pro|Int][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>mi</lemma>
 								<detailed>mi[/N|Pro] + [1Pl] + [Nom]</detailed>
 								<simple>[/N|Pro][1Pl][Nom]</simple>
@@ -6667,7 +6692,7 @@
 					</token>
 					<token join="no" xml:id="t423">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -6717,7 +6742,7 @@
 					</token>
 					<token join="no" xml:id="t427">
 						<form modified="False">minden</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>minden</lemma>
 								<detailed>minden[/N|Pro] + [Nom]</detailed>
@@ -6737,7 +6762,7 @@
 					</token>
 					<token join="no" xml:id="t428">
 						<form modified="False">cuccunkat</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>cucc</lemma>
 								<detailed>cucc[/N] + unk[Poss.1Pl] + at[Acc]</detailed>
@@ -6747,7 +6772,7 @@
 					</token>
 					<token join="right" xml:id="t429">
 						<form modified="False">kipakoltuk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kipakol</lemma>
 								<detailed>ki[/Prev] + pakol[/V] + tuk[Pst.Def.1Pl]</detailed>
@@ -6772,7 +6797,7 @@
 					</token>
 					<token join="no" xml:id="t431">
 						<form modified="False">így</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>így</lemma>
 								<detailed>így[/Cnj]</detailed>
@@ -6807,7 +6832,7 @@
 					</token>
 					<token join="no" xml:id="t434">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -6837,7 +6862,7 @@
 					</token>
 					<token join="no" xml:id="t436">
 						<form modified="False">láttunk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>lát</lemma>
 								<detailed>lát[/V] + tunk[Pst.NDef.1Pl]</detailed>
@@ -6879,7 +6904,7 @@
 				<s modified="False" xml:id="s18">
 					<token join="no" xml:id="t439">
 						<form modified="False">Ha</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ha</lemma>
 								<detailed>ha[/Cnj]</detailed>
@@ -6919,7 +6944,7 @@
 					</token>
 					<token join="no" xml:id="t442">
 						<form modified="False">körtúrát</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>körtúra</lemma>
 								<detailed>kör[/N] + túra[/N]=túrá + t[Acc]</detailed>
@@ -6929,7 +6954,7 @@
 					</token>
 					<token join="right" xml:id="t443">
 						<form modified="False">terveztek</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tervez</lemma>
 								<detailed>terv[/N] + ez[_NVbz_Tr:z/V] + tek[Prs.NDef.2Pl]</detailed>
@@ -6984,7 +7009,7 @@
 					</token>
 					<token join="no" xml:id="t446">
 						<form modified="False">nap</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nap</lemma>
 								<detailed>nap[/Adv]</detailed>
@@ -6999,7 +7024,7 @@
 					</token>
 					<token join="no" xml:id="t447">
 						<form modified="False">mint</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>mint</lemma>
 								<detailed>mint[/Cnj]</detailed>
@@ -7024,7 +7049,7 @@
 					</token>
 					<token join="no" xml:id="t448">
 						<form modified="False">nap</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nap</lemma>
 								<detailed>nap[/Adv]</detailed>
@@ -7039,7 +7064,7 @@
 					</token>
 					<token join="no" xml:id="t449">
 						<form modified="False">más</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>más</lemma>
 								<detailed>más[/N|Pro] + [Nom]</detailed>
@@ -7064,7 +7089,7 @@
 					</token>
 					<token join="no" xml:id="t451">
 						<form modified="False">aludnátok</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>alszik</lemma>
 								<detailed>alszik[/V]=alud + nátok[Cond.Def.2Pl]</detailed>
@@ -7089,7 +7114,7 @@
 					</token>
 					<token join="no" xml:id="t453">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -7119,13 +7144,13 @@
 					</token>
 					<token join="no" xml:id="t455">
 						<form modified="False">állandóan</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>állandó</lemma>
 								<detailed>áll[/V] + andó[_FutPtcp/Adj] + an[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>állandó</lemma>
 								<detailed>állandó[/Adj] + an[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
@@ -7134,7 +7159,7 @@
 					</token>
 					<token join="no" xml:id="t456">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -7159,7 +7184,7 @@
 					</token>
 					<token join="no" xml:id="t457">
 						<form modified="False">bőröndből</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>bőrönd</lemma>
 								<detailed>bőrönd[/N] + ből[Ela]</detailed>
@@ -7169,7 +7194,7 @@
 					</token>
 					<token join="no" xml:id="t458">
 						<form modified="False">való</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>való</lemma>
 								<detailed>való[/Adj] + [Nom]</detailed>
@@ -7184,7 +7209,7 @@
 					</token>
 					<token join="no" xml:id="t459">
 						<form modified="False">ki-be</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ki-be</lemma>
 								<detailed>ki[/Prev] + -[Hyph:Hyph] + be[/Prev]</detailed>
@@ -7199,7 +7224,7 @@
 					</token>
 					<token join="no" xml:id="t460">
 						<form modified="False">pakolással</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>pakolás</lemma>
 								<detailed>pakol[/V] + ás[_Ger/N] + sal[Ins]</detailed>
@@ -7224,7 +7249,7 @@
 					</token>
 					<token join="no" xml:id="t462">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -7249,13 +7274,13 @@
 					</token>
 					<token join="no" xml:id="t463">
 						<form modified="False">szállásról</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>szállás</lemma>
 								<detailed>száll[/V] + ás[_Ger/N] + ról[Del]</detailed>
 								<simple>[/N][Del]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>szállás</lemma>
 								<detailed>szállás[/N] + ról[Del]</detailed>
 								<simple>[/N][Del]</simple>
@@ -7264,7 +7289,7 @@
 					</token>
 					<token join="no" xml:id="t464">
 						<form modified="False">való</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>való</lemma>
 								<detailed>való[/Adj] + [Nom]</detailed>
@@ -7279,7 +7304,7 @@
 					</token>
 					<token join="no" xml:id="t465">
 						<form modified="False">ki-be</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ki-be</lemma>
 								<detailed>ki[/Prev] + -[Hyph:Hyph] + be[/Prev]</detailed>
@@ -7294,7 +7319,7 @@
 					</token>
 					<token join="no" xml:id="t466">
 						<form modified="False">csekkolásokkal</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>csekkolás</lemma>
 								<detailed>csekkol[/V] + ás[_Ger/N] + ok[Pl] + kal[Ins]</detailed>
@@ -7304,13 +7329,13 @@
 					</token>
 					<token join="right" xml:id="t467">
 						<form modified="False">vesződni</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>vesződik</lemma>
 								<detailed>veszik[/V]=vesz + ődik[_MedPass/V]=őd + ni[Inf]</detailed>
 								<simple>[/V][Inf]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>vesződik</lemma>
 								<detailed>vesződik[/V]=vesződ + ni[Inf]</detailed>
 								<simple>[/V][Inf]</simple>
@@ -7329,7 +7354,7 @@
 					</token>
 					<token join="no" xml:id="t469">
 						<form modified="False">akkor</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>akkor</lemma>
 								<detailed>akkor[/Adv|Pro]</detailed>
@@ -7349,7 +7374,7 @@
 					</token>
 					<token join="no" xml:id="t470">
 						<form modified="False">imádni</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>imád</lemma>
 								<detailed>imád[/V] + ni[Inf]</detailed>
@@ -7359,7 +7384,7 @@
 					</token>
 					<token join="no" xml:id="t471">
 						<form modified="False">fogjátok</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>fog</lemma>
 								<detailed>fog[/V] + játok[Prs.Def.2Pl]</detailed>
@@ -7374,7 +7399,7 @@
 					</token>
 					<token join="no" xml:id="t472">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -7399,8 +7424,8 @@
 					</token>
 					<token join="right" xml:id="t473">
 						<form modified="False">lakóautózást</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lakóautózás</lemma>
 								<detailed>lakik[/V]=lak + ó[_ImpfPtcp/Adj] + autó[/N] + z[_NVbz_Tr:z/V] + ás[_Ger/N] + t[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
@@ -7420,14 +7445,14 @@
 								<detailed>lakó[/N] + autózik[/V]=autóz + ás[_Ger/N] + t[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lakóautózás</lemma>
 								<detailed>lakóautó[/N] + z[_NVbz_Tr:z/V] + ás[_Ger/N] + t[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t474">
+					<token join="left" xml:id="t474">
 						<form modified="False">!</form>
 						<morph check="True">
 							<ana correct="True">
@@ -7443,7 +7468,7 @@
 				<s modified="False" xml:id="s19">
 					<token join="no" xml:id="t475">
 						<form modified="False">Az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -7473,13 +7498,13 @@
 					</token>
 					<token join="no" xml:id="t477">
 						<form modified="False">meglepően</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>meglepő</lemma>
 								<detailed>meg[/Prev] + lep[/V] + ő[_Adjz:Ó/Adj] + en[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>meglepő</lemma>
 								<detailed>meglepő[/Adj] + en[_Manner/Adv]</detailed>
 								<simple>[/Adj][_Manner/Adv]</simple>
@@ -7488,8 +7513,8 @@
 					</token>
 					<token join="no" xml:id="t478">
 						<form modified="False">kényelmes</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelem[/N]=kényelm + es[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -7499,7 +7524,7 @@
 								<detailed>kényelem[/N]=kényelm + es[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelmes[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -7508,7 +7533,7 @@
 					</token>
 					<token join="no" xml:id="t479">
 						<form modified="False">ágyak</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ágy</lemma>
 								<detailed>ágy[/N] + ak[Pl] + [Nom]</detailed>
@@ -7538,7 +7563,7 @@
 					</token>
 					<token join="no" xml:id="t482">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -7573,7 +7598,7 @@
 					</token>
 					<token join="no" xml:id="t484">
 						<form modified="False">franciaágy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>franciaágy</lemma>
 								<detailed>franciaágy[/N] + [Nom]</detailed>
@@ -7583,7 +7608,7 @@
 					</token>
 					<token join="no" xml:id="t485">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -7613,7 +7638,7 @@
 					</token>
 					<token join="no" xml:id="t487">
 						<form modified="False">hátsó</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hátsó</lemma>
 								<detailed>hátsó[/Adj] + [Nom]</detailed>
@@ -7628,7 +7653,7 @@
 					</token>
 					<token join="no" xml:id="t488">
 						<form modified="False">részében</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>rész</lemma>
 								<detailed>rész[/N] + e[Poss.3Sg]=é + ben[Ine]</detailed>
@@ -7653,7 +7678,7 @@
 					</token>
 					<token join="right" xml:id="t490">
 						<form modified="False">kialakítva</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kialakít</lemma>
 								<detailed>ki[/Prev] + alakít[/V] + va[_AdvPtcp/Adv]</detailed>
@@ -7673,7 +7698,7 @@
 					</token>
 					<token join="no" xml:id="t492">
 						<form modified="False">míg</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>míg</lemma>
 								<detailed>míg[/Adv|Pro|Rel]</detailed>
@@ -7693,7 +7718,7 @@
 					</token>
 					<token join="no" xml:id="t493">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -7718,7 +7743,7 @@
 					</token>
 					<token join="no" xml:id="t494">
 						<form modified="False">valamivel</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>valami</lemma>
 								<detailed>valami[/N|Pro] + vel[Ins]</detailed>
@@ -7748,7 +7773,7 @@
 					</token>
 					<token join="no" xml:id="t496">
 						<form modified="False">franciaágy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>franciaágy</lemma>
 								<detailed>franciaágy[/N] + [Nom]</detailed>
@@ -7758,7 +7783,7 @@
 					</token>
 					<token join="no" xml:id="t497">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -7788,7 +7813,7 @@
 					</token>
 					<token join="right" xml:id="t499">
 						<form modified="False">elejében</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>eleje</lemma>
 								<detailed>eleje[/N]=ele + je[Poss.3Sg]=jé + ben[Ine]</detailed>
@@ -7808,7 +7833,7 @@
 					</token>
 					<token join="no" xml:id="t501">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -7833,7 +7858,7 @@
 					</token>
 					<token join="no" xml:id="t502">
 						<form modified="False">lehajtott</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>lehajtott</lemma>
 								<detailed>le[/Prev] + hajt[/V] + ott[_PerfPtcp/Adj] + [Nom]</detailed>
@@ -7848,7 +7873,7 @@
 					</token>
 					<token join="no" xml:id="t503">
 						<form modified="False">vezető-</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>vezető</lemma>
 								<detailed>vezet[/V] + ő[_ImpfPtcp/Adj] + [Nom] + -[Hyph:Hyph]</detailed>
@@ -7873,13 +7898,13 @@
 					</token>
 					<token join="no" xml:id="t505">
 						<form modified="False">anyósülésre</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>anyósülés</lemma>
 								<detailed>anyó[/N] + sül[/V] + és[_Ger/N] + re[Subl]</detailed>
 								<simple>[/N][Subl]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>anyósülés</lemma>
 								<detailed>anyós[/N] + ül[/V] + és[_Ger/N] + re[Subl]</detailed>
 								<simple>[/N][Subl]</simple>
@@ -7903,7 +7928,7 @@
 					</token>
 					<token join="right" xml:id="t507">
 						<form modified="False">le</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>le</lemma>
 								<detailed>le[/Prev]</detailed>
@@ -7930,7 +7955,7 @@
 				<s modified="False" xml:id="s20">
 					<token join="no" xml:id="t509">
 						<form modified="False">A</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -7970,7 +7995,7 @@
 					</token>
 					<token join="no" xml:id="t511">
 						<form modified="False">felszereltsége</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>felszereltség</lemma>
 								<detailed>fel[/Prev] + szerel[/V] + t[_PerfPtcp/Adj] + ség[_Nz_Abstr/N] + e[Poss.3Sg] + [Nom]</detailed>
@@ -7980,7 +8005,7 @@
 					</token>
 					<token join="no" xml:id="t512">
 						<form modified="False">minden</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>minden</lemma>
 								<detailed>minden[/N|Pro] + [Nom]</detailed>
@@ -8000,7 +8025,7 @@
 					</token>
 					<token join="no" xml:id="t513">
 						<form modified="False">várakozásunkat</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>várakozás</lemma>
 								<detailed>várakozik[/V]=várakoz + ás[_Ger/N] + unk[Poss.1Pl] + at[Acc]</detailed>
@@ -8015,7 +8040,7 @@
 					</token>
 					<token join="right" xml:id="t514">
 						<form modified="False">felülmúlta</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>felülmúl</lemma>
 								<detailed>felül[/Prev] + múl[/V] + ta[Pst.Def.3Sg]</detailed>
@@ -8060,7 +8085,7 @@
 					</token>
 					<token join="no" xml:id="t516">
 						<form modified="False">nagy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nagy</lemma>
 								<detailed>nagy[/Adj] + [Nom]</detailed>
@@ -8075,8 +8100,8 @@
 					</token>
 					<token join="right" xml:id="t517">
 						<form modified="False">hűtő</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>hűtő</lemma>
 								<detailed>hű[/Adj] + tő[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -8086,7 +8111,7 @@
 								<detailed>hűt[/V] + ő[_ImpfPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>hűtő</lemma>
 								<detailed>hűtő[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -8105,7 +8130,7 @@
 					</token>
 					<token join="right" xml:id="t519">
 						<form modified="False">fakanalak</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>fakanál</lemma>
 								<detailed>fa[/N] + kanál[/N]=kanal + ak[Pl] + [Nom]</detailed>
@@ -8135,13 +8160,13 @@
 					</token>
 					<token join="no" xml:id="t521">
 						<form modified="False">evőeszköz</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>evőeszköz</lemma>
 								<detailed>eszik[/V]=ev + ő[_ImpfPtcp/Adj] + eszköz[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>evőeszköz</lemma>
 								<detailed>evőeszköz[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -8170,7 +8195,7 @@
 					</token>
 					<token join="right" xml:id="t524">
 						<form modified="False">bögrék</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>bögre</lemma>
 								<detailed>bögre[/N]=bögré + k[Pl] + [Nom]</detailed>
@@ -8210,7 +8235,7 @@
 					</token>
 					<token join="no" xml:id="t528">
 						<form modified="False">sörös</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>sörös</lemma>
 								<detailed>sör[/N] + ös[_Adjz:s/Adj] + [Nom]</detailed>
@@ -8235,7 +8260,7 @@
 					</token>
 					<token join="right" xml:id="t529">
 						<form modified="False">korsók</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>korsó</lemma>
 								<detailed>kor[/N] + só[/N] + k[Pl] + [Nom]</detailed>
@@ -8260,8 +8285,8 @@
 					</token>
 					<token join="no" xml:id="t531">
 						<form modified="False">boros</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>boros</lemma>
 								<detailed>Bor[/N]=bor + os[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -8271,7 +8296,7 @@
 								<detailed>Bor[/N]=bor + os[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>boros</lemma>
 								<detailed>bor[/N] + os[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -8340,8 +8365,8 @@
 					</token>
 					<token join="no" xml:id="t537">
 						<form modified="False">rózsás</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>rózsás</lemma>
 								<detailed>Rózsa[/N]=rózsá + s[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -8351,7 +8376,7 @@
 								<detailed>Rózsa[/N]=rózsá + s[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>rózsás</lemma>
 								<detailed>rózsa[/N]=rózsá + s[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -8370,8 +8395,8 @@
 					</token>
 					<token join="right" xml:id="t538">
 						<form modified="False">gáztűzhely</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>gáztűzhely</lemma>
 								<detailed>gáz[/N] + tűz[/N] + hely[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -8381,7 +8406,7 @@
 								<detailed>gáz[/N] + tűzhely[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>gáztűzhely</lemma>
 								<detailed>gáztűzhely[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -8400,7 +8425,7 @@
 					</token>
 					<token join="no" xml:id="t540">
 						<form modified="False">persze</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>persze</lemma>
 								<detailed>persze[/Adv]</detailed>
@@ -8415,7 +8440,7 @@
 					</token>
 					<token join="no" xml:id="t541">
 						<form modified="False">minden</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>minden</lemma>
 								<detailed>minden[/N|Pro] + [Nom]</detailed>
@@ -8445,13 +8470,13 @@
 					</token>
 					<token join="right" xml:id="t543">
 						<form modified="False">elhelyezve</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>elhelyez</lemma>
 								<detailed>el[/Prev] + hely[/N] + ez[_NVbz_Tr:z/V] + ve[_AdvPtcp/Adv]</detailed>
 								<simple>[/V][_AdvPtcp/Adv]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>elhelyez</lemma>
 								<detailed>el[/Prev] + helyez[/V] + ve[_AdvPtcp/Adv]</detailed>
 								<simple>[/V][_AdvPtcp/Adv]</simple>
@@ -8470,7 +8495,7 @@
 					</token>
 					<token join="right" xml:id="t545">
 						<form modified="False">rögzítve</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>rögzít</lemma>
 								<detailed>rögzít[/V] + ve[_AdvPtcp/Adv]</detailed>
@@ -8492,7 +8517,7 @@
 				<s modified="False" xml:id="s21">
 					<token join="no" xml:id="t547">
 						<form modified="False">Azzal</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Pro] + zal[Ins]</detailed>
@@ -8507,7 +8532,7 @@
 					</token>
 					<token join="no" xml:id="t548">
 						<form modified="False">viszont</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>viszont</lemma>
 								<detailed>viszont[/Cnj]</detailed>
@@ -8522,7 +8547,7 @@
 					</token>
 					<token join="no" xml:id="t549">
 						<form modified="False">számolnotok</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>számol</lemma>
 								<detailed>számol[/V] + notok[Inf.2Pl]</detailed>
@@ -8552,7 +8577,7 @@
 					</token>
 					<token join="no" xml:id="t552">
 						<form modified="False">hogy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hogy</lemma>
 								<detailed>hogy[/Cnj]</detailed>
@@ -8582,7 +8607,7 @@
 					</token>
 					<token join="no" xml:id="t554">
 						<form modified="False">kis</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kis</lemma>
 								<detailed>kis[/Adj|Attr] + [Nom]</detailed>
@@ -8622,7 +8647,7 @@
 					</token>
 					<token join="no" xml:id="t558">
 						<form modified="False">mindennek</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>minden</lemma>
 								<detailed>minden[/N|Pro] + nek[Dat]</detailed>
@@ -8642,7 +8667,7 @@
 					</token>
 					<token join="no" xml:id="t559">
 						<form modified="False">ennyire</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ennyire</lemma>
 								<detailed>ennyire[/Adv|Pro]</detailed>
@@ -8672,7 +8697,7 @@
 					</token>
 					<token join="no" xml:id="t561">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -8717,7 +8742,7 @@
 					</token>
 					<token join="no" xml:id="t564">
 						<form modified="False">nagyon</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nagyon</lemma>
 								<detailed>nagyon[/Adv]</detailed>
@@ -8742,7 +8767,7 @@
 					</token>
 					<token join="right" xml:id="t566">
 						<form modified="False">legozni</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>legozik</lemma>
 								<detailed/>
@@ -8764,7 +8789,7 @@
 				<s modified="False" xml:id="s22">
 					<token join="no" xml:id="t568">
 						<form modified="False">Ha</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ha</lemma>
 								<detailed>ha[/Cnj]</detailed>
@@ -8784,7 +8809,7 @@
 					</token>
 					<token join="no" xml:id="t569">
 						<form modified="False">egy-két</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy-két</lemma>
 								<detailed>egy[/Num] + [Nom] + -[Hyph:Hyph] + két[/Num|Attr] + [Nom]</detailed>
@@ -8824,7 +8849,7 @@
 					</token>
 					<token join="right" xml:id="t572">
 						<form modified="False">hagysz</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hagy</lemma>
 								<detailed>hagy[/V] + sz[Prs.NDef.2Sg]</detailed>
@@ -8844,7 +8869,7 @@
 					</token>
 					<token join="no" xml:id="t574">
 						<form modified="False">vagy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>vagy</lemma>
 								<detailed>vagy[/Cnj]</detailed>
@@ -8864,7 +8889,7 @@
 					</token>
 					<token join="no" xml:id="t575">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -8884,7 +8909,7 @@
 					</token>
 					<token join="no" xml:id="t576">
 						<form modified="False">jó</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>jó</lemma>
 								<detailed>jó[/Adj] + [Nom]</detailed>
@@ -8904,7 +8929,7 @@
 					</token>
 					<token join="no" xml:id="t577">
 						<form modified="False">helyre</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hely</lemma>
 								<detailed>hely[/N] + re[Subl]</detailed>
@@ -8924,7 +8949,7 @@
 					</token>
 					<token join="right" xml:id="t578">
 						<form modified="False">teszel</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>tesz</lemma>
 								<detailed>tesz[/V] + el[Prs.NDef.2Sg]</detailed>
@@ -8944,7 +8969,7 @@
 					</token>
 					<token join="no" xml:id="t580">
 						<form modified="False">akkor</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>akkor</lemma>
 								<detailed>akkor[/Adv|Pro]</detailed>
@@ -8964,7 +8989,7 @@
 					</token>
 					<token join="no" xml:id="t581">
 						<form modified="False">hamar</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hamar</lemma>
 								<detailed>hamar[/Adv]</detailed>
@@ -9014,7 +9039,7 @@
 					</token>
 					<token join="no" xml:id="t586">
 						<form modified="False">vezetés</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>vezetés</lemma>
 								<detailed>vezet[/V] + és[_Ger/N] + [Nom]</detailed>
@@ -9029,7 +9054,7 @@
 					</token>
 					<token join="no" xml:id="t587">
 						<form modified="False">közben</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>közben</lemma>
 								<detailed>közben[/Post]</detailed>
@@ -9049,7 +9074,7 @@
 					</token>
 					<token join="no" xml:id="t588">
 						<form modified="False">borul</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>borul</lemma>
 								<detailed>borul[/V] + [Prs.NDef.3Sg]</detailed>
@@ -9064,7 +9089,7 @@
 					</token>
 					<token join="right" xml:id="t589">
 						<form modified="False">minden</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>minden</lemma>
 								<detailed>minden[/N|Pro] + [Nom]</detailed>
@@ -9096,7 +9121,7 @@
 				<s modified="False" xml:id="s23">
 					<token join="no" xml:id="t591">
 						<form modified="False">Mi</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>mi</lemma>
 								<detailed>mi[/N|Pro] + [1Pl] + [Nom]</detailed>
@@ -9126,7 +9151,7 @@
 					</token>
 					<token join="no" xml:id="t592">
 						<form modified="False">naponta</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>naponta</lemma>
 								<detailed>naponta[/Adv]</detailed>
@@ -9151,8 +9176,8 @@
 					</token>
 					<token join="no" xml:id="t594">
 						<form modified="False">főztünk</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>főz</lemma>
 								<detailed>fő[/Adj] + z[_NVbz_Tr:z/V] + tünk[Pst.NDef.1Pl]</detailed>
 								<simple>[/V][Pst.NDef.1Pl]</simple>
@@ -9187,7 +9212,7 @@
 								<detailed>főz[/V] + te[_Ger:tA/N]=t + ünk[Poss.1Pl] + [Nom]</detailed>
 								<simple>[/N][Poss.1Pl][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>főz</lemma>
 								<detailed>főz[/V] + tünk[Pst.NDef.1Pl]</detailed>
 								<simple>[/V][Pst.NDef.1Pl]</simple>
@@ -9221,7 +9246,7 @@
 					</token>
 					<token join="no" xml:id="t597">
 						<form modified="False">használtuk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>használ</lemma>
 								<detailed>használ[/V] + tuk[Pst.Def.1Pl]</detailed>
@@ -9236,7 +9261,7 @@
 					</token>
 					<token join="no" xml:id="t598">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -9255,18 +9280,18 @@
 						</morph>
 					</token>
 					<token join="right" xml:id="t599">
-						<form modified="False">&quot;</form>
+						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
-								<lemma>&quot;</lemma>
+								<lemma>"</lemma>
 								<detailed/>
 								<simple>[Punct]</simple>
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t600">
+					<token join="both" xml:id="t600">
 						<form modified="False">ebédlőt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ebédlő</lemma>
 								<detailed>ebédlő[/N] + t[Acc]</detailed>
@@ -9274,11 +9299,11 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t601">
-						<form modified="False">&quot;</form>
+					<token join="both" xml:id="t601">
+						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
-								<lemma>&quot;</lemma>
+								<lemma>"</lemma>
 								<detailed/>
 								<simple>[Punct]</simple>
 							</ana>
@@ -9296,7 +9321,7 @@
 					</token>
 					<token join="no" xml:id="t603">
 						<form modified="False">de</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>de</lemma>
 								<detailed>de[/Cnj]</detailed>
@@ -9316,7 +9341,7 @@
 					</token>
 					<token join="no" xml:id="t604">
 						<form modified="False">jó</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>jó</lemma>
 								<detailed>jó[/Adj] + [Nom]</detailed>
@@ -9336,7 +9361,7 @@
 					</token>
 					<token join="no" xml:id="t605">
 						<form modified="False">időben</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>idő</lemma>
 								<detailed>idő[/N] + ben[Ine]</detailed>
@@ -9351,7 +9376,7 @@
 					</token>
 					<token join="no" xml:id="t606">
 						<form modified="False">sokkal</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>sokkal</lemma>
 								<detailed>sokkal[/Adv]</detailed>
@@ -9371,13 +9396,13 @@
 					</token>
 					<token join="right" xml:id="t607">
 						<form modified="False">kényelmesebb</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelem[/N]=kényelm + es[_Adjz:s/Adj] + ebb[_Comp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][_Comp/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelmes[/Adj] + ebb[_Comp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][_Comp/Adj][Nom]</simple>
@@ -9396,7 +9421,7 @@
 					</token>
 					<token join="no" xml:id="t609">
 						<form modified="False">ha</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ha</lemma>
 								<detailed>ha[/Cnj]</detailed>
@@ -9416,7 +9441,7 @@
 					</token>
 					<token join="no" xml:id="t610">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -9446,7 +9471,7 @@
 					</token>
 					<token join="no" xml:id="t612">
 						<form modified="False">hátuljában</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>hátulja</lemma>
 								<detailed>hátulja[/N]=hátul + ja[Poss.3Sg]=já + ban[Ine]</detailed>
@@ -9456,7 +9481,7 @@
 					</token>
 					<token join="no" xml:id="t613">
 						<form modified="False">található</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>található</lemma>
 								<detailed>talál[/V] + ható[_ModPtcp/Adj] + [Nom]</detailed>
@@ -9470,18 +9495,18 @@
 						</morph>
 					</token>
 					<token join="right" xml:id="t614">
-						<form modified="False">&quot;</form>
+						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
-								<lemma>&quot;</lemma>
+								<lemma>"</lemma>
 								<detailed/>
 								<simple>[Punct]</simple>
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t615">
+					<token join="both" xml:id="t615">
 						<form modified="False">garázsból</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>garázs</lemma>
 								<detailed>garázs[/N] + ból[Ela]</detailed>
@@ -9490,10 +9515,10 @@
 						</morph>
 					</token>
 					<token join="left" xml:id="t616">
-						<form modified="False">&quot;</form>
+						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
-								<lemma>&quot;</lemma>
+								<lemma>"</lemma>
 								<detailed/>
 								<simple>[Punct]</simple>
 							</ana>
@@ -9501,7 +9526,7 @@
 					</token>
 					<token join="no" xml:id="t617">
 						<form modified="False">kipakolod</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kipakol</lemma>
 								<detailed>ki[/Prev] + pakol[/V] + od[Prs.Def.2Sg]</detailed>
@@ -9511,7 +9536,7 @@
 					</token>
 					<token join="no" xml:id="t618">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -9536,7 +9561,7 @@
 					</token>
 					<token join="no" xml:id="t619">
 						<form modified="False">kemping</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kemping</lemma>
 								<detailed>kemping[/N] + [Nom]</detailed>
@@ -9586,7 +9611,7 @@
 					</token>
 					<token join="no" xml:id="t624">
 						<form modified="False">kitekered</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kiteker</lemma>
 								<detailed>ki[/Prev] + teker[/V] + ed[Prs.Def.2Sg]</detailed>
@@ -9596,7 +9621,7 @@
 					</token>
 					<token join="no" xml:id="t625">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -9621,8 +9646,8 @@
 					</token>
 					<token join="no" xml:id="t626">
 						<form modified="False">beépített</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>beépített</lemma>
 								<detailed>be[/Prev] + ép[/Adj] + ít[_AdjVbz_Tr/V] + ett[_PerfPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -9637,7 +9662,7 @@
 								<detailed>be[/Prev] + épít[/V] + ett[Pst.NDef.3Sg]</detailed>
 								<simple>[/V][Pst.NDef.3Sg]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>beépített</lemma>
 								<detailed>be[/Prev] + épít[/V] + ett[_PerfPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -9646,7 +9671,7 @@
 					</token>
 					<token join="right" xml:id="t627">
 						<form modified="False">napernyőt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>napernyő</lemma>
 								<detailed>nap[/N] + ernyő[/N] + t[Acc]</detailed>
@@ -9683,7 +9708,7 @@
 					</token>
 					<token join="no" xml:id="t630">
 						<form modified="False">felnőtt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>felnőtt</lemma>
 								<detailed>felnőtt[/N] + [Nom]</detailed>
@@ -9708,7 +9733,7 @@
 					</token>
 					<token join="no" xml:id="t631">
 						<form modified="False">számára</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>számára</lemma>
 								<detailed>számára[/Post|(Poss)] + [Poss.3Sg]</detailed>
@@ -9728,7 +9753,7 @@
 					</token>
 					<token join="no" xml:id="t632">
 						<form modified="False">ez</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ez</lemma>
 								<detailed>ez[/Det|Pro] + [Nom]</detailed>
@@ -9743,7 +9768,7 @@
 					</token>
 					<token join="no" xml:id="t633">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -9773,7 +9798,7 @@
 					</token>
 					<token join="no" xml:id="t635">
 						<form modified="False">nap</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nap</lemma>
 								<detailed>nap[/N] + [Nom]</detailed>
@@ -9788,7 +9813,7 @@
 					</token>
 					<token join="no" xml:id="t636">
 						<form modified="False">pont</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>pont</lemma>
 								<detailed>pont[/Adv]</detailed>
@@ -9803,8 +9828,8 @@
 					</token>
 					<token join="no" xml:id="t637">
 						<form modified="False">kényelmes</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelem[/N]=kényelm + es[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -9814,7 +9839,7 @@
 								<detailed>kényelem[/N]=kényelm + es[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelmes[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -9833,7 +9858,7 @@
 					</token>
 					<token join="no" xml:id="t639">
 						<form modified="False">elég</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>elég</lemma>
 								<detailed>elég[/Adv]</detailed>
@@ -9853,7 +9878,7 @@
 					</token>
 					<token join="right" xml:id="t640">
 						<form modified="False">volt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>van</lemma>
 								<detailed>van[/V]=vol + t[Pst.NDef.3Sg]</detailed>
@@ -9888,7 +9913,7 @@
 					</token>
 					<token join="no" xml:id="t642">
 						<form modified="False">de</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>de</lemma>
 								<detailed>de[/Cnj]</detailed>
@@ -9958,7 +9983,7 @@
 					</token>
 					<token join="no" xml:id="t648">
 						<form modified="False">kezdett</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kezd</lemma>
 								<detailed>kezd[/V] + ett[Pst.NDef.3Sg]</detailed>
@@ -9973,13 +9998,13 @@
 					</token>
 					<token join="no" xml:id="t649">
 						<form modified="False">volna</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>volna</lemma>
 								<detailed>volna[/V]</detailed>
 								<simple>[/V]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>van</lemma>
 								<detailed>van[/V]=vol + na[Cond.NDef.3Sg]</detailed>
 								<simple>[/V][Cond.NDef.3Sg]</simple>
@@ -9998,7 +10023,7 @@
 					</token>
 					<token join="no" xml:id="t651">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -10053,7 +10078,7 @@
 					</token>
 					<token join="no" xml:id="t655">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -10073,7 +10098,7 @@
 					</token>
 					<token join="no" xml:id="t656">
 						<form modified="False">összezártság</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>összezártság</lemma>
 								<detailed>össze[/Prev] + zár[/V] + t[_PerfPtcp/Adj] + ság[_Nz_Abstr/N] + [Nom]</detailed>
@@ -10093,7 +10118,7 @@
 					</token>
 					<token join="no" xml:id="t658">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -10113,13 +10138,13 @@
 					</token>
 					<token join="no" xml:id="t659">
 						<form modified="False">állandó</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>állandó</lemma>
 								<detailed>áll[/V] + andó[_FutPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>állandó</lemma>
 								<detailed>állandó[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -10133,7 +10158,7 @@
 					</token>
 					<token join="right" xml:id="t660">
 						<form modified="False">pakolgatás</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>pakolgatás</lemma>
 								<detailed>pakol[/V] + gat[_Freq/V] + ás[_Ger/N] + [Nom]</detailed>
@@ -10141,7 +10166,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t661">
+					<token join="left" xml:id="t661">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">
@@ -10157,13 +10182,13 @@
 				<s modified="False" xml:id="s25">
 					<token join="no" xml:id="t662">
 						<form modified="False">Egy</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
 								<simple>[/Det|Art.NDef]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Num] + [Nom]</detailed>
 								<simple>[/Num][Nom]</simple>
@@ -10177,7 +10202,7 @@
 					</token>
 					<token join="right" xml:id="t663">
 						<form modified="False">biztos</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>biztos</lemma>
 								<detailed>biztos[/Adj] + [Nom]</detailed>
@@ -10202,7 +10227,7 @@
 					</token>
 					<token join="no" xml:id="t665">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -10227,8 +10252,8 @@
 					</token>
 					<token join="no" xml:id="t666">
 						<form modified="False">lakóautózás</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lakóautózás</lemma>
 								<detailed>lakik[/V]=lak + ó[_ImpfPtcp/Adj] + autó[/N] + z[_NVbz_Tr:z/V] + ás[_Ger/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -10248,7 +10273,7 @@
 								<detailed>lakó[/N] + autózik[/V]=autóz + ás[_Ger/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lakóautózás</lemma>
 								<detailed>lakóautó[/N] + z[_NVbz_Tr:z/V] + ás[_Ger/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
@@ -10287,13 +10312,13 @@
 					</token>
 					<token join="no" xml:id="t670">
 						<form modified="False">könnyű</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>könnyű</lemma>
 								<detailed>könny[/N] + ű[_Adjz:Ú/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>könnyű</lemma>
 								<detailed>könnyű[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -10302,7 +10327,7 @@
 					</token>
 					<token join="no" xml:id="t671">
 						<form modified="False">beleszeretni</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>beleszeret</lemma>
 								<detailed>bele[/Prev] + szeret[/V] + ni[Inf]</detailed>
@@ -10312,7 +10337,7 @@
 					</token>
 					<token join="no" xml:id="t672">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -10337,7 +10362,7 @@
 					</token>
 					<token join="right" xml:id="t673">
 						<form modified="False">szabadságba</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>szabadság</lemma>
 								<detailed>szabad[/Adj] + ság[_Nz_Abstr/N] + ba[Ill]</detailed>
@@ -10377,7 +10402,7 @@
 					</token>
 					<token join="no" xml:id="t676">
 						<form modified="False">ez</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ez</lemma>
 								<detailed>ez[/Det|Pro] + [Nom]</detailed>
@@ -10392,7 +10417,7 @@
 					</token>
 					<token join="no" xml:id="t677">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -10412,7 +10437,7 @@
 					</token>
 					<token join="no" xml:id="t678">
 						<form modified="False">egész</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egész</lemma>
 								<detailed>egész[/Adj] + [Nom]</detailed>
@@ -10427,7 +10452,7 @@
 					</token>
 					<token join="right" xml:id="t679">
 						<form modified="False">ad</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ad</lemma>
 								<detailed>ad[/V] + [Prs.NDef.3Sg]</detailed>
@@ -10452,7 +10477,7 @@
 					</token>
 					<token join="no" xml:id="t681">
 						<form modified="False">ott</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ott</lemma>
 								<detailed>ott[/Adv|Pro]</detailed>
@@ -10467,7 +10492,7 @@
 					</token>
 					<token join="right" xml:id="t682">
 						<form modified="False">eszel</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>eszik</lemma>
 								<detailed>eszik[/V]=esz + el[Prs.NDef.2Sg]</detailed>
@@ -10492,13 +10517,13 @@
 					</token>
 					<token join="right" xml:id="t684">
 						<form modified="False">alszol</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>alszol</lemma>
 								<detailed>al[/CmpdPfx] + szol[/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>alszik</lemma>
 								<detailed>alszik[/V]=alsz + ol[Prs.NDef.2Sg]</detailed>
 								<simple>[/V][Prs.NDef.2Sg]</simple>
@@ -10517,7 +10542,7 @@
 					</token>
 					<token join="right" xml:id="t686">
 						<form modified="False">pihensz</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>pihen</lemma>
 								<detailed>pihen[/V] + sz[Prs.NDef.2Sg]</detailed>
@@ -10537,7 +10562,7 @@
 					</token>
 					<token join="right" xml:id="t688">
 						<form modified="False">utazol</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>utazik</lemma>
 								<detailed>utazik[/V]=utaz + ol[Prs.NDef.2Sg]</detailed>
@@ -10602,13 +10627,13 @@
 					</token>
 					<token join="no" xml:id="t693">
 						<form modified="False">gyakorlatilag</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>gyakorlatilag</lemma>
 								<detailed>gyakorlat[/N] + ilag[_NAdvz:ilAg/Adv]</detailed>
 								<simple>[/Adv]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>gyakorlatilag</lemma>
 								<detailed>gyakorlatilag[/Adv]</detailed>
 								<simple>[/Adv]</simple>
@@ -10617,7 +10642,7 @@
 					</token>
 					<token join="no" xml:id="t694">
 						<form modified="False">nem</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>nem</lemma>
 								<detailed>nem[/Adv]</detailed>
@@ -10667,13 +10692,13 @@
 					</token>
 					<token join="right" xml:id="t698">
 						<form modified="False">igazodnod</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>igazodik</lemma>
 								<detailed>igaz[/Adj] + odik[_AdjVbz_Ntr/V]=od + nod[Inf.2Sg]</detailed>
 								<simple>[/V][Inf.2Sg]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>igazodik</lemma>
 								<detailed>igazodik[/V]=igazod + nod[Inf.2Sg]</detailed>
 								<simple>[/V][Inf.2Sg]</simple>
@@ -10694,7 +10719,7 @@
 				<s modified="False" xml:id="s26">
 					<token join="no" xml:id="t700">
 						<form modified="False">Mi</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>mi</lemma>
 								<detailed>mi[/N|Pro] + [1Pl] + [Nom]</detailed>
@@ -10724,7 +10749,7 @@
 					</token>
 					<token join="no" xml:id="t701">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -10764,7 +10789,7 @@
 					</token>
 					<token join="no" xml:id="t704">
 						<form modified="False">variáltuk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>variál</lemma>
 								<detailed>variál[/V] + tuk[Pst.Def.1Pl]</detailed>
@@ -10779,7 +10804,7 @@
 					</token>
 					<token join="no" xml:id="t705">
 						<form modified="False">az</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Art.Def]</detailed>
@@ -10799,7 +10824,7 @@
 					</token>
 					<token join="right" xml:id="t706">
 						<form modified="False">útvonalat</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>útvonal</lemma>
 								<detailed>út[/N] + vonal[/N] + at[Acc]</detailed>
@@ -10834,7 +10859,7 @@
 					</token>
 					<token join="no" xml:id="t709">
 						<form modified="False">mindig</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>mindig</lemma>
 								<detailed>mindig[/Adv]</detailed>
@@ -10849,7 +10874,7 @@
 					</token>
 					<token join="no" xml:id="t710">
 						<form modified="False">arra</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>az</lemma>
 								<detailed>az[/Det|Pro]=ar + ra[Subl]</detailed>
@@ -10869,7 +10894,7 @@
 					</token>
 					<token join="right" xml:id="t711">
 						<form modified="False">mentünk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>megy</lemma>
 								<detailed>megy[/V]=men + tünk[Pst.NDef.1Pl]</detailed>
@@ -10914,7 +10939,7 @@
 					</token>
 					<token join="no" xml:id="t714">
 						<form modified="False">városokon</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>város</lemma>
 								<detailed>város[/N] + ok[Pl] + on[Supe]</detailed>
@@ -10924,7 +10949,7 @@
 					</token>
 					<token join="right" xml:id="t715">
 						<form modified="False">keresztül</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>keresztül</lemma>
 								<detailed>keresztül[/Post|(Supe)]</detailed>
@@ -10974,7 +10999,7 @@
 					</token>
 					<token join="right" xml:id="t719">
 						<form modified="False">volt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>van</lemma>
 								<detailed>van[/V]=vol + t[Pst.NDef.3Sg]</detailed>
@@ -10997,7 +11022,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t720">
+					<token join="left" xml:id="t720">
 						<form modified="False">!</form>
 						<morph check="True">
 							<ana correct="True">
@@ -11013,7 +11038,7 @@
 				<s modified="False" xml:id="s27">
 					<token join="no" xml:id="t721">
 						<form modified="False">Szerintünk</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>szerint</lemma>
 								<detailed>mi[/N|Pro]= + szerint[/Post] + ünk[1Pl]</detailed>
@@ -11033,7 +11058,7 @@
 					</token>
 					<token join="no" xml:id="t723">
 						<form modified="False">ki</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>ki</lemma>
 								<detailed>ki[/Prev]</detailed>
@@ -11078,7 +11103,7 @@
 					</token>
 					<token join="no" xml:id="t726">
 						<form modified="False">egy</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>egy</lemma>
 								<detailed>egy[/Det|Art.NDef]</detailed>
@@ -11108,7 +11133,7 @@
 					</token>
 					<token join="right" xml:id="t728">
 						<form modified="False">kalandot</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>kaland</lemma>
 								<detailed>kaland[/N] + ot[Acc]</detailed>
@@ -11128,7 +11153,7 @@
 					</token>
 					<token join="no" xml:id="t730">
 						<form modified="False">viszont</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>viszont</lemma>
 								<detailed>viszont[/Cnj]</detailed>
@@ -11143,7 +11168,7 @@
 					</token>
 					<token join="no" xml:id="t731">
 						<form modified="False">a</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>a</lemma>
 								<detailed>a[/Det|Art.Def]</detailed>
@@ -11168,7 +11193,7 @@
 					</token>
 					<token join="right" xml:id="t732">
 						<form modified="False">zavartalan</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>zavartalan</lemma>
 								<detailed>zavar[/N] + talan[_Abe/Adj] + [Nom]</detailed>
@@ -11203,7 +11228,7 @@
 					</token>
 					<token join="no" xml:id="t734">
 						<form modified="False">bosszankodás</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>bosszankodás</lemma>
 								<detailed>bosszankodik[/V]=bosszankod + ás[_Ger/N] + [Nom]</detailed>
@@ -11228,13 +11253,13 @@
 					</token>
 					<token join="no" xml:id="t736">
 						<form modified="False">utazáshoz</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>utazás</lemma>
 								<detailed>utaz[/V] + ás[_Ger/N] + hoz[All]</detailed>
 								<simple>[/N][All]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>utazás</lemma>
 								<detailed>utazik[/V]=utaz + ás[_Ger/N] + hoz[All]</detailed>
 								<simple>[/N][All]</simple>
@@ -11263,8 +11288,8 @@
 					</token>
 					<token join="no" xml:id="t738">
 						<form modified="False">érdemes</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>érdemes</lemma>
 								<detailed>érdem[/N] + es[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -11274,7 +11299,7 @@
 								<detailed>érdem[/N] + es[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>érdemes</lemma>
 								<detailed>érdemes[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -11293,7 +11318,7 @@
 					</token>
 					<token join="no" xml:id="t740">
 						<form modified="False">átgondolt</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>átgondolt</lemma>
 								<detailed>át[/Prev] + gondol[/V] + t[_PerfPtcp/Adj] + [Nom]</detailed>
@@ -11318,8 +11343,8 @@
 					</token>
 					<token join="no" xml:id="t742">
 						<form modified="False">kényelmes</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelem[/N]=kényelm + es[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -11329,7 +11354,7 @@
 								<detailed>kényelem[/N]=kényelm + es[_Nz:s/N] + [Nom]</detailed>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>kényelmes</lemma>
 								<detailed>kényelmes[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -11338,8 +11363,8 @@
 					</token>
 					<token join="no" xml:id="t743">
 						<form modified="False">lakóautót</form>
-						<morph check="False">
-							<ana correct="True">
+						<morph check="True">
+							<ana correct="False">
 								<lemma>lakóautó</lemma>
 								<detailed>lakik[/V]=lak + ó[_ImpfPtcp/Adj] + autó[/N] + t[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
@@ -11349,7 +11374,7 @@
 								<detailed>lakó[/N] + autó[/N] + t[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>lakóautó</lemma>
 								<detailed>lakóautó[/N] + t[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
@@ -11358,7 +11383,7 @@
 					</token>
 					<token join="right" xml:id="t744">
 						<form modified="False">választani</form>
-						<morph check="False">
+						<morph check="True">
 							<ana correct="True">
 								<lemma>választ</lemma>
 								<detailed>választ[/V] + ani[Inf]</detailed>
@@ -11376,7 +11401,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t745">
+					<token join="left" xml:id="t745">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">
