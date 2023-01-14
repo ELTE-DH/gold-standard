@@ -3022,7 +3022,7 @@
 									</ana>
 									<ana correct="True" modified="True">
 										<lemma>átenged</lemma>
-										<detailed>át [/Prev]=[] +enged[/V] + het[_Mod/V] + i[Prs.Def.3Sg]</detailed>
+										<detailed>át[/Prev]=[] +enged[/V] + het[_Mod/V] + i[Prs.Def.3Sg]</detailed>
 										<simple>[/V][_Mod/V][Prs.Def.3Sg]</simple>
 									</ana>
 								</morph>
@@ -6059,7 +6059,7 @@
 									</ana>
 									<ana correct="True" modified="True">
 										<lemma>meghatároz</lemma>
-										<detailed>meg[Prev]=[] +határ[/N] + oz[_NVbz_Tr:z/V] + za[Prs.Def.3Sg]</detailed>
+										<detailed>meg[/Prev]=[] +határ[/N] + oz[_NVbz_Tr:z/V] + za[Prs.Def.3Sg]</detailed>
 										<simple>[/V][Prs.Def.3Sg]</simple>
 									</ana>
 								</morph>
@@ -12645,7 +12645,7 @@
 									</ana>
 									<ana correct="True" modified="True">
 										<lemma>átruház</lemma>
-										<detailed>át[Prev]=[] +ruház[/V] + hat[_Mod/V] + ja[Prs.Def.3Sg]</detailed>
+										<detailed>át[/Prev]=[] +ruház[/V] + hat[_Mod/V] + ja[Prs.Def.3Sg]</detailed>
 										<simple>[/V][_Mod/V][Prs.Def.3Sg]</simple>
 									</ana>
 								</morph>
