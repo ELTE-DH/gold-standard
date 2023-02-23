@@ -37,7 +37,7 @@ The \<ana\> elements inside \<morph\> elements contain the analysis options prov
 
 ## Content of this repository
 
-The "pilot" subdirectory of the repository contains the pilot annotations, which were made between May and August 2021. The repository also contains the annotation guide (in Hungarian), and the scripts that we used for the preprocessing of the texts and the measurement of inter-annotator agreement. The "corpus" subfolder contains the preprocessed xml files. The commit message "original files" indicates that the annotations of the file have not been manually checked yet.
+The "pilot" subdirectory of the repository contains the pilot annotations, which were made between May and August 2021. The repository also contains the annotation guidelines (in Hungarian), and the scripts that we used for the preprocessing of the texts and the measurement of inter-annotator agreement. The "corpus" subfolder contains the preprocessed xml files. The commit message "original files" indicates that the annotations of the file have not been manually checked yet.
 
 ## Corpus size
 
@@ -55,4 +55,11 @@ Last update: 08.08.2022.
 
 The project is funded by National Laboratory for Digital Heritage (Digitális Örökség Nemzeti Laboratórium). The project leader is Andrea Dömötör.
 
-The corpus is available under the license CC-BY-SA 4.0. If you use this corpus, please cite this repository (we do not have a published paper yet).
+The corpus is available under the license CC-BY-SA 4.0.
+
+If you use this corpus, please cite:
+
+```
+K. Molnár Emese, Dömötör Andrea: Gondolatok a gondola-tokról. Morfológiai annotációt javító módszerek tesztelése gold standard korpuszon. In: Berend G., Gosztolya G., Vincze V. (szerk.): XIX. Magyar Számítógépes Nyelvészeti Konferencia, Szeged, 2023. 341--356.
+```
+
