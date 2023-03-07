@@ -18,6 +18,8 @@ The corpus is planned to represent the following domains:
 
 * technical -- field-specific texts (legal, medical, IT, etc.)
 
+* legal -- laws and legal documents
+
 The corpus will only contain texts that are either not copyrighted or the holder of rights has given premission of use. Currently, the project is in the phase of morphological annotation. The repository is updated with new annotated texts weekly.
 
 
@@ -43,12 +45,12 @@ The "pilot" subdirectory of the repository contains the pilot annotations, which
 
 Corpus building and annotation are in progress. Size information is updated weekly (usually on Mondays).
 
-Last update: 08.08.2022.
+Last update: 07.03.2023.
 
 |    | Tokens |
 |:---|-------:|
-| Texts uploaded | 350822 |
-| Morphology manually corrected | 334490 |
+| Texts uploaded | 409208 |
+| Morphology manually corrected | 377114 |
 | Morphology validated | 0 |
 
 ## License and usage
