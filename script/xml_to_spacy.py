@@ -6,18 +6,19 @@ Reads a level2 TEI XML (i.e. one that already has the emtsv annotations),
 parses it with spaCy and converts it into a CoNLL-U file.
 """
 
-from collections.abc import Generator, Iterator
+from collections.abc import Iterator
 from argparse import ArgumentParser
 import itertools
 import os
 from pathlib import Path
+import sys
 from typing import TypeVar
 
-import hu_core_news_lg
-from spacy.tokens import Doc
 # import spacy_conll  # noqa
+import spacy
 
-from xml.etree import ElementTree
+from gold_standard.spacy import WhitespaceTokenizer
+from gold_standard.tei import sentences
 
 
 def parse_arguments():
@@ -25,6 +26,8 @@ def parse_arguments():
     parser.add_argument('input_file', type=Path, help='the input .xml file.')
     parser.add_argument('output_file', type=Path,
                         help='the output .conllu file.')
+    parser.add_argument('--spacy-model', '-s', default='hu_core_news_lg',
+                        help='the spaCy model to load (hu_core_news_lg).')
     parser.add_argument('--processes', '-P', type=int, default=1,
                         help='number of worker processes to use (max is the '
                              'num of cores, default: 1)')
@@ -35,35 +38,6 @@ def parse_arguments():
         parser.error('Number of processes must be between 1 and {}'.format(
             num_procs))
     return args
-
-
-def sentences(tei_xml_file: Path) -> Generator[tuple[list[str], list[str]]]:
-    """
-    Iterates through the sentences of a TEI XML file.
-
-    :return: Yields a list of surface forms for each sentence.
-    """
-    namespaces = {
-        '': 'http://www.tei-c.org/ns/1.0',
-        'xml': 'http://www.w3.org/XML/1998/namespace'
-    }
-    # TODO I am not sure this is needed at all
-    for prefix, uri in namespaces.items():
-        ElementTree.register_namespace(prefix, uri)
-
-    with open(tei_xml_file, 'rt', encoding='utf-8') as inf:
-        xml_text = inf.read()
-
-    xml = ElementTree.fromstring(xml_text)
-    # TODO: is there a better way? To do this without a namespace?
-    id_attr = ElementTree.QName(namespaces['xml'], 'id')
-    for p_tag in xml.iterfind('.//text//p'):
-        for s_tag in p_tag.iterfind('.//s'):
-            tokens = [(t_tag.find('form').text.strip(), t_tag.get(id_attr))
-                      for t_tag in s_tag.iterfind('.//token')]
-            if tokens:
-                words, ids = zip(*tokens)
-                yield(' '.join(words), ids)
 
 
 T = TypeVar('T')
@@ -80,37 +54,16 @@ def split_gen(it: Iterator[tuple[T, U]]) -> tuple[Iterator[T], Iterator[U]]:
     return (a for a, _ in it_a), (b for _, b in it_b)
 
 
-class WhitespaceTokenizer:
-    """
-    A tokenizer that splits on whitespaces. Required if we want to run spaCy
-    on already tokenized data.
-    """
-    def __init__(self, vocab):
-        self.vocab = vocab
-
-    def __call__(self, text):
-        words = text.split(" ")
-        spaces = [True] * len(words)
-        # Avoid zero-length tokens
-        for i, word in enumerate(words):
-            if word == "":
-                words[i] = " "
-                spaces[i] = False
-        # Remove the final trailing space
-        if words[-1] == " ":
-            words = words[0:-1]
-            spaces = spaces[0:-1]
-        else:
-            spaces[-1] = False
-
-        return Doc(self.vocab, words=words, spaces=spaces)
-
-
 def main():
     args = parse_arguments()
 
     # Using a white space tokenizer, as the data is already tokenized.
-    nlp = hu_core_news_lg.load()
+    try:
+        nlp = spacy.load(args.spacy_model)
+    except OSError:
+        print(f'Model {args.spacy_model} is not available. Please download it '
+              'via `python -m spacy download <model>` or via pip.')
+        sys.exit(-1)
     nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
     nlp.add_pipe("conll_formatter")
 
