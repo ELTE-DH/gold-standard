@@ -6,19 +6,17 @@ Reads a level2 TEI XML (i.e. one that already has the emtsv annotations),
 parses it with spaCy and converts it into a CoNLL-U file.
 """
 
-from collections.abc import Iterator
 from argparse import ArgumentParser
-import itertools
 import os
 from pathlib import Path
 import sys
-from typing import TypeVar
 
 # import spacy_conll  # noqa
 import spacy
 
 from gold_standard.spacy import WhitespaceTokenizer
 from gold_standard.tei import sentences
+from gold_standard.utils import split_gen
 
 
 def parse_arguments():
@@ -38,20 +36,6 @@ def parse_arguments():
         parser.error('Number of processes must be between 1 and {}'.format(
             num_procs))
     return args
-
-
-T = TypeVar('T')
-U = TypeVar('U')
-
-
-def split_gen(it: Iterator[tuple[T, U]]) -> tuple[Iterator[T], Iterator[U]]:
-    """
-    Splits the iterator _it_ of tuples into two.
-
-    From https://stackoverflow.com/questions/28030095/.
-    """
-    it_a, it_b = itertools.tee(it, 2)
-    return (a for a, _ in it_a), (b for _, b in it_b)
 
 
 def main():
