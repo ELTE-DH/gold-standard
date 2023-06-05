@@ -45,12 +45,12 @@ The "pilot" subdirectory of the repository contains the pilot annotations, which
 
 Corpus building and annotation are in progress. Size information is updated weekly (usually on Mondays).
 
-Last update: 03.05.2023.
+Last update: 2023. 06. 05.
 
 |    | Tokens |
 |:---|-------:|
 | Texts uploaded | 485908
-| Morphology manually corrected | 412310
+| Morphology manually corrected | 417239
 | Morphology validated | 0 |
 
 ## License and usage
