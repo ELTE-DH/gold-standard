@@ -50,7 +50,7 @@ Last update: 2023. 10. 20.
 |    | Tokens |
 |:---|-------:|
 | Texts uploaded | 501924
-| Morphology manually corrected | 4762811
+| Morphology manually corrected | 476281
 | Morphology validated | 0 |
 
 ## License and usage
