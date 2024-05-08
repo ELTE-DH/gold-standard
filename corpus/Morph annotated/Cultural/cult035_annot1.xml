@@ -1384,7 +1384,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s6"/>
 				</p>
 			</div>
 			<p xml:id="p2">
@@ -3987,7 +3986,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s14"/>
 			</p>
 			<div type="level1" xml:id="d2">
 				<head type="title">     Felpörög a Mars-biznisz   </head>
@@ -7262,7 +7260,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s25"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d3">
@@ -9831,7 +9828,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s35"/>
 				</p>
 				<p xml:id="p5">
 					<s modified="False" xml:id="s36">
@@ -13221,7 +13217,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s47"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d4">
@@ -15923,7 +15918,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s56"/>
 				</p>
 				<p xml:id="p7">
 					<s modified="False" xml:id="s57">
@@ -18087,7 +18081,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s65"/>
 				</p>
 			</div>
 		</body>
