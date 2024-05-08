@@ -2618,7 +2618,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s9"/>
 				</p>
 			</div>
 			<p xml:id="p2">
@@ -3763,7 +3762,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s13"/>
 			</p>
 			<div type="level1" xml:id="d2">
 				<head type="title">     A második német északi-sarki expedíció   </head>
@@ -6048,7 +6046,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s20"/>
 				</p>
 				<p xml:id="p4">
 					<s modified="False" xml:id="s21">
@@ -8413,7 +8410,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s28"/>
 				</p>
 				<p xml:id="p5">
 					<s modified="False" xml:id="s29">
@@ -37494,7 +37490,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s117"/>
 				</p>
 			</div>
 		</body>
