@@ -739,7 +739,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s2"/>
 				</p>
 			</div>
 			<p xml:id="p2">
@@ -1542,7 +1541,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s5"/>
 			</p>
 			<p xml:id="p3">
 				<s modified="False" xml:id="s6">
@@ -6617,7 +6615,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s17"/>
 			</p>
 			<p xml:id="p4">
 				<s modified="False" xml:id="s18">
@@ -8680,7 +8677,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s23"/>
 			</p>
 			<p xml:id="p5">
 				<s modified="False" xml:id="s24">
@@ -10940,7 +10936,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s30"/>
 			</p>
 			<p xml:id="p6">
 				<s modified="False" xml:id="s31">
@@ -12835,7 +12830,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s35"/>
 			</p>
 			<p xml:id="p7">
 				<s modified="False" xml:id="s36">
@@ -13939,7 +13933,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s39"/>
 			</p>
 			<p xml:id="p8">
 				<s modified="False" xml:id="s40">
@@ -17498,7 +17491,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s48"/>
 			</p>
 			<p xml:id="p9">
 				<s modified="False" xml:id="s49">
@@ -22008,7 +22000,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s60"/>
 			</p>
 		</body>
 	</text>
