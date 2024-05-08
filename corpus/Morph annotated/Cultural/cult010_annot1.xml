@@ -20889,7 +20889,7 @@
 									<detailed>homo[/N] + [Nom]</detailed>
 									<simple>[/N][Nom]</simple>
 								</ana>
-								<ana correct="False" modified="True">
+								<ana correct="True">
 									<lemma>homo</lemma>
 									<detailed>homo[/N|lat] + [Nom]</detailed>
 									<simple>[/N][Nom]</simple>
