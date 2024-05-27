@@ -18508,7 +18508,7 @@
 						<token join="no" xml:id="t1210">
 							<form modified="False">keretében</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>keret</lemma>
 									<detailed>keret[/N] + e[Poss.3Sg]=é + ben[Ine]</detailed>
 									<simple>[/N][Poss.3Sg][Ine]</simple>
@@ -38592,7 +38592,7 @@
 						<token join="no" xml:id="t2532">
 							<form modified="False">Nemcsak</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>nemcsak</lemma>
 									<detailed>nemcsak[/Adv]</detailed>
 									<simple>[/Adv]</simple>
@@ -57707,7 +57707,7 @@
 						<token join="no" xml:id="t3785">
 							<form modified="False">behatolókat</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>behatoló</lemma>
 									<detailed>be[/Prev] + hatol[/V] + ó[_ImpfPtcp/Adj] + k[Pl] + at[Acc]</detailed>
 									<simple>[/Adj][Pl][Acc]</simple>
