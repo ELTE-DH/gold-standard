@@ -2659,7 +2659,7 @@
 									<detailed/>
 									<simple>[/N]</simple>
 								</ana>
-								<ana correct="False" modified="True">
+								<ana correct="True">
 									<lemma>Germain-prím</lemma>
 									<detailed>Germain[/N]=Germain- + prím[/N] + ként[EssFor:ként]</detailed>
 									<simple>[/N][EssFor:ként]</simple>
