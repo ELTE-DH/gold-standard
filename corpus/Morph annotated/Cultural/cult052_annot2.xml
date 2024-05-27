@@ -4000,7 +4000,7 @@
 								<detailed>bármely[/N|Pro] + [Nom]</detailed>
 								<simple>[/N|Pro][Nom]</simple>
 							</ana>
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>bármely</lemma>
 								<detailed>bármely[/Det|Pro]</detailed>
 								<simple>[/Det|Pro]</simple>
