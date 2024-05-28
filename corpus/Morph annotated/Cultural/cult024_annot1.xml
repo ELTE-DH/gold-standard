@@ -432,7 +432,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s3"/>
 			</p>
 			<p xml:id="p2">
 				<s modified="False" xml:id="s4">
@@ -3530,7 +3529,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s14"/>
 			</p>
 			<div type="level1" xml:id="d1">
 				<head type="title">     Mit rejt-e térkép?   </head>
@@ -6802,7 +6800,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s26"/>
 				</p>
 				<p xml:id="p4">
 					<s modified="False" xml:id="s27">
@@ -10118,7 +10115,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s36"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d2">
@@ -12720,7 +12716,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s45"/>
 				</p>
 				<p xml:id="p6">
 					<s modified="False" xml:id="s46">
@@ -15564,7 +15559,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s54"/>
 				</p>
 				<p xml:id="p7">
 					<s modified="False" xml:id="s55">
@@ -16552,7 +16546,7 @@
 						<token join="no" xml:id="t1091">
 							<form modified="False">Üres</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>üres</lemma>
 									<detailed>üres[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -19214,7 +19208,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s66"/>
 				</p>
 				<p xml:id="p8">
 					<s modified="False" xml:id="s67">
@@ -19666,7 +19659,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s69"/>
 				</p>
 			</div>
 		</body>
