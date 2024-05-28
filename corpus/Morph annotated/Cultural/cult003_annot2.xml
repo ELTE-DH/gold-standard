@@ -365,7 +365,7 @@
 					<token join="no" xml:id="t21">
 						<form modified="False">gyorsuló</form>
 						<morph check="True">
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>gyorsuló</lemma>
 								<detailed>gyors[/Adj] + ul[_AdjVbz_Ntr/V] + ó[_ImpfPtcp/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -789,7 +789,7 @@
 					<token join="no" xml:id="t51">
 						<form modified="False">fizikai</form>
 						<morph check="True">
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>fizikai</lemma>
 								<detailed>fizika[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -824,7 +824,7 @@
 					<token join="no" xml:id="t53">
 						<form modified="False">szellemi</form>
 						<morph check="True">
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>szellemi</lemma>
 								<detailed>szellem[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -919,12 +919,7 @@
 								<detailed>végre[/Prev] + hajt[/V] + ás[_Ger/N] + a[Poss.3Sg]=á + ra[Subl]</detailed>
 								<simple>[/N][Poss.3Sg][Subl]</simple>
 							</ana>
-							<ana correct="True">
-								<lemma>végrehajtás</lemma>
-								<detailed>végre[/Prev] + hajt[/V] + ás[_Ger/N] + a[Poss.3Sg]=á + ra[Subl]</detailed>
-								<simple>[/N][Poss.3Sg][Subl]</simple>
-							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>végrehajtás</lemma>
 								<detailed>végrehajtás[/N] + a[Poss.3Sg]=á + ra[Subl]</detailed>
 								<simple>[/N][Poss.3Sg][Subl]</simple>
@@ -2855,7 +2850,7 @@
 									<detailed>század[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>századi</lemma>
 									<detailed>századi[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -4561,12 +4556,12 @@
 						<token join="no" xml:id="t299">
 							<form modified="False">előírásaiba</form>
 							<morph check="True">
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>előírás</lemma>
 									<detailed>elő[/Adj] + ír[/V] + ás[_Ger/N] + ai[Pl.Poss.3Sg] + ba[Ill]</detailed>
 									<simple>[/N][Pl.Poss.3Sg][Ill]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>előírás</lemma>
 									<detailed>elő[/Adj] + írás[/N] + ai[Pl.Poss.3Sg] + ba[Ill]</detailed>
 									<simple>[/N][Pl.Poss.3Sg][Ill]</simple>
@@ -4576,7 +4571,7 @@
 									<detailed>elő[/Prev] + ír[/V] + ás[_Ger/N] + ai[Pl.Poss.3Sg] + ba[Ill]</detailed>
 									<simple>[/N][Pl.Poss.3Sg][Ill]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>előírás</lemma>
 									<detailed>előírás[/N] + ai[Pl.Poss.3Sg] + ba[Ill]</detailed>
 									<simple>[/N][Pl.Poss.3Sg][Ill]</simple>
@@ -5932,7 +5927,7 @@
 									<detailed>otthon[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>otthoni</lemma>
 									<detailed>otthoni[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -6384,7 +6379,7 @@
 									<detailed>munka[/N] + végez[/V]=végz + és[_Ger/N] + re[Subl]</detailed>
 									<simple>[/N][Subl]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>munkavégzés</lemma>
 									<detailed>munka[/N] + végzés[/N] + re[Subl]</detailed>
 									<simple>[/N][Subl]</simple>
@@ -6554,7 +6549,7 @@
 									<detailed>hátrány[/N] + os[_Adjz:s/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>hátrányos</lemma>
 									<detailed>hátrányos[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -6871,7 +6866,7 @@
 									<detailed>társadalom[/N]=társadalm + i[_Adjz:i/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>társadalmi</lemma>
 									<detailed>társadalmi[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -10218,7 +10213,7 @@
 									<detailed>Szeged[/N]=szeged + i[_Adjz:i/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>szegedi</lemma>
 									<detailed>szegedi[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -11227,7 +11222,7 @@
 									<detailed>lát[/V] + ható[_ModPtcp/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>látható</lemma>
 									<detailed>látható[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -11926,7 +11921,7 @@
 									<detailed>vezérel[/V]=vezérl + és[_Ger/N] + ű[_Adjz:Ú/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>vezérlésű</lemma>
 									<detailed>vezérlés[/N] + ű[_Adjz:Ú/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -12495,7 +12490,7 @@
 									<detailed>ipar[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>ipari</lemma>
 									<detailed>ipari[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -13094,7 +13089,7 @@
 									<detailed>meg[/Prev] + figyel[/V] + ő[_ImpfPtcp/Adj] + ballon[/N] + ok[Pl] + ból[Ela]</detailed>
 									<simple>[/N][Pl][Ela]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>megfigyelőballon</lemma>
 									<detailed>megfigyelő[/N] + ballon[/N] + ok[Pl] + ból[Ela]</detailed>
 									<simple>[/N][Pl][Ela]</simple>
@@ -13314,7 +13309,7 @@
 									<detailed>fel[/Prev] + tár[/V] + ás[_Ger/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>feltárási</lemma>
 									<detailed>feltárás[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -13408,7 +13403,7 @@
 									<detailed>orvos[/N] + i[_Adjz:i/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>orvosi</lemma>
 									<detailed>orvosi[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -16676,7 +16671,7 @@
 									<detailed>lát[/V] + ható[_ModPtcp/Adj] + ak[Pl] + [Nom]</detailed>
 									<simple>[/Adj][Pl][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>látható</lemma>
 									<detailed>látható[/Adj] + ak[Pl] + [Nom]</detailed>
 									<simple>[/Adj][Pl][Nom]</simple>
@@ -19339,7 +19334,7 @@
 									<detailed>találkozik[/V]=találkoz + ás[_Ger/N] + a[Poss.3Sg]=á + ra[Subl]</detailed>
 									<simple>[/N][Poss.3Sg][Subl]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>találkozás</lemma>
 									<detailed>találkozás[/N] + a[Poss.3Sg]=á + ra[Subl]</detailed>
 									<simple>[/N][Poss.3Sg][Subl]</simple>
@@ -22573,7 +22568,7 @@
 						<token join="no" xml:id="t1483">
 							<form modified="False">kiállításon</form>
 							<morph check="True">
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>kiállítás</lemma>
 									<detailed>ki[/Prev] + állít[/V] + ás[_Ger/N] + on[Supe]</detailed>
 									<simple>[/N][Supe]</simple>
