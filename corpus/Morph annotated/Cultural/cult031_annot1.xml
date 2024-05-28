@@ -1253,7 +1253,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s6"/>
 			</p>
 			<p xml:id="p2">
 				<s modified="False" xml:id="s7">
@@ -6513,7 +6512,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s23"/>
 			</p>
 			<div type="level1" xml:id="d1">
 				<head type="title">     Elolvad a jövőnk   </head>
@@ -11677,7 +11675,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s41"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d2">
@@ -16218,7 +16215,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s57"/>
 				</p>
 			</div>
 		</body>
