@@ -23408,7 +23408,7 @@
 						<token join="no" xml:id="t1566">
 							<form modified="False">egyidőben</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>egy*** idő</lemma>
 									<detailed>egy[/Num] + [Nom] + ***[/Space]=_ + idő[/N] + ben[Ine] + [Nom]</detailed>
 									<simple>[/N][Ine][Nom]</simple>
@@ -39677,9 +39677,9 @@
 									<detailed>1[/Num|Digit] + 8[/Num|Digit] + 5[/Num|Digit] + 9[/Num|Digit]=9- + es[_Adjz:s/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="False" modified="True">
+								<ana correct="True">
 									<lemma>1859-es</lemma>
-									<detailed>1859[/Num|Digit]+es[_Nz:s/N]+[Nom]</detailed>
+									<detailed>1859[/Num|Digit]=1859- + es[_Adjz:s/Adj] + [Nom]</detailed>
 									<simple>[/N][Nom]</simple>
 								</ana>
 							</morph>
