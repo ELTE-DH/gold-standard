@@ -1397,7 +1397,7 @@
 					<token join="right" xml:id="t88">
 						<form modified="False">Nagy-szigeten</form>
 						<morph check="True">
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>Nagy-sziget</lemma>
 								<detailed>Nagy[/N] + [Nom] + -[Hyph:Hyph] + sziget[/N] + en[Supe]</detailed>
 								<simple>[/N][Supe]</simple>
@@ -1762,7 +1762,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s8"/>
 			</p>
 			<p xml:id="p2">
 				<s modified="False" xml:id="s9">
@@ -2885,7 +2884,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s14"/>
 			</p>
 			<div type="level1" xml:id="d1">
 				<head type="title">     Forró pontok   </head>
@@ -7512,7 +7510,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s26"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d2">
@@ -11617,7 +11614,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s40"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d3">
@@ -14906,7 +14902,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s50"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d4">
@@ -17685,7 +17680,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s60"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d5">
@@ -20260,7 +20254,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s71"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d6">
@@ -22469,7 +22462,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s79"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d7">
@@ -24596,7 +24588,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s86"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d8">
@@ -26254,7 +26245,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s91"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d9">
@@ -31020,7 +31010,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s107"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d10">
@@ -33457,7 +33446,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s118"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d11">
@@ -35494,7 +35482,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s130"/>
 				</p>
 			</div>
 		</body>
