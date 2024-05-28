@@ -7485,7 +7485,7 @@
 								<detailed>Reading[/N]=reading + i[_Adjz:i/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="False" modified="True">
+							<ana correct="True">
 								<lemma>Reading</lemma>
 								<detailed>Reading[/N]=reading+i[_Adjz:i/Adj]+[Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
