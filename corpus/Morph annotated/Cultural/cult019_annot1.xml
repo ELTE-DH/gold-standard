@@ -814,7 +814,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s4"/>
 			</p>
 			<p xml:id="p2">
 				<s modified="False" xml:id="s5">
@@ -3849,7 +3848,6 @@
 						</morph>
 					</token>
 				</s>
-				<s modified="False" xml:id="s11"/>
 			</p>
 			<div type="level1" xml:id="d1">
 				<head type="title">     Fiatal tudományág   </head>
@@ -9031,7 +9029,7 @@
 						</token>
 						<token join="no" xml:id="t557">
 							<form modified="False">ízben</form>
-							<morph check="False">
+							<morph check="True">
 								<ana correct="True">
 									<lemma>íz</lemma>
 									<detailed>íz[/N] + ben[Ine]</detailed>
@@ -13991,7 +13989,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s42"/>
 				</p>
 				<p xml:id="p4">
 					<s modified="False" xml:id="s43">
@@ -16120,7 +16117,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s49"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d2">
@@ -21657,7 +21653,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s63"/>
 				</p>
 				<p xml:id="p6">
 					<s modified="False" xml:id="s64">
@@ -24276,7 +24271,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s72"/>
 				</p>
 			</div>
 			<div type="level1" xml:id="d3">
@@ -26801,7 +26795,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s80"/>
 				</p>
 				<p xml:id="p8">
 					<s modified="False" xml:id="s81">
@@ -30394,7 +30387,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s91"/>
 				</p>
 				<p xml:id="p9">
 					<s modified="False" xml:id="s92">
@@ -32737,7 +32729,6 @@
 							</morph>
 						</token>
 					</s>
-					<s modified="False" xml:id="s97"/>
 				</p>
 			</div>
 		</body>
