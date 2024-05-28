@@ -7005,7 +7005,7 @@
 						<token join="no" xml:id="t455">
 							<form modified="False">kérdés</form>
 							<morph check="True">
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>kérdés</lemma>
 									<detailed>kérd[/V] + és[_Ger/N] + [Nom]</detailed>
 									<simple>[/N][Nom]</simple>
