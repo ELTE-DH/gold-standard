@@ -68,7 +68,7 @@
 								<detailed>társadalom[/N]=társadalm + i[_Adjz:i/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>társadalmi</lemma>
 								<detailed>társadalmi[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -13687,7 +13687,7 @@
 								<detailed>nap[/N] + os[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>napos</lemma>
 								<detailed>napos[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
