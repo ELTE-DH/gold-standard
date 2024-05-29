@@ -22727,7 +22727,7 @@
 							<token join="no" xml:id="t1486">
 								<form modified="False">GESIS</form>
 								<morph check="True">
-									<ana correct="False">
+									<ana correct="True">
 										<lemma>GESIS</lemma>
 										<detailed/>
 										<simple>[/N][Nom]</simple>
@@ -28966,7 +28966,7 @@
 							<token join="no" xml:id="t1897">
 								<form modified="False">sokszor</form>
 								<morph check="True">
-									<ana correct="False">
+									<ana correct="True">
 										<lemma>sok</lemma>
 										<detailed>sok[/Num] + szor[_Mlt-Iter/Adv]</detailed>
 										<simple>[/Num][_Mlt-Iter/Adv]</simple>
@@ -100927,7 +100927,7 @@
 							</morph>
 						</token>
 						<token join="no" xml:id="t6615"><form modified="True">facebookozóminta</form><morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>facebookozóminta</lemma>
 									<detailed>Facebook[/N]=facebook + oz[_NVbz_Tr:z/V] + ó[_ImpfPtcp/Adj] + minta[/N] + [Nom]</detailed>
 									<simple>[/N][Nom]</simple>
