@@ -13355,7 +13355,7 @@
 									<detailed/>
 									<simple>[/N][Nom]</simple>
 								</ana>
-								<ana correct="False" modified="True">
+								<ana correct="True">
 									<lemma>Shangri-La</lemma>
 									<detailed>Shangri[/X] + -[Hyph:Hyph] + La[/X]</detailed>
 									<simple>[/X]</simple>
@@ -22716,7 +22716,7 @@
 									<detailed>–[Hyph:Dash]</detailed>
 									<simple>[Hyph:Dash]</simple>
 								</ana>
-								<ana correct="False" modified="True">
+								<ana correct="True">
 									<lemma>–</lemma>
 									<detailed>–[/Punct]</detailed>
 									<simple>[/Punct]</simple>
