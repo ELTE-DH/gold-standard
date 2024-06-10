@@ -10001,9 +10001,9 @@
 											<detailed>USD[/N|Acron]=USD- + re[Subl]</detailed>
 											<simple>[/N][Subl]</simple>
 										</ana>
-										<ana correct="False" modified="True">
+										<ana correct="True">
 											<lemma>USD</lemma>
-											<detailed>USD[/N|Abbr]+re[Subl]</detailed>
+											<detailed>USD[/N|Abbr] + re[Subl]</detailed>
 											<simple>[/N|Abbr][Subl]</simple>
 										</ana>
 									</morph>
