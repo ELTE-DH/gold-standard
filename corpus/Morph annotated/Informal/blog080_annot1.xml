@@ -81028,7 +81028,7 @@
 					<token join="no" xml:id="t5500">
 						<form modified="False">non-stop</form>
 						<morph check="True">
-							<ana correct="False">
+							<ana correct="True">
 								<lemma>non-stop</lemma>
 								<detailed/>
 								<simple>[/N][Nom]</simple>
