@@ -8235,8 +8235,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s50">
 						<token join="no" xml:id="t582">
 							<form modified="False">:D</form>
 							<morph check="True">
@@ -10878,8 +10876,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="True" xml:id="s69">
 						<token join="no" xml:id="t772">
 							<form modified="False">:)</form>
 							<morph check="True">
@@ -13779,8 +13775,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s85">
 						<token join="no" xml:id="t971">
 							<form modified="False">:)</form>
 							<morph check="True">
@@ -14518,8 +14512,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s90">
 						<token join="no" xml:id="t1019">
 							<form modified="False">;)</form>
 							<morph check="True">
@@ -22104,8 +22096,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="True" xml:id="s139">
 						<token join="no" xml:id="t1560">
 							<form modified="False">:D</form>
 							<morph check="True">
@@ -23366,8 +23356,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s144">
 						<token join="no" xml:id="t1641">
 							<form modified="False">:D</form>
 							<morph check="True">
