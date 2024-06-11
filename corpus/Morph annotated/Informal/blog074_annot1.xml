@@ -2341,8 +2341,6 @@
 							</ana>
 						</morph>
 					</token>
-				</s>
-				<s modified="False" xml:id="s11">
 					<token join="no" xml:id="t150">
 						<form modified="False">:D</form>
 						<morph check="True">
@@ -2351,7 +2349,7 @@
 								<detailed/>
 								<simple>[/N][Nom]</simple>
 							</ana>
-							<ana correct="True" modified="True">
+							<ana correct="True">
 								<lemma>:D</lemma>
 								<detailed>:D[/X]</detailed>
 								<simple>[/X]</simple>
@@ -2769,10 +2767,6 @@
 									<detailed>London[/N]+[Nom]</detailed>
 									<simple>[/N][Nom]</simple>
 								</ana></morph>
-						</token>
-						<token join="both" xml:id="t180_2">
-							<form modified="True">.</form>
-							<morph check="False"/>
 						</token>
 						<token join="left" xml:id="t181">
 							<form modified="False">)</form>
@@ -5675,8 +5669,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s33">
 						<token join="no" xml:id="t390">
 							<form modified="False">:D</form>
 							<morph check="True">
@@ -5685,7 +5677,7 @@
 									<detailed/>
 									<simple>[/N][Nom]</simple>
 								</ana>
-								<ana correct="True" modified="True">
+								<ana correct="True">
 									<lemma>:D</lemma>
 									<detailed>:D[/X]</detailed>
 									<simple>[/X]</simple>
@@ -16986,8 +16978,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s103">
 						<token join="no" xml:id="t1175">
 							<form modified="False">:D</form>
 							<morph check="True">
@@ -16996,7 +16986,7 @@
 									<detailed/>
 									<simple>[/N][Nom]</simple>
 								</ana>
-								<ana correct="True" modified="True">
+								<ana correct="True">
 									<lemma>:D</lemma>
 									<detailed>:D[/X]</detailed>
 									<simple>[/X]</simple>
