@@ -3789,7 +3789,7 @@
 						<token join="no" xml:id="t244">
 							<form modified="False">halál</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>halál</lemma>
 									<detailed>halál[/N] + [Nom]</detailed>
 									<simple>[/N][Nom]</simple>
