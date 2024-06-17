@@ -15974,7 +15974,7 @@
 						<token join="no" xml:id="t1059">
 							<form modified="False">ösztönösen</form>
 							<morph check="True">
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>ösztönös</lemma>
 									<detailed>ösztön[/N] + ös[_Adjz:s/Adj] + en[_Manner/Adv]</detailed>
 									<simple>[/Adj][_Manner/Adv]</simple>
@@ -16495,7 +16495,7 @@
 						<token join="right" xml:id="t1097">
 							<form modified="False">húzódtak</form>
 							<morph check="True">
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>húzódik</lemma>
 									<detailed>húz[/V] + ódik[_MedPass/V]=ód + tak[Pst.NDef.3Pl]</detailed>
 									<simple>[/V][Pst.NDef.3Pl]</simple>
@@ -17733,7 +17733,7 @@
 									<detailed>zár[/V] + t[_PerfPtcp/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>zárt</lemma>
 									<detailed>zárt[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
@@ -17899,7 +17899,7 @@
 									<detailed>vigasztal[/V] + ódik[_MedPass/V]=ód + tam[Pst.NDef.1Sg]</detailed>
 									<simple>[/V][Pst.NDef.1Sg]</simple>
 								</ana>
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>vigasztalódik</lemma>
 									<detailed>vigasztalódik[/V]=vigasztalód + tam[Pst.NDef.1Sg]</detailed>
 									<simple>[/V][Pst.NDef.1Sg]</simple>
