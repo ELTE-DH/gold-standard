@@ -3668,8 +3668,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s20">
 						<token join="no" xml:id="t250">
 							<form modified="False">:)</form>
 							<morph check="True">
@@ -24257,8 +24255,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s128">
 						<token join="no" xml:id="t1634">
 							<form modified="False">:)</form>
 							<morph check="True">
