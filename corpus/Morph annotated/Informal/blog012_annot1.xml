@@ -8105,7 +8105,7 @@
 									<detailed>30[/Num|Digit]=30- + as[_Nz:s/N] + [Nom]</detailed>
 									<simple>[/N][Nom]</simple>
 								</ana>
-								<ana correct="False" modified="True">
+								<ana correct="True">
 									<lemma>30-as</lemma>
 									<detailed>30[/Num|Digit] + -[Hyph:Hyph] + as[_Adjz:s/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
