@@ -26188,7 +26188,7 @@
 						<token join="no" xml:id="t1816">
 							<form modified="False">rajta</form>
 							<morph check="False">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>ő</lemma>
 									<detailed>ő[/N|Pro]= + rajta[Supe]=rajt + a[3Sg]</detailed>
 									<simple>[/N|Pro][Supe][3Sg]</simple>
