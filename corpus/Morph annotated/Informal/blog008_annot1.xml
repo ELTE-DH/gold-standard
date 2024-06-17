@@ -934,7 +934,7 @@
 						<token join="no" xml:id="t61">
 							<form modified="False">itthoni</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>itthoni</lemma>
 									<detailed>itthoni[/Adj] + [Nom]</detailed>
 									<simple>[/Adj][Nom]</simple>
