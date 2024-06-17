@@ -7051,8 +7051,6 @@
 								</ana>
 							</morph>
 						</token>
-					</s>
-					<s modified="False" xml:id="s76">
 						<token join="no" xml:id="t472">
 							<form modified="False">:)</form>
 							<morph check="True">
@@ -13167,7 +13165,13 @@
 						</token>
 						<token join="no" xml:id="t872">
 							<form modified="True">mintha</form>
-							<morph check="False"/>
+							<morph check="True">
+								<ana correct="True">
+									<lemma>mintha</lemma>
+									<detailed>mintha[/Cnj]</detailed>
+									<simple>[/Cnj]</simple>
+								</ana>
+							</morph>
 						</token>
 						<token join="no" xml:id="t873">
 							<form modified="False">a</form>
