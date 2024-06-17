@@ -13842,7 +13842,7 @@
 						<token join="no" xml:id="t931">
 							<form modified="False">másként</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>másként</lemma>
 									<detailed>másként[/Adv]</detailed>
 									<simple>[/Adv]</simple>
@@ -17646,7 +17646,7 @@
 						<token join="no" xml:id="t1187">
 							<form modified="False">kettőben</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>kettő</lemma>
 									<detailed>kettő[/Num] + ben[Ine]</detailed>
 									<simple>[/Num][Ine]</simple>
@@ -25084,7 +25084,7 @@
 						<token join="right" xml:id="t1665">
 							<form modified="False">előbbre</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>előbbre</lemma>
 									<detailed>előbbre[/Adv]</detailed>
 									<simple>[/Adv]</simple>
