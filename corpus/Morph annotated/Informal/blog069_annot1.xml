@@ -5634,7 +5634,7 @@
 						<token join="no" xml:id="t381">
 							<form modified="False">van</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>van</lemma>
 									<detailed>van[/V] + [Prs.NDef.3Sg]</detailed>
 									<simple>[/V][Prs.NDef.3Sg]</simple>
