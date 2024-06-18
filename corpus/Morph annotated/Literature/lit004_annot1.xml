@@ -2694,7 +2694,7 @@
 								<detailed>vég[/N] + eredmény[/N] + ben[Ine]</detailed>
 								<simple>[/N][Ine]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>végeredmény</lemma>
 								<detailed>végeredmény[/N] + ben[Ine]</detailed>
 								<simple>[/N][Ine]</simple>
@@ -2886,7 +2886,7 @@
 					<token join="no" xml:id="t184">
 						<form modified="False">fokhagymát</form>
 						<morph check="True">
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>fokhagyma</lemma>
 								<detailed>fok[/N] + hagyma[/N]=hagymá + t[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
@@ -3218,12 +3218,12 @@
 					<token join="no" xml:id="t204">
 						<form modified="False">betegségből</form>
 						<morph check="True">
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>betegség</lemma>
 								<detailed>beteg[/Adj] + ség[_Nz_Abstr/N] + ből[Ela]</detailed>
 								<simple>[/N][Ela]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>betegség</lemma>
 								<detailed>beteg[/N] + ség[_Nz_Abstr/N] + ből[Ela]</detailed>
 								<simple>[/N][Ela]</simple>
@@ -4076,7 +4076,7 @@
 					<token join="no" xml:id="t259">
 						<form modified="False">füzesek</form>
 						<morph check="True">
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>füzes</lemma>
 								<detailed>füzes[/N] + ek[Pl] + [Nom]</detailed>
 								<simple>[/N][Pl][Nom]</simple>
@@ -4256,7 +4256,7 @@
 								<detailed>csillog[/V] + ó[_ImpfPtcp/Adj] + szárny[/N] + ú[_Adjz:Ú/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>csillogószárnyú</lemma>
 								<detailed>csillogó[/N] + szárny[/N] + ú[_Adjz:Ú/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -4321,7 +4321,7 @@
 								<detailed>petty[/N] + es[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>pettyes</lemma>
 								<detailed>pettyes[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -4341,7 +4341,7 @@
 								<detailed>katica[/N] + bogár[/N]=bogar + ak[Pl] + [Nom]</detailed>
 								<simple>[/N][Pl][Nom]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>katicabogár</lemma>
 								<detailed>katicabogár[/N]=katicabogar + ak[Pl] + [Nom]</detailed>
 								<simple>[/N][Pl][Nom]</simple>
@@ -23885,7 +23885,7 @@
 					<token join="no" xml:id="t1576">
 						<form modified="False">bús</form>
 						<morph check="True">
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>bús</lemma>
 								<detailed>bú[/N] + s[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
@@ -29853,7 +29853,7 @@
 								<detailed>szalma[/N] + kazal[/N]=kazl + at[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>szalmakazal</lemma>
 								<detailed>szalmakazal[/N]=szalmakazl + at[Acc]</detailed>
 								<simple>[/N][Acc]</simple>
@@ -33765,7 +33765,7 @@
 								<detailed>bokor[/N]=bokr + os[_Adjz:s/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
 							</ana>
-							<ana correct="True">
+							<ana correct="False">
 								<lemma>bokros</lemma>
 								<detailed>bokros[/Adj] + [Nom]</detailed>
 								<simple>[/Adj][Nom]</simple>
