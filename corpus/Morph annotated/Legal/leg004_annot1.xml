@@ -77746,19 +77746,6 @@
 						</token>
 					</s>
 				</p>
-				<p xml:id="p223">
-					<s modified="False" xml:id="s504">
-						<token join="left" xml:id="t4746">
-							<form modified="True">(4)</form>
-							<morph check="True">
-								<ana correct="True">
-									<lemma>4</lemma>
-									<detailed>lpar[Punct]=( + 4[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-									<simple>[/Num|Digit][Nom][Punct]</simple>
-								</ana></morph>
-						</token>
-					</s>
-				</p>
 			</div>
 			<div type="level1" xml:id="d28">
 				<head type="title">A bíróság</head>
@@ -104238,19 +104225,6 @@
 									<simple>[Punct]</simple>
 								</ana>
 							</morph>
-						</token>
-					</s>
-				</p>
-				<p xml:id="p289">
-					<s modified="False" xml:id="s652">
-						<token join="left" xml:id="t6413">
-							<form modified="True">(7)</form>
-							<morph check="True">
-								<ana correct="True">
-									<lemma>7</lemma>
-									<detailed>lpar[Punct]=( + 7[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-									<simple>[/Num|Digit][Nom][Punct]</simple>
-								</ana></morph>
 						</token>
 					</s>
 				</p>
