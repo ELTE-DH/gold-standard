@@ -37264,20 +37264,10 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t1233">
-         <form modified="True">
-  </form>
-         <morph check="False"/>
-        </token>
-        <token join="right" xml:id="t1233_2">
-         <form modified="True">        (5)-
-         </form>
-         <morph check="False"/>
-        </token>
-        <token join="no" xml:id="t1234"><form modified="True">(8)</form><morph check="True">
+        <token join="no" xml:id="t1234"><form modified="True">(5)-(8)</form><morph check="True">
           <ana correct="True">
-           <lemma>8</lemma>
-           <detailed>lpar[Punct]=( + 8[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
+           <lemma>(5)-(8)</lemma>
+           <detailed>lpar[Punct]=( + 5[/Num|Digit] + [Nom] + rpar[Punct]=) + -[Hyph:Hyph] + lpar[Punct]=( + 8[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
            <simple>[/Num|Digit][Nom][Punct]</simple>
           </ana></morph></token>
         <token join="no" xml:id="t1236">
@@ -60204,61 +60194,6 @@
         </token>
        </s>
       </p>
-      <p xml:id="p111">
-       <s modified="False" xml:id="s224">
-        <token join="no" xml:id="t2006">
-         <form modified="False">
-          e)
-         </form>
-         <morph check="True">
-          <ana correct="True">
-           <lemma>
-            e
-           </lemma>
-           <detailed>
-            e[/N|Ltr] + [Nom] + rpar[Punct]=)
-           </detailed>
-           <simple>
-            [/N][Nom][Punct]
-           </simple>
-          </ana>
-          <ana correct="False">
-           <lemma>
-            e
-           </lemma>
-           <detailed>
-            e[/Det|Pro|(Post)] + rpar[Punct]=)
-           </detailed>
-           <simple>
-            [/Det|Pro|(Post)][Punct]
-           </simple>
-          </ana>
-          <ana correct="False">
-           <lemma>
-            e
-           </lemma>
-           <detailed>
-            e[/Det|Pro|def] + rpar[Punct]=)
-           </detailed>
-           <simple>
-            [/Det|Pro|def][Punct]
-           </simple>
-          </ana>
-          <ana correct="False">
-           <lemma>
-            e
-           </lemma>
-           <detailed>
-            e[/N|Pro|(Post)] + [Nom] + rpar[Punct]=)
-           </detailed>
-           <simple>
-            [/N|Pro|(Post)][Nom][Punct]
-           </simple>
-          </ana>
-         </morph>
-        </token>
-       </s>
-      </p>
       <p xml:id="p112">
        <s modified="False" xml:id="s226">
         <token join="no" xml:id="t2007">
@@ -65883,14 +65818,15 @@
         </morph>
        </token>
        <token join="no" xml:id="t2180">
-        <form modified="True">
- </form>
-        <morph check="False"/>
-       </token>
-       <token join="no" xml:id="t2180_2">
         <form modified="True">        a)-b)
         </form>
-        <morph check="False"/>
+        <morph check="True">
+         <ana correct="True">
+          <lemma>a)-b)</lemma>
+          <detailed>a[/N|Ltr][Nom] + rpar[Punct]) + -[Hyph:Hyph] + b[/N|Ltr][Nom] + rpar[Punct])</detailed>
+          <simple>[/N|Ltr][Nom]</simple>
+         </ana>
+        </morph>
        </token>
        <token join="no" xml:id="t2181">
         <form modified="False">
