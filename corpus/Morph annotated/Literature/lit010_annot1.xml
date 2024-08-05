@@ -4460,10 +4460,10 @@
 						</token>
 						<token join="no" xml:id="t289">
 							<form modified="False">15-ikén</form>
-							<morph check="False">
-								<ana correct="False">
+							<morph check="True">
+								<ana correct="True">
 									<lemma>15-i</lemma>
-									<detailed>1[/Num|Digit] + 5[/Num|Digit] + -e[_OrdDate/N]= + -i[_Adjz:i/Adj] + k[Pl] + é[AnP] + n[Supe]</detailed>
+									<detailed>15[/Num|Digit] + -e[_OrdDate/N]= + -i[_Adjz:i/Adj] + k[Pl] + é[AnP] + n[Supe]</detailed>
 									<simple>[/Adj][Pl][AnP][Supe]</simple>
 								</ana>
 							</morph>
@@ -7358,10 +7358,10 @@
 						</token>
 						<token join="no" xml:id="t481">
 							<form modified="False">15-ikén</form>
-							<morph check="False">
+							<morph check="True">
 								<ana correct="True">
 									<lemma>15-i</lemma>
-									<detailed>1[/Num|Digit] + 5[/Num|Digit] + -e[_OrdDate/N]= + -i[_Adjz:i/Adj] + k[Pl] + é[AnP] + n[Supe]</detailed>
+									<detailed>15[/Num|Digit] + -e[_OrdDate/N]= + -i[_Adjz:i/Adj] + k[Pl] + é[AnP] + n[Supe]</detailed>
 									<simple>[/Adj][Pl][AnP][Supe]</simple>
 								</ana>
 							</morph>
@@ -10429,10 +10429,10 @@
 						</token>
 						<token join="no" xml:id="t675">
 							<form modified="False">15-ikén</form>
-							<morph check="False">
+							<morph check="True">
 								<ana correct="True">
 									<lemma>15-i</lemma>
-									<detailed>1[/Num|Digit] + 5[/Num|Digit] + -e[_OrdDate/N]= + -i[_Adjz:i/Adj] + k[Pl] + é[AnP] + n[Supe]</detailed>
+									<detailed>15[/Num|Digit] + -e[_OrdDate/N]= + -i[_Adjz:i/Adj] + k[Pl] + é[AnP] + n[Supe]</detailed>
 									<simple>[/Adj][Pl][AnP][Supe]</simple>
 								</ana>
 							</morph>
@@ -36006,10 +36006,10 @@
 						</token>
 						<token join="no" xml:id="t2329">
 							<form modified="False">15-ikén</form>
-							<morph check="False">
-								<ana correct="False">
+							<morph check="True">
+								<ana correct="True">
 									<lemma>15-i</lemma>
-									<detailed>1[/Num|Digit] + 5[/Num|Digit] + -e[_OrdDate/N]= + -i[_Adjz:i/Adj] + k[Pl] + é[AnP] + n[Supe]</detailed>
+									<detailed>15[/Num|Digit] + -e[_OrdDate/N]= + -i[_Adjz:i/Adj] + k[Pl] + é[AnP] + n[Supe]</detailed>
 									<simple>[/Adj][Pl][AnP][Supe]</simple>
 								</ana>
 							</morph>
