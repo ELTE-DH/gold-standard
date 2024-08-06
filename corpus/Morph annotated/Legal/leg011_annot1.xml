@@ -16014,54 +16014,6 @@
 							</token>
 						</s>
 					</p>
-					<p xml:id="p32">
-						<s modified="False" xml:id="s74">
-							<token join="no" xml:id="t1076">
-								<form modified="False">d)</form>
-								<morph check="True">
-									<ana correct="False">
-										<lemma>d</lemma>
-										<detailed>d[/N|Abbr] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/N][Nom][Punct]</simple>
-									</ana>
-									<ana correct="True">
-										<lemma>d</lemma>
-										<detailed>d[/N|Ltr] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/N][Nom][Punct]</simple>
-									</ana>
-								</morph>
-							</token>
-						</s>
-					</p>
-					<p xml:id="p33">
-						<s modified="False" xml:id="s76">
-							<token join="no" xml:id="t1077">
-								<form modified="False">e)</form>
-								<morph check="True">
-									<ana correct="True">
-										<lemma>e</lemma>
-										<detailed>e[/N|Ltr] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/N][Nom][Punct]</simple>
-									</ana>
-									<ana correct="False">
-										<lemma>e</lemma>
-										<detailed>e[/Det|Pro|(Post)] + rpar[Punct]=)</detailed>
-										<simple>[/Det|Pro|(Post)][Punct]</simple>
-									</ana>
-									<ana correct="False">
-										<lemma>e</lemma>
-										<detailed>e[/Det|Pro|def] + rpar[Punct]=)</detailed>
-										<simple>[/Det|Pro|def][Punct]</simple>
-									</ana>
-									<ana correct="False">
-										<lemma>e</lemma>
-										<detailed>e[/N|Pro|(Post)] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/N|Pro|(Post)][Nom][Punct]</simple>
-									</ana>
-								</morph>
-							</token>
-						</s>
-					</p>
 					<p xml:id="p34">
 						<s modified="False" xml:id="s78">
 							<token join="no" xml:id="t1078"><form modified="True">(4)</form><morph check="True">
@@ -27883,11 +27835,6 @@
 									</ana>
 								</morph>
 							</token>
-						</s>
-					</p>
-					<p xml:id="p61">
-						<s modified="False" xml:id="s133">
-							<token join="no" xml:id="t1859"><form modified="True">(2a)</form><morph check="False"/></token>
 						</s>
 					</p>
 					<p xml:id="p62">
