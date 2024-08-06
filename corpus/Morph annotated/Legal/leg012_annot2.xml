@@ -18663,14 +18663,6 @@
 							</token>
 						</s>
 					</p>
-					<p xml:id="p57">
-						<s modified="False" xml:id="s122">
-						</s>
-					</p>
-					<p xml:id="p58">
-						<s modified="False" xml:id="s124">
-						</s>
-					</p>
 					<p xml:id="p59">
 						<s modified="False" xml:id="s126">
 							<token join="no" xml:id="t1241"><form modified="True">(3)</form><morph check="True">
@@ -32338,7 +32330,7 @@
 										<detailed>8[/Num|Digit] + 5[/Num|Digit] + [Nom] + /[Hyph:Slash] + C[/N|Unit|Abbr] + [Nom] + period[Punct]=.</detailed>
 										<simple>[/N][Nom][Punct]</simple>
 									</ana>
-									<ana correct="False" modified="True">
+									<ana correct="True">
 										<lemma>85/C</lemma>
 										<detailed>85[/Num|Digit] + /[Hyph:Hyph] + C[/N|Ltr] + .[_Ord/Adj] + [Nom]</detailed>
 										<simple>[/Num|Digit][/N|Ltr][_Ord/Adj][Nom]</simple>
@@ -54257,10 +54249,6 @@
 									</ana>
 								</morph>
 							</token>
-						</s>
-					</p>
-					<p xml:id="p151">
-						<s modified="False" xml:id="s337">
 						</s>
 					</p>
 					<p xml:id="p152">
