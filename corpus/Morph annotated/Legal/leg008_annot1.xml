@@ -6955,8 +6955,6 @@
 									</ana>
 								</morph>
 							</token>
-						</s>
-						<s modified="False" xml:id="s38">
 							<token join="no" xml:id="t442">
 								<form modified="False">§</form>
 								<morph check="True">
@@ -6965,15 +6963,10 @@
 										<detailed>§[/N] + [Nom]</detailed>
 										<simple>[/N][Nom]</simple>
 									</ana>
-									<ana correct="False">
+									<ana correct="True">
 										<lemma>§</lemma>
 										<detailed>§[/N|Abbr] + [Nom]</detailed>
 										<simple>[/N][Nom]</simple>
-									</ana>
-									<ana correct="True" modified="True">
-										<lemma>§</lemma>
-										<detailed/>
-										<simple>[Punct]</simple>
 									</ana>
 								</morph>
 							</token>
@@ -24941,8 +24934,6 @@
 									</ana>
 								</morph>
 							</token>
-						</s>
-						<s modified="False" xml:id="s108">
 							<token join="no" xml:id="t1576">
 								<form modified="False">§</form>
 								<morph check="True">
@@ -24951,15 +24942,10 @@
 										<detailed>§[/N] + [Nom]</detailed>
 										<simple>[/N][Nom]</simple>
 									</ana>
-									<ana correct="False">
+									<ana correct="True">
 										<lemma>§</lemma>
 										<detailed>§[/N|Abbr] + [Nom]</detailed>
 										<simple>[/N][Nom]</simple>
-									</ana>
-									<ana correct="True" modified="True">
-										<lemma>§</lemma>
-										<detailed/>
-										<simple>[Punct]</simple>
 									</ana>
 								</morph>
 							</token>
@@ -35231,24 +35217,6 @@
 							</token>
 						</s>
 					</p>
-					<p xml:id="p67">
-						<s modified="False" xml:id="s159">
-							<token join="left" xml:id="t2234">
-								<form modified="True">(4)</form>
-								<morph check="True">
-									<ana correct="False">
-										<lemma>4</lemma>
-										<detailed>lpar[Punct]=( + 4[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/Num|Digit][Nom][Punct]</simple>
-									</ana>
-									<ana correct="True" modified="True">
-										<lemma>[None]</lemma>
-										<detailed/>
-										<simple>[None]</simple>
-									</ana></morph>
-							</token>
-						</s>
-					</p>
 					<p xml:id="p68">
 						<s modified="False" xml:id="s161">
 							<token join="no" xml:id="t2235"><form modified="True">(5)</form><morph check="True">
@@ -37976,7 +37944,7 @@
 							<token join="no" xml:id="t2408">
 								<form modified="False">ellátó</form>
 								<morph check="True">
-									<ana correct="False">
+									<ana correct="True">
 										<lemma>ellátó</lemma>
 										<detailed>el[/Prev] + lát[/V] + ó[_ImpfPtcp/Adj] + [Nom]</detailed>
 										<simple>[/Adj][Nom]</simple>
@@ -43142,24 +43110,6 @@
 										<simple>[Punct]</simple>
 									</ana>
 								</morph>
-							</token>
-						</s>
-					</p>
-					<p xml:id="p82">
-						<s modified="False" xml:id="s197">
-							<token join="left" xml:id="t2739">
-								<form modified="True">(1)</form>
-								<morph check="True">
-									<ana correct="False">
-										<lemma>1</lemma>
-										<detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/Num|Digit][Nom][Punct]</simple>
-									</ana>
-									<ana correct="True" modified="True">
-										<lemma>[None]</lemma>
-										<detailed/>
-										<simple>[None]</simple>
-									</ana></morph>
 							</token>
 						</s>
 					</p>
@@ -62371,24 +62321,6 @@
 							</token>
 						</s>
 					</p>
-					<p xml:id="p119">
-						<s modified="False" xml:id="s283">
-							<token join="left" xml:id="t3933">
-								<form modified="True">(4)</form>
-								<morph check="True">
-									<ana correct="False">
-										<lemma>4</lemma>
-										<detailed>lpar[Punct]=( + 4[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/Num|Digit][Nom][Punct]</simple>
-									</ana>
-									<ana correct="True" modified="True">
-										<lemma>[None]</lemma>
-										<detailed/>
-										<simple>[None]</simple>
-									</ana></morph>
-							</token>
-						</s>
-					</p>
 					<p xml:id="p120">
 						<s modified="False" xml:id="s285">
 							<token join="no" xml:id="t3934"><form modified="True">(5)</form><morph check="True">
@@ -62763,24 +62695,6 @@
 										<simple>[Punct]</simple>
 									</ana>
 								</morph>
-							</token>
-						</s>
-					</p>
-					<p xml:id="p122">
-						<s modified="False" xml:id="s289">
-							<token join="left" xml:id="t3956">
-								<form modified="True">(1)</form>
-								<morph check="True">
-									<ana correct="False">
-										<lemma>1</lemma>
-										<detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/Num|Digit][Nom][Punct]</simple>
-									</ana>
-									<ana correct="True" modified="True">
-										<lemma>[None]</lemma>
-										<detailed/>
-										<simple>[None]</simple>
-									</ana></morph>
 							</token>
 						</s>
 					</p>
@@ -70872,24 +70786,6 @@
 										<simple>[Punct]</simple>
 									</ana>
 								</morph>
-							</token>
-						</s>
-					</p>
-					<p xml:id="p140">
-						<s modified="False" xml:id="s335">
-							<token join="no" xml:id="t4471">
-								<form modified="True">(7)</form>
-								<morph check="True">
-									<ana correct="False">
-										<lemma>7</lemma>
-										<detailed>lpar[Punct]=( + 7[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/Num|Digit][Nom][Punct]</simple>
-									</ana>
-									<ana correct="True" modified="True">
-										<lemma>[None]</lemma>
-										<detailed/>
-										<simple>[None]</simple>
-									</ana></morph>
 							</token>
 						</s>
 					</p>
