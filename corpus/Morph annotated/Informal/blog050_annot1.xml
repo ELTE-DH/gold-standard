@@ -13225,7 +13225,7 @@
 						<token join="no" xml:id="t879">
 							<form modified="False">foundation</form>
 							<morph check="True">
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>Foundation</lemma>
 									<detailed/>
 									<simple>[/N][Nom]</simple>
