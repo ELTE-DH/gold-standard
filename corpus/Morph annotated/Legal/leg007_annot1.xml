@@ -14829,19 +14829,6 @@
 							</token>
 						</s>
 					</p>
-					<p xml:id="p46">
-						<s modified="False" xml:id="s100">
-							<token join="left" xml:id="t993">
-								<form modified="True">(5)</form>
-								<morph check="True">
-									<ana correct="True">
-										<lemma>5</lemma>
-										<detailed>lpar[Punct]=( + 5[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/Num|Digit][Nom][Punct]</simple>
-									</ana></morph>
-							</token>
-						</s>
-					</p>
 					<p xml:id="p47">
 						<s modified="False" xml:id="s102">
 							<token join="no" xml:id="t994"><form modified="True">(6)</form><morph check="True">
@@ -22225,20 +22212,6 @@
 							</token>
 						</s>
 					</p>
-					<p xml:id="p71">
-						<s modified="False" xml:id="s151">
-							<token join="no" xml:id="t1472">
-								<form modified="True">ec)</form>
-								<morph check="True">
-									<ana correct="True">
-									<lemma>ec)</lemma>
-										<detailed>e[/N|Ltr] + c[/N|Ltr] + rpar[Punct]=)</detailed>
-										<simple>[/N][Nom][Punct]</simple>
-									</ana>
-								</morph>
-								</token>
-						</s>
-					</p>
 					<p xml:id="p72">
 						<s modified="False" xml:id="s153">
 							<token join="no" xml:id="t1474"><form modified="True">ed)</form><morph check="True">
@@ -23042,20 +23015,6 @@
 							</token>
 						</s>
 					</p>
-					<p xml:id="p78">
-						<s modified="False" xml:id="s165">
-							<token join="no" xml:id="t1520">
-								<form modified="True">ga)</form>
-								<morph check="True">
-									<ana correct="True">
-										<lemma>ga)</lemma>
-										<detailed>g[/N|Ltr] + a[/N|Ltr] + rpar[Punct]=)</detailed>
-										<simple>[/N][Nom][Punct]</simple>
-									</ana>
-								</morph>
-									</token>
-						</s>
-					</p>
 					<p xml:id="p79">
 						<s modified="False" xml:id="s167">
 							<token join="no" xml:id="t1522"><form modified="True">gb)</form><morph check="True">
@@ -23382,34 +23341,6 @@
 										<simple>[/Cnj]</simple>
 									</ana>
 								</morph>
-							</token>
-						</s>
-					</p>
-					<p xml:id="p82">
-						<s modified="False" xml:id="s173">
-							<token join="no" xml:id="t1545">
-								<form modified="True">ha)</form>
-								<morph check="True">
-									<ana correct="False">
-										<lemma>ha</lemma>
-										<detailed>ha[/Cnj] + rpar[Punct]=)</detailed>
-										<simple>[/Cnj][Punct]</simple>
-									</ana>
-									<ana correct="False">
-										<lemma>ha</lemma>
-										<detailed>ha[/Inj-Utt] + rpar[Punct]=)</detailed>
-										<simple>[/Inj-Utt][Punct]</simple>
-									</ana>
-									<ana correct="False">
-										<lemma>ha</lemma>
-										<detailed>ha[/N|Unit|Abbr] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/N][Nom][Punct]</simple>
-									</ana>
-									<ana correct="True" modified="True">
-										<lemma>ha</lemma>
-										<detailed>h[/N|Ltr] + a[/N|Ltr] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/N][Nom][Punct]</simple>
-									</ana></morph>
 							</token>
 						</s>
 					</p>
@@ -67578,19 +67509,6 @@
 							</token>
 						</s>
 					</p>
-					<p xml:id="p185">
-						<s modified="False" xml:id="s406">
-							<token join="left" xml:id="t4381">
-								<form modified="True">(4)</form>
-								<morph check="True">
-									<ana correct="True">
-										<lemma>4</lemma>
-										<detailed>lpar[Punct]=( + 4[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-										<simple>[/Num|Digit][Nom][Punct]</simple>
-									</ana></morph>
-							</token>
-						</s>
-					</p>
 					<p xml:id="p186">
 						<s modified="True" xml:id="s408">
 							<token join="no" xml:id="t4382"><form modified="True">14/A.</form><morph check="True">
@@ -93977,20 +93895,6 @@
 									</ana>
 								</morph>
 							</token>
-						</s>
-					</p>
-					<p xml:id="p233">
-						<s modified="False" xml:id="s550">
-							<token join="no" xml:id="t6090">
-								<form modified="True">(5)-(7)</form>
-								<morph check="True">
-									<ana correct="True">
-										<lemma>5-7</lemma>
-										<detailed>lpar[Punct]=( + 5[/Num|Digit] + rpar[Punct]=) + -[Hyph:Hyph] + lpar[Punct]=( + 7[/Num|Digit] + rpar[Punct]=)</detailed>
-										<simple>[/Num|Digit][Nom][Punct]</simple>
-										</ana>
-								</morph>
-								</token>
 						</s>
 					</p>
 				</div>
