@@ -13715,7 +13715,7 @@
 						</token>
 						<token join="right" xml:id="t924">
                             <form modified="True">"állat"-ság</form>
-                            <morph check="True"/>
+                            <morph check="True">
                                 <ana correct="True">
 									<lemma>"állat"-ság</lemma>
 									<detailed>"[Punct] + állat[/N] + "[Punct] + -[Hyph:Hyph] + ság[_Nz_Abstr/N] + [Nom]</detailed>
@@ -13735,7 +13735,7 @@
 						</token>
 						<token join="right" xml:id="t929">
                             <form modified="True">"isten"-ség</form>
-                            <morph check="True"/>
+                            <morph check="True">
                                 <ana correct="True">
 									<lemma>"isten"-ség</lemma>
 									<detailed>"[Punct] + isten[/N] + "[Punct] + -[Hyph:Hyph] + ség[_Nz_Abstr/N] + [Nom]</detailed>
