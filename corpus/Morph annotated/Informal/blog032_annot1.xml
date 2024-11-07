@@ -23701,7 +23701,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s90">
-					<token join="left" xml:id="t1525">
+					<token join="no" xml:id="t1525">
 						<form modified="False">Bogarak</form>
 						<morph check="True">
 							<ana correct="True">
@@ -31984,7 +31984,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s118">
-					<token join="left" xml:id="t2056">
+					<token join="no" xml:id="t2056">
 						<form modified="False">Szépséghiba</form>
 						<morph check="True">
 							<ana correct="False">

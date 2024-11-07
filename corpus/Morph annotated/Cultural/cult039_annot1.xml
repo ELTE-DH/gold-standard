@@ -28267,7 +28267,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1874">
+						<token join="right" xml:id="t1874">
 							<form modified="False">pikantériája</form>
 							<morph check="True">
 								<ana correct="True">

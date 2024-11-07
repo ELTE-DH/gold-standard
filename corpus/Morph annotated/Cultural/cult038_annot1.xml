@@ -21846,7 +21846,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1447">
+						<token join="right" xml:id="t1447">
 							<form modified="False">tanulásként</form>
 							<morph check="True">
 								<ana correct="False">

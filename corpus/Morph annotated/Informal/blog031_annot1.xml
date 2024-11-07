@@ -14687,7 +14687,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t980">
+						<token join="right" xml:id="t980">
 							<form modified="False">méreg</form>
 							<morph check="True">
 								<ana correct="True">

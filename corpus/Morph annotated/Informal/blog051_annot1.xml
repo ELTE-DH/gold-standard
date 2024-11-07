@@ -8225,7 +8225,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t519">
+						<token join="right" xml:id="t519">
 							<form modified="False">makogtunk</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12725,7 +12725,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t813">
+						<token join="right" xml:id="t813">
 							<form modified="False">böjtös</form>
 							<morph check="True">
 								<ana correct="True">
@@ -20125,7 +20125,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1295">
+						<token join="right" xml:id="t1295">
 							<form modified="False">menedzserek</form>
 							<morph check="True">
 								<ana correct="True">

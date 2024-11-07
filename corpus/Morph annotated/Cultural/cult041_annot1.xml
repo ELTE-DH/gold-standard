@@ -7147,7 +7147,7 @@
 			</p>
 			<p xml:id="p9">
 				<s modified="False" xml:id="s29">
-					<token join="no" xml:id="t458">
+					<token join="right" xml:id="t458">
 						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
@@ -9064,7 +9064,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t589">
+						<token join="right" xml:id="t589">
 							<form modified="False">eltalálni</form>
 							<morph check="True">
 								<ana correct="True">

@@ -56,7 +56,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t3">
+						<token join="right" xml:id="t3">
 							<form modified="False">Fortuna</form>
 							<morph check="True">
 								<ana correct="True">

@@ -1684,7 +1684,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t110">
+					<token join="right" xml:id="t110">
 						<form modified="False">szagolni</form>
 						<morph check="True">
 							<ana correct="False">
@@ -2659,7 +2659,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t180">
+					<token join="right" xml:id="t180">
 						<form modified="False">parfüm-hűtlen</form>
 						<morph check="True">
 							<ana correct="True">
@@ -32305,7 +32305,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t2245">
+					<token join="right" xml:id="t2245">
 						<form modified="False">dög</form>
 						<morph check="True">
 							<ana correct="True">
@@ -39648,7 +39648,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t2742">
+					<token join="right" xml:id="t2742">
 						<form modified="False">megcsapolni</form>
 						<morph check="True">
 							<ana correct="True">

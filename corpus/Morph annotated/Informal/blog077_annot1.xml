@@ -11112,7 +11112,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t724">
+					<token join="right" xml:id="t724">
 						<form modified="False">óceános</form>
 						<morph check="True">
 							<ana correct="True">

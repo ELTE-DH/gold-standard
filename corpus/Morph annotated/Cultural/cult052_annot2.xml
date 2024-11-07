@@ -5045,7 +5045,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t336">
+					<token join="right" xml:id="t336">
 						<form modified="False">közel</form>
 						<morph check="True">
 							<ana correct="True">
@@ -35697,7 +35697,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2380">
+						<token join="right" xml:id="t2380">
 							<form modified="False">pozitív</form>
 							<morph check="True">
 								<ana correct="True">

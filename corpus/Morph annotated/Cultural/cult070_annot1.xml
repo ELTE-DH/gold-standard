@@ -9602,7 +9602,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t639">
+						<token join="right" xml:id="t639">
 							<form modified="False">krokodil</form>
 							<morph check="True">
 								<ana correct="True">
@@ -13846,7 +13846,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t936">
+						<token join="right" xml:id="t936">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -20555,7 +20555,7 @@
 				<head type="title">     Ember és Természet csatája vesztésre áll   </head>
 				<p xml:id="p11">
 					<s modified="False" xml:id="s81">
-						<token join="no" xml:id="t1391">
+						<token join="right" xml:id="t1391">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">

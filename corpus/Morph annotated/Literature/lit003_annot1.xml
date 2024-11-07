@@ -10860,7 +10860,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t739">
+					<token join="right" xml:id="t739">
 						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">

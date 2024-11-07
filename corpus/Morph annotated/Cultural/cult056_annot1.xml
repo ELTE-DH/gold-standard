@@ -953,7 +953,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t58">
+					<token join="right" xml:id="t58">
 						<form modified="False">Élvonal</form>
 						<morph check="True">
 							<ana correct="False">
@@ -2840,7 +2840,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t177">
+					<token join="right" xml:id="t177">
 						<form modified="False">bemutassa</form>
 						<morph check="True">
 							<ana correct="True">
@@ -6152,7 +6152,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t399">
+						<token join="right" xml:id="t399">
 							<form modified="False">beteganyag</form>
 							<morph check="True">
 								<ana correct="True">

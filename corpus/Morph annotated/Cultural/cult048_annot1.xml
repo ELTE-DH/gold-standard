@@ -7102,7 +7102,7 @@
 			</p>
 			<p xml:id="p7">
 				<s modified="False" xml:id="s25">
-					<token join="no" xml:id="t464">
+					<token join="right" xml:id="t464">
 						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
@@ -12458,7 +12458,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t821">
+					<token join="right" xml:id="t821">
 						<form modified="False">színekből</form>
 						<morph check="True">
 							<ana correct="True">

@@ -27053,7 +27053,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1813">
+						<token join="right" xml:id="t1813">
 							<form modified="False">karrierjét</form>
 							<morph check="True">
 								<ana correct="True">

@@ -10181,7 +10181,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s26">
-						<token join="left" xml:id="t646">
+						<token join="no" xml:id="t646">
 							<form modified="False">Lehetséges</form>
 							<morph check="True">
 								<ana correct="True">

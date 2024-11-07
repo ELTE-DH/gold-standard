@@ -24261,7 +24261,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1637">
+						<token join="right" xml:id="t1637">
 							<form modified="False">hiénák</form>
 							<morph check="True">
 								<ana correct="True">
@@ -38075,7 +38075,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2515">
+						<token join="right" xml:id="t2515">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -38936,7 +38936,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2575">
+						<token join="right" xml:id="t2575">
 							<form modified="False">eredményei</form>
 							<morph check="True">
 								<ana correct="True">

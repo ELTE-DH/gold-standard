@@ -815,7 +815,7 @@
 			<div type="level1" xml:id="d2">
 				<p xml:id="p2">
 					<s modified="False" xml:id="s4">
-						<token join="left" xml:id="t57">
+						<token join="no" xml:id="t57">
 							<form modified="False">Hat</form>
 							<morph check="True">
 								<ana correct="True">
@@ -36325,7 +36325,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2409">
+						<token join="right" xml:id="t2409">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">

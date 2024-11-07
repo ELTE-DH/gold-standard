@@ -8513,7 +8513,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s29">
-						<token join="no" xml:id="t545">
+						<token join="right" xml:id="t545">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">

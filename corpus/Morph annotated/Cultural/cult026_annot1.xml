@@ -22873,7 +22873,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s68">
-						<token join="both" xml:id="t1499">
+						<token join="right" xml:id="t1499">
 							<form modified="False">Ugyanis</form>
 							<morph check="True">
 								<ana correct="True">

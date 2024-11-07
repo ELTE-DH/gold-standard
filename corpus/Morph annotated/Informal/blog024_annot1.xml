@@ -4628,7 +4628,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t290">
+						<token join="right" xml:id="t290">
 							<form modified="False">civilizációba</form>
 							<morph check="True">
 								<ana correct="True">

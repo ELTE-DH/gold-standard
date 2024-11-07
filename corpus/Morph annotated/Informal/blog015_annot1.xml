@@ -4506,7 +4506,7 @@
 										</ana>
 									</morph>
 								</token>
-								<token join="no" xml:id="t293">
+								<token join="right" xml:id="t293">
 									<form modified="False">rendes</form>
 									<morph check="True">
 										<ana correct="False">
@@ -5176,7 +5176,7 @@
 					<div type="comment" xml:id="d10">
 						<p xml:id="p9">
 							<s modified="False" xml:id="s18">
-								<token join="no" xml:id="t340">
+								<token join="right" xml:id="t340">
 									<form modified="False">"</form>
 									<morph check="True">
 										<ana correct="True">
@@ -7760,7 +7760,7 @@
 										</ana>
 									</morph>
 								</token>
-								<token join="no" xml:id="t515">
+								<token join="right" xml:id="t515">
 									<form modified="False">kiskapu</form>
 									<morph check="True">
 										<ana correct="True">
@@ -16836,7 +16836,7 @@
 										</ana>
 									</morph>
 								</token>
-								<token join="no" xml:id="t1123">
+								<token join="right" xml:id="t1123">
 									<form modified="False">csak</form>
 									<morph check="True">
 										<ana correct="True">
@@ -18297,7 +18297,7 @@
 						</p>
 						<p xml:id="p34">
 							<s modified="False" xml:id="s65">
-								<token join="no" xml:id="t1218">
+								<token join="right" xml:id="t1218">
 									<form modified="False">"</form>
 									<morph check="True">
 										<ana correct="True">

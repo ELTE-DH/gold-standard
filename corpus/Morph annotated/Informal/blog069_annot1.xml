@@ -19174,7 +19174,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s71">
-						<token join="left" xml:id="t1307">
+						<token join="no" xml:id="t1307">
 							<form modified="False">Nos</form>
 							<morph check="True">
 								<ana correct="True">
@@ -25882,7 +25882,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s100">
-						<token join="left" xml:id="t1765">
+						<token join="no" xml:id="t1765">
 							<form modified="False">Javasolnám</form>
 							<morph check="True">
 								<ana correct="True">

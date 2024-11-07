@@ -5210,7 +5210,7 @@
 				</p>
 				<p xml:id="p9">
 					<s modified="False" xml:id="s26">
-						<token join="no" xml:id="t351">
+						<token join="right" xml:id="t351">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -6906,7 +6906,7 @@
 				</p>
 				<p xml:id="p11">
 					<s modified="False" xml:id="s34">
-						<token join="no" xml:id="t475">
+						<token join="right" xml:id="t475">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -7817,7 +7817,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t531">
+						<token join="right" xml:id="t531">
 							<form modified="False">friend</form>
 							<morph check="True">
 								<ana correct="False">
@@ -16660,7 +16660,7 @@
 				</p>
 				<p xml:id="p27">
 					<s modified="False" xml:id="s85">
-						<token join="no" xml:id="t1142">
+						<token join="right" xml:id="t1142">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">

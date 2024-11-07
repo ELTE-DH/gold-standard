@@ -15619,7 +15619,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t972">
+						<token join="right" xml:id="t972">
 							<form modified="False">Sas</form>
 							<morph check="True">
 								<ana correct="True">
@@ -24065,7 +24065,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1518">
+						<token join="right" xml:id="t1518">
 							<form modified="False">meghódítására</form>
 							<morph check="True">
 								<ana correct="True">
@@ -32464,7 +32464,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2051">
+						<token join="right" xml:id="t2051">
 							<form modified="False">Artemis-program</form>
 							<morph check="True">
 								<ana correct="False">
@@ -33210,7 +33210,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2101">
+						<token join="right" xml:id="t2101">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
