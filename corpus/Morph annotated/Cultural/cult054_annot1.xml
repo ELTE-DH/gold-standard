@@ -5357,7 +5357,7 @@
 								<simple>[/N][Nom][Punct]</simple>
 							</ana></morph>
 					</token>
-					<token join="no" xml:id="t352_2">
+					<token join="right" xml:id="t352_2">
 						<form modified="True">u</form>
 						<morph check="True">
 							<ana correct="False">
@@ -21110,7 +21110,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1428">
+						<token join="both" xml:id="t1428">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -29030,7 +29030,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1948">
+						<token join="both" xml:id="t1948">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">

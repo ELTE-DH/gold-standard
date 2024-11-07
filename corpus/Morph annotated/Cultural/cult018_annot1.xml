@@ -7254,7 +7254,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t459">
+						<token join="both" xml:id="t459">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -8940,7 +8940,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t569">
+						<token join="both" xml:id="t569">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -19302,7 +19302,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1237">
+						<token join="right" xml:id="t1237">
 							<form modified="False">eltűntek</form>
 							<morph check="True">
 								<ana correct="True">
@@ -23720,7 +23720,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1531">
+						<token join="right" xml:id="t1531">
 							<form modified="False">vesztegel</form>
 							<morph check="True">
 								<ana correct="True">
@@ -32646,7 +32646,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2128">
+						<token join="both" xml:id="t2128">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">

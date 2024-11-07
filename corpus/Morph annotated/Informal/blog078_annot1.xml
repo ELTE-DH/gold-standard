@@ -27754,7 +27754,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s105">
-					<token join="no" xml:id="t1904">
+					<token join="right" xml:id="t1904">
 						<form modified="False">Egyértelmű</form>
 						<morph check="True">
 							<ana correct="False">
@@ -32965,7 +32965,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s139">
-					<token join="no" xml:id="t2273">
+					<token join="right" xml:id="t2273">
 						<form modified="False">Katasztrófa</form>
 						<morph check="True">
 							<ana correct="True">
@@ -35766,7 +35766,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s158">
-					<token join="no" xml:id="t2465">
+					<token join="right" xml:id="t2465">
 						<form modified="False">Kidobtam</form>
 						<morph check="True">
 							<ana correct="True">

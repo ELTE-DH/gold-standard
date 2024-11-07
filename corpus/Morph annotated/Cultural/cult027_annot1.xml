@@ -2685,7 +2685,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t169">
+					<token join="left" xml:id="t169">
 						<form modified="False">)</form>
 						<morph check="True">
 							<ana correct="True">
@@ -7012,7 +7012,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t434">
+					<token join="right" xml:id="t434">
 						<form modified="False">)</form>
 						<morph check="True">
 							<ana correct="True">
@@ -12567,7 +12567,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t786">
+						<token join="left" xml:id="t786">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -15422,7 +15422,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t961">
+						<token join="both" xml:id="t961">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -17505,7 +17505,7 @@
 									<simple>[Punct]</simple>
 								</ana></morph>
 						</token>
-						<token join="no" xml:id="t1095">
+						<token join="left" xml:id="t1095">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -21779,7 +21779,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1371">
+						<token join="both" xml:id="t1371">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -36968,7 +36968,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2350"><form modified="True">Déli-sarkra</form><morph check="True">
+						<token join="right" xml:id="t2350"><form modified="True">Déli-sarkra</form><morph check="True">
 								<ana correct="False">
 									<lemma>déli-sark</lemma>
 									<detailed>dél[/N] + i[_Adjz:i/Adj] + [Nom] + -[Hyph:Hyph] + sark[/N] + ra[Subl]</detailed>

@@ -4707,7 +4707,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s25">
-						<token join="no" xml:id="t302">
+						<token join="right" xml:id="t302">
 							<form modified="False">Nem</form>
 							<morph check="True">
 								<ana correct="False">

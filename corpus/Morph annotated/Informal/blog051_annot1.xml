@@ -20814,7 +20814,7 @@
 				</p>
 				<p xml:id="p32">
 					<s modified="False" xml:id="s105">
-						<token join="no" xml:id="t1349">
+						<token join="right" xml:id="t1349">
 							<form modified="False">Hazaérkeztünk</form>
 							<morph check="True">
 								<ana correct="True">

@@ -27898,7 +27898,7 @@
 									<simple>[/N][Ine]</simple>
 								</ana></morph>
 						</token>
-						<token join="left" xml:id="t1850">
+						<token join="both" xml:id="t1850">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">

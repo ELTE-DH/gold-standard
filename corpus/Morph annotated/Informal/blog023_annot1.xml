@@ -1780,7 +1780,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s11">
-					<token join="no" xml:id="t111">
+					<token join="right" xml:id="t111">
 						<form modified="False">Indulás</form>
 						<morph check="True">
 							<ana correct="True">

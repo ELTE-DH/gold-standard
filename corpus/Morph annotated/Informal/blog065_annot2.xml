@@ -24703,7 +24703,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s131">
-						<token join="no" xml:id="t1665">
+						<token join="right" xml:id="t1665">
 							<form modified="False">Mind</form>
 							<morph check="True">
 								<ana correct="True">
@@ -24745,7 +24745,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s132">
-						<token join="no" xml:id="t1667">
+						<token join="right" xml:id="t1667">
 							<form modified="False">Nagyon</form>
 							<morph check="True">
 								<ana correct="True">
@@ -25616,7 +25616,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s140">
-						<token join="no" xml:id="t1731">
+						<token join="right" xml:id="t1731">
 							<form modified="False">Mind</form>
 							<morph check="True">
 								<ana correct="True">
@@ -31740,7 +31740,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s173">
-						<token join="no" xml:id="t2153">
+						<token join="right" xml:id="t2153">
 							<form modified="False">Magától</form>
 							<morph check="True">
 								<ana correct="True">

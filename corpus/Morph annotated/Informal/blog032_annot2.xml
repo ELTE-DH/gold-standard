@@ -14439,7 +14439,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s55">
-					<token join="no" xml:id="t925">
+					<token join="right" xml:id="t925">
 						<form modified="False">Elfogadtam</form>
 						<morph check="True">
 							<ana correct="True">
@@ -22129,7 +22129,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s84">
-					<token join="no" xml:id="t1428">
+					<token join="right" xml:id="t1428">
 						<form modified="False">Tizenegy</form>
 						<morph check="True">
 							<ana correct="True">

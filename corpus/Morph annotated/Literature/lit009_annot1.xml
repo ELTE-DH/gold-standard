@@ -23224,7 +23224,7 @@
 				</p>
 				<p xml:id="p76">
 					<s modified="False" xml:id="s250">
-						<token join="no" xml:id="t1516">
+						<token join="right" xml:id="t1516">
 							<form modified="False">Beleszédült</form>
 							<morph check="True">
 								<ana correct="True">

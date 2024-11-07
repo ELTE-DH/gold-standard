@@ -20194,7 +20194,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t1356"><form modified="True">Tengerszem-csúcsra</form><morph check="True">
+					<token join="right" xml:id="t1356"><form modified="True">Tengerszem-csúcsra</form><morph check="True">
 							<ana correct="False">
 								<lemma>tengerszem-csúcs</lemma>
 								<detailed>tenger[/N] + szem[/N] + [Nom] + -[Hyph:Hyph] + csúcs[/N] + ra[Subl]</detailed>

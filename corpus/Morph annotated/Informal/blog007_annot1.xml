@@ -8834,7 +8834,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s51">
-						<token join="no" xml:id="t614">
+						<token join="right" xml:id="t614">
 							<form modified="False">Rasszisiták</form>
 							<morph check="True">
 								<ana correct="False">
@@ -15907,7 +15907,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s110">
-						<token join="no" xml:id="t1096">
+						<token join="right" xml:id="t1096">
 							<form modified="False">Gól</form>
 							<morph check="True">
 								<ana correct="True">
@@ -18407,7 +18407,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s127">
-						<token join="no" xml:id="t1266">
+						<token join="right" xml:id="t1266">
 							<form modified="False">Nem</form>
 							<morph check="True">
 								<ana correct="False">

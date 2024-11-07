@@ -3292,7 +3292,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t205">
+							<token join="both" xml:id="t205">
 								<form modified="False">)</form>
 								<morph check="True">
 									<ana correct="True">
@@ -6947,7 +6947,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t443">
+							<token join="both" xml:id="t443">
 								<form modified="False">)</form>
 								<morph check="True">
 									<ana correct="True">
@@ -7181,7 +7181,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t461">
+							<token join="both" xml:id="t461">
 								<form modified="False">)</form>
 								<morph check="True">
 									<ana correct="True">
@@ -19004,7 +19004,7 @@
 					</p>
 					<p xml:id="p55">
 						<s modified="False" xml:id="s117">
-							<token join="no" xml:id="t1207">
+							<token join="right" xml:id="t1207">
 								<form modified="False">84/A</form>
 								<morph check="True">
 									<ana correct="False">
@@ -21207,7 +21207,7 @@
 							</token>
 						</s>
 						<s modified="False" xml:id="s131">
-							<token join="no" xml:id="t1354">
+							<token join="right" xml:id="t1354">
 								<form modified="False">21/B</form>
 								<morph check="True">
 									<ana correct="False">
@@ -23169,7 +23169,7 @@
 					</p>
 					<p xml:id="p64">
 						<s modified="False" xml:id="s141">
-							<token join="no" xml:id="t1483">
+							<token join="right" xml:id="t1483">
 								<form modified="False">84/B</form>
 								<morph check="True">
 									<ana correct="False">
@@ -23213,7 +23213,7 @@
 					</p>
 					<p xml:id="p65">
 						<s modified="False" xml:id="s144">
-							<token join="no" xml:id="t1486">
+							<token join="right" xml:id="t1486">
 								<form modified="False">84/C</form>
 								<morph check="True">
 									<ana correct="False">
@@ -23404,7 +23404,7 @@
 					</p>
 					<p xml:id="p66">
 						<s modified="False" xml:id="s147">
-							<token join="no" xml:id="t1497">
+							<token join="right" xml:id="t1497">
 								<form modified="False">84/D</form>
 								<morph check="True">
 									<ana correct="False">
@@ -24080,7 +24080,7 @@
 					</p>
 					<p xml:id="p67">
 						<s modified="False" xml:id="s150">
-							<token join="no" xml:id="t1538">
+							<token join="right" xml:id="t1538">
 								<form modified="False">84/E</form>
 								<morph check="True">
 									<ana correct="False">
@@ -25790,7 +25790,7 @@
 					</p>
 					<p xml:id="p72">
 						<s modified="False" xml:id="s162">
-							<token join="no" xml:id="t1646">
+							<token join="right" xml:id="t1646">
 								<form modified="False">85/A</form>
 								<morph check="True">
 									<ana correct="False">
@@ -27965,7 +27965,7 @@
 					</p>
 					<p xml:id="p82">
 						<s modified="False" xml:id="s183">
-							<token join="no" xml:id="t1779">
+							<token join="right" xml:id="t1779">
 								<form modified="False">85/B</form>
 								<morph check="True">
 									<ana correct="False">
@@ -28619,7 +28619,7 @@
 					</p>
 					<p xml:id="p86">
 						<s modified="False" xml:id="s193">
-							<token join="no" xml:id="t1822">
+							<token join="right" xml:id="t1822">
 								<form modified="False">85/C</form>
 								<morph check="True">
 									<ana correct="False">
@@ -31921,7 +31921,7 @@
 					</p>
 					<p xml:id="p107">
 						<s modified="False" xml:id="s236">
-							<token join="no" xml:id="t2045">
+							<token join="right" xml:id="t2045">
 								<form modified="False">85/D</form>
 								<morph check="True">
 									<ana correct="False">
@@ -32695,7 +32695,7 @@
 					</p>
 					<p xml:id="p108">
 						<s modified="False" xml:id="s240">
-							<token join="no" xml:id="t2094">
+							<token join="right" xml:id="t2094">
 								<form modified="False">85/E</form>
 								<morph check="True">
 									<ana correct="False">
@@ -52852,7 +52852,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t3365">
+							<token join="both" xml:id="t3365">
 								<form modified="False">)</form>
 								<morph check="True">
 									<ana correct="True">

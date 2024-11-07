@@ -10061,7 +10061,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t682">
+					<token join="both" xml:id="t682">
 						<form modified="False">)</form>
 						<morph check="True">
 							<ana correct="True">
@@ -10934,7 +10934,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t742">
+					<token join="right" xml:id="t742">
 						<form modified="False">)</form>
 						<morph check="True">
 							<ana correct="True">
@@ -40580,7 +40580,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t2772"><form modified="True">teknősállományát</form><morph check="True">
+					<token join="right" xml:id="t2772"><form modified="True">teknősállományát</form><morph check="True">
 							<ana correct="True">
 								<lemma>teknősállomány</lemma>
 								<detailed>teknős[/N] + állomány[/N] + a[Poss.3Sg]=á + t[Acc]</detailed>

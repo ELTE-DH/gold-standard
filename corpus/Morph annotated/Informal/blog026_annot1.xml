@@ -2315,7 +2315,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s13">
-						<token join="no" xml:id="t155">
+						<token join="right" xml:id="t155">
 							<form modified="False">Mindenhol</form>
 							<morph check="True">
 								<ana correct="True">
@@ -15112,7 +15112,7 @@
 				<head type="title">     Salar de Uyuni – Bolívia   </head>
 				<p xml:id="p9">
 					<s modified="False" xml:id="s64">
-						<token join="no" xml:id="t1010">
+						<token join="right" xml:id="t1010">
 							<form modified="False">Káprázat</form>
 							<morph check="True">
 								<ana correct="True">
@@ -20219,7 +20219,7 @@
 									<simple>[Punct]</simple>
 								</ana></morph>
 						</token>
-						<token join="no" xml:id="t1368_5">
+						<token join="right" xml:id="t1368_5">
 							<form modified="True">Megért</form>
 							<morph check="True">
 								<ana correct="True">

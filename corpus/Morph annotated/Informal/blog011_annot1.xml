@@ -14652,7 +14652,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s57">
-						<token join="no" xml:id="t1002">
+						<token join="right" xml:id="t1002">
 							<form modified="False">Elméletileg</form>
 							<morph check="True">
 								<ana correct="False">

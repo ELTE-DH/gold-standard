@@ -14621,7 +14621,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s49">
-						<token join="no" xml:id="t986">
+						<token join="right" xml:id="t986">
 							<form modified="False">Elfogadom</form>
 							<morph check="True">
 								<ana correct="True">
@@ -32539,7 +32539,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2156">
+						<token join="both" xml:id="t2156">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -34906,7 +34906,7 @@
 				</p>
 				<p xml:id="p58">
 					<s modified="False" xml:id="s120">
-						<token join="no" xml:id="t2310">
+						<token join="right" xml:id="t2310">
 							<form modified="False">Földszint</form>
 							<morph check="True">
 								<ana correct="False">
