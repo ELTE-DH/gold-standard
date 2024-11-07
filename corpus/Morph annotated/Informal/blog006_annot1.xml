@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -5070,7 +5070,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s17">
-						<token join="no" xml:id="t335">
+						<token join="right" xml:id="t335">
 							<form modified="False">Bevallom</form>
 							<morph check="True">
 								<ana correct="True">
@@ -6667,7 +6667,7 @@
 				</p>
 				<p xml:id="p12">
 					<s modified="False" xml:id="s25">
-						<token join="no" xml:id="t445">
+						<token join="right" xml:id="t445">
 							<form modified="False">Sőt</form>
 							<morph check="True">
 								<ana correct="True">
@@ -7832,7 +7832,7 @@
 				</p>
 				<p xml:id="p14">
 					<s modified="False" xml:id="s27">
-						<token join="no" xml:id="t524">
+						<token join="right" xml:id="t524">
 							<form modified="False">Nos</form>
 							<morph check="True">
 								<ana correct="True">
@@ -9097,7 +9097,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t612">
+						<token join="right" xml:id="t612">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -11073,7 +11073,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s34">
-						<token join="no" xml:id="t743">
+						<token join="right" xml:id="t743">
 							<form modified="False">Megoldották</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12138,7 +12138,7 @@
 				</p>
 				<p xml:id="p20">
 					<s modified="False" xml:id="s38">
-						<token join="no" xml:id="t815">
+						<token join="right" xml:id="t815">
 							<form modified="False">Bizonyítvány</form>
 							<morph check="True">
 								<ana correct="True">
@@ -13769,7 +13769,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s46">
-						<token join="no" xml:id="t927">
+						<token join="right" xml:id="t927">
 							<form modified="False">Lehet</form>
 							<morph check="True">
 								<ana correct="False">
@@ -14539,7 +14539,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s48">
-						<token join="no" xml:id="t980">
+						<token join="right" xml:id="t980">
 							<form modified="False">Csinálja</form>
 							<morph check="True">
 								<ana correct="True">
@@ -18900,7 +18900,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s64">
-						<token join="no" xml:id="t1268">
+						<token join="right" xml:id="t1268">
 							<form modified="False">Nálunk</form>
 							<morph check="True">
 								<ana correct="True">
@@ -22231,7 +22231,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1482"><form modified="True">musical-előadásukra</form><morph check="True">
+						<token join="right" xml:id="t1482"><form modified="True">musical-előadásukra</form><morph check="True">
 								<ana correct="False">
 									<lemma>musical-előadás</lemma>
 									<detailed>musical[/N] + [Nom] + -[Hyph:Hyph] + elő[/Adj] + ad[/V] + ás[_Ger/N] + uk[Poss.3Pl] + ra[Subl]</detailed>
@@ -22405,7 +22405,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s77">
-						<token join="no" xml:id="t1496">
+						<token join="right" xml:id="t1496">
 							<form modified="False">Lenne</form>
 							<morph check="True">
 								<ana correct="True">
@@ -30273,7 +30273,7 @@
 				</p>
 				<p xml:id="p51">
 					<s modified="False" xml:id="s106">
-						<token join="no" xml:id="t2012">
+						<token join="right" xml:id="t2012">
 							<form modified="False">Hát</form>
 							<morph check="True">
 								<ana correct="False">
@@ -33986,7 +33986,7 @@
 				</p>
 				<p xml:id="p56">
 					<s modified="False" xml:id="s117">
-						<token join="no" xml:id="t2250">
+						<token join="right" xml:id="t2250">
 							<form modified="False">Igaz</form>
 							<morph check="True">
 								<ana correct="True">
@@ -35117,7 +35117,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s122">
-						<token join="no" xml:id="t2325">
+						<token join="right" xml:id="t2325">
 							<form modified="False">Azt</form>
 							<morph check="True">
 								<ana correct="False">

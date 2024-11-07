@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -6566,7 +6566,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t418">
+						<token join="right" xml:id="t418">
 							<form modified="False">vibráció</form>
 							<morph check="True">
 								<ana correct="True">
@@ -18957,7 +18957,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1213">
+						<token join="right" xml:id="t1213">
 							<form modified="False">LP1</form>
 							<morph check="True">
 								<ana correct="False">
@@ -25692,7 +25692,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1635">
+						<token join="right" xml:id="t1635">
 							<form modified="False">fejlődését</form>
 							<morph check="True">
 								<ana correct="False">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns:ns1="https://schema.org" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -113,7 +113,7 @@
 					<ns1:type>      WARC/1.1     </ns1:type>
 					<ns1:sdDatePublished>      2021-09-27T11:18:34/2021-09-27T11:48:27     </ns1:sdDatePublished>
 					<ns1:identifier rdf:about="https://doi.org/10.5281/zenodo.5537018"/>
-					<ns1:identifier>      [{&quot;checksum&quot;:&quot;c461547fa9f1f30a7c946fb229db6332&quot;,&quot;filename&quot;:&quot;hashsums&quot;,&quot;filesize&quot;:6024,&quot;id&quot;:&quot;26630178-fb9a-4985-a6bf-c2fe03d2b089&quot;,&quot;links&quot;:{&quot;download&quot;:&quot;https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/hashsums&quot;,&quot;self&quot;:&quot;https://zenodo.org/api/deposit/depositions/5537018/files/26630178-fb9a-4985-a6bf-c2fe03d2b089&quot;}},{&quot;checksum&quot;:&quot;3731a24c68cbd8f681e7e354b4999752&quot;,&quot;filename&quot;:&quot;kremmania_forum-archive_new.warc.gz&quot;,&quot;filesize&quot;:240961,&quot;id&quot;:&quot;58d2c851-d19f-4a13-a180-6b438d2ab024&quot;,&quot;links&quot;:{&quot;download&quot;:&quot;https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/kremmania_forum-archive_new.warc.gz&quot;,&quot;self&quot;:&quot;https://zenodo.org/api/deposit/depositions/5537018/files/58d2c851-d19f-4a13-a180-6b438d2ab024&quot;}},{&quot;checksum&quot;:&quot;3d7dd5b64c88e6c6dacb86d0dddefa6d&quot;,&quot;filename&quot;:&quot;kremmania_forum-articles_new.warc.gz&quot;,&quot;filesize&quot;:131374272,&quot;id&quot;:&quot;13a310d5-505e-459a-b22a-9ab3daa979bf&quot;,&quot;links&quot;:{&quot;download&quot;:&quot;https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/kremmania_forum-articles_new.warc.gz&quot;,&quot;self&quot;:&quot;https://zenodo.org/api/deposit/depositions/5537018/files/13a310d5-505e-459a-b22a-9ab3daa979bf&quot;}},{&quot;checksum&quot;:&quot;de0d3b70bd814050418f1c1ec0208718&quot;,&quot;filename&quot;:&quot;kremmania_forum_rights_statements.warc.gz&quot;,&quot;filesize&quot;:46116,&quot;id&quot;:&quot;24c196be-fbdf-43f4-b8b5-78d68e0e24a6&quot;,&quot;links&quot;:{&quot;download&quot;:&quot;https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/kremmania_forum_rights_statements.warc.gz&quot;,&quot;self&quot;:&quot;https://zenodo.org/api/deposit/depositions/5537018/files/24c196be-fbdf-43f4-b8b5-78d68e0e24a6&quot;}},{&quot;checksum&quot;:&quot;d01cb33135c315c6e85cd5a6e772575f&quot;,&quot;filename&quot;:&quot;log.log&quot;,&quot;filesize&quot;:1502,&quot;id&quot;:&quot;8b2de05e-9a5b-49bd-a65e-5721472d73ca&quot;,&quot;links&quot;:{&quot;download&quot;:&quot;https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/log.log&quot;,&quot;self&quot;:&quot;https://zenodo.org/api/deposit/depositions/5537018/files/8b2de05e-9a5b-49bd-a65e-5721472d73ca&quot;}},{&quot;checksum&quot;:&quot;8d62c0c091c1c22ad3f512e8d59b567a&quot;,&quot;filename&quot;:&quot;logs.zip&quot;,&quot;filesize&quot;:20066,&quot;id&quot;:&quot;46f67209-7cb5-493e-b6d2-70c76f5d3cd1&quot;,&quot;links&quot;:{&quot;download&quot;:&quot;https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/logs.zip&quot;,&quot;self&quot;:&quot;https://zenodo.org/api/deposit/depositions/5537018/files/46f67209-7cb5-493e-b6d2-70c76f5d3cd1&quot;}},{&quot;checksum&quot;:&quot;4ad952edf9df63993e428b4a6c1609ee&quot;,&quot;filename&quot;:&quot;script.sh&quot;,&quot;filesize&quot;:391,&quot;id&quot;:&quot;7113d838-d674-4154-8895-e53013782793&quot;,&quot;links&quot;:{&quot;download&quot;:&quot;https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/script.sh&quot;,&quot;self&quot;:&quot;https://zenodo.org/api/deposit/depositions/5537018/files/7113d838-d674-4154-8895-e53013782793&quot;}}]     </ns1:identifier>
+					<ns1:identifier>      [{"checksum":"c461547fa9f1f30a7c946fb229db6332","filename":"hashsums","filesize":6024,"id":"26630178-fb9a-4985-a6bf-c2fe03d2b089","links":{"download":"https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/hashsums","self":"https://zenodo.org/api/deposit/depositions/5537018/files/26630178-fb9a-4985-a6bf-c2fe03d2b089"}},{"checksum":"3731a24c68cbd8f681e7e354b4999752","filename":"kremmania_forum-archive_new.warc.gz","filesize":240961,"id":"58d2c851-d19f-4a13-a180-6b438d2ab024","links":{"download":"https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/kremmania_forum-archive_new.warc.gz","self":"https://zenodo.org/api/deposit/depositions/5537018/files/58d2c851-d19f-4a13-a180-6b438d2ab024"}},{"checksum":"3d7dd5b64c88e6c6dacb86d0dddefa6d","filename":"kremmania_forum-articles_new.warc.gz","filesize":131374272,"id":"13a310d5-505e-459a-b22a-9ab3daa979bf","links":{"download":"https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/kremmania_forum-articles_new.warc.gz","self":"https://zenodo.org/api/deposit/depositions/5537018/files/13a310d5-505e-459a-b22a-9ab3daa979bf"}},{"checksum":"de0d3b70bd814050418f1c1ec0208718","filename":"kremmania_forum_rights_statements.warc.gz","filesize":46116,"id":"24c196be-fbdf-43f4-b8b5-78d68e0e24a6","links":{"download":"https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/kremmania_forum_rights_statements.warc.gz","self":"https://zenodo.org/api/deposit/depositions/5537018/files/24c196be-fbdf-43f4-b8b5-78d68e0e24a6"}},{"checksum":"d01cb33135c315c6e85cd5a6e772575f","filename":"log.log","filesize":1502,"id":"8b2de05e-9a5b-49bd-a65e-5721472d73ca","links":{"download":"https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/log.log","self":"https://zenodo.org/api/deposit/depositions/5537018/files/8b2de05e-9a5b-49bd-a65e-5721472d73ca"}},{"checksum":"8d62c0c091c1c22ad3f512e8d59b567a","filename":"logs.zip","filesize":20066,"id":"46f67209-7cb5-493e-b6d2-70c76f5d3cd1","links":{"download":"https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/logs.zip","self":"https://zenodo.org/api/deposit/depositions/5537018/files/46f67209-7cb5-493e-b6d2-70c76f5d3cd1"}},{"checksum":"4ad952edf9df63993e428b4a6c1609ee","filename":"script.sh","filesize":391,"id":"7113d838-d674-4154-8895-e53013782793","links":{"download":"https://zenodo.org/api/files/d96836b1-7230-4d4a-876c-c7259c3b242d/script.sh","self":"https://zenodo.org/api/deposit/depositions/5537018/files/7113d838-d674-4154-8895-e53013782793"}}]     </ns1:identifier>
 					<ns1:identifier>      urn:uuid:3824b41c-d3c2-4b5a-a832-11f7b31293ab     </ns1:identifier>
 				</rdf:Description>
 			</rdf:RDF>
@@ -6437,7 +6437,7 @@
 								</token>
 							</s>
 							<s modified="False" xml:id="s21">
-								<token join="no" xml:id="t430">
+								<token join="right" xml:id="t430">
 									<form modified="False">Emellett</form>
 									<morph check="True">
 										<ana correct="True">
@@ -10651,7 +10651,7 @@
 					<div type="comment" xml:id="d18">
 						<p xml:id="p17">
 							<s modified="False" xml:id="s34">
-								<token join="no" xml:id="t715">
+								<token join="right" xml:id="t715">
 									<form modified="False">Jaj</form>
 									<morph check="True">
 										<ana correct="True">
@@ -11494,7 +11494,7 @@
 					<div type="comment" xml:id="d21">
 						<p xml:id="p20">
 							<s modified="False" xml:id="s38">
-								<token join="no" xml:id="t770">
+								<token join="right" xml:id="t770">
 									<form modified="False">Éljen</form>
 									<morph check="True">
 										<ana correct="True">
@@ -11630,7 +11630,7 @@
 										</ana>
 									</morph>
 								</token>
-								<token join="no" xml:id="t779">
+								<token join="right" xml:id="t779">
 									<form modified="False">dunaimano</form>
 									<morph check="True">
 										<ana correct="False">
@@ -12418,7 +12418,7 @@
 								</token>
 							</s>
 							<s modified="False" xml:id="s44">
-								<token join="no" xml:id="t829">
+								<token join="right" xml:id="t829">
 									<form modified="False">Konkrétan</form>
 									<morph check="True">
 										<ana correct="True">
@@ -15893,7 +15893,7 @@
 					<div type="comment" xml:id="d31">
 						<p xml:id="p28">
 							<s modified="False" xml:id="s58">
-								<token join="no" xml:id="t1059">
+								<token join="right" xml:id="t1059">
 									<form modified="False">Sziasztok</form>
 									<morph check="True">
 										<ana correct="True">
@@ -16658,7 +16658,7 @@
 										</ana>
 									</morph>
 								</token>
-								<token join="no" xml:id="t1110">
+								<token join="right" xml:id="t1110">
 									<form modified="False">)</form>
 									<morph check="True">
 										<ana correct="True">
@@ -17961,7 +17961,7 @@
 					<div type="comment" xml:id="d33">
 						<p xml:id="p31">
 							<s modified="False" xml:id="s62">
-								<token join="no" xml:id="t1196">
+								<token join="right" xml:id="t1196">
 									<form modified="False">köszi</form>
 									<morph check="True">
 										<ana correct="True">
@@ -20279,7 +20279,7 @@
 					<div type="comment" xml:id="d38">
 						<p xml:id="p37">
 							<s modified="False" xml:id="s71">
-								<token join="no" xml:id="t1351">
+								<token join="right" xml:id="t1351">
 									<form modified="False">Érthetetlen</form>
 									<morph check="True">
 										<ana correct="True">
@@ -21827,7 +21827,7 @@
 					<div type="comment" xml:id="d42">
 						<p xml:id="p41">
 							<s modified="False" xml:id="s77">
-								<token join="no" xml:id="t1454">
+								<token join="right" xml:id="t1454">
 									<form modified="False">Nem</form>
 									<morph check="True">
 										<ana correct="True">
@@ -22165,7 +22165,7 @@
 					<div type="comment" xml:id="d43">
 						<p xml:id="p42">
 							<s modified="False" xml:id="s79">
-								<token join="no" xml:id="t1478">
+								<token join="right" xml:id="t1478">
 									<form modified="False">Lányok</form>
 									<morph check="True">
 										<ana correct="True">
@@ -22889,7 +22889,7 @@
 										</ana>
 									</morph>
 								</token>
-								<token join="no" xml:id="t1523">
+								<token join="right" xml:id="t1523">
 									<form modified="False">)</form>
 									<morph check="True">
 										<ana correct="True">
@@ -23776,7 +23776,7 @@
 								</token>
 							</s>
 							<s modified="False" xml:id="s88">
-								<token join="no" xml:id="t1582">
+								<token join="right" xml:id="t1582">
 									<form modified="False">Befizettem</form>
 									<morph check="True">
 										<ana correct="True">
@@ -23883,7 +23883,7 @@
 								</token>
 							</s>
 							<s modified="False" xml:id="s89">
-								<token join="no" xml:id="t1589">
+								<token join="right" xml:id="t1589">
 									<form modified="False">Megreklamáltam</form>
 									<morph check="True">
 										<ana correct="True">
@@ -24499,7 +24499,7 @@
 					<div type="comment" xml:id="d50">
 						<p xml:id="p47">
 							<s modified="False" xml:id="s93">
-								<token join="no" xml:id="t1634">
+								<token join="right" xml:id="t1634">
 									<form modified="False">Aha</form>
 									<morph check="True">
 										<ana correct="True">
@@ -25090,7 +25090,7 @@
 										</ana>
 									</morph>
 								</token>
-								<token join="no" xml:id="t1670">
+								<token join="right" xml:id="t1670">
 									<form modified="False">köszi</form>
 									<morph check="True">
 										<ana correct="True">

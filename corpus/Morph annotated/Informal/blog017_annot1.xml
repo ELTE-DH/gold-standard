@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -1017,7 +1017,7 @@
 			</p>
 			<p xml:id="p2">
 				<s modified="False" xml:id="s4">
-					<token join="no" xml:id="t63">
+					<token join="right" xml:id="t63">
 						<form modified="False">Nos</form>
 						<morph check="True">
 							<ana correct="True">
@@ -10694,7 +10694,7 @@
 				<head type="title">    Érdekességek a városról   </head>
 				<p xml:id="p7">
 					<s modified="False" xml:id="s32">
-						<token join="no" xml:id="t695">
+						<token join="right" xml:id="t695">
 							<form modified="False">Na</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12508,7 +12508,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t818">
+						<token join="right" xml:id="t818">
 							<form modified="False">-e</form>
 							<morph check="True">
 								<ana correct="True">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -3882,7 +3882,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s26">
-						<token join="no" xml:id="t275">
+						<token join="right" xml:id="t275">
 							<form modified="False">Hülyeség</form>
 							<morph check="True">
 								<ana correct="True">
@@ -5586,7 +5586,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t389">
+						<token join="right" xml:id="t389">
 							<form modified="False">kiszállsz</form>
 							<morph check="True">
 								<ana correct="True">

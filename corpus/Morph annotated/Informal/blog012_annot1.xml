@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -1259,7 +1259,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t78"><form modified="True">szabadságérzéssel</form><morph check="True">
+						<token join="right" xml:id="t78"><form modified="True">szabadságérzéssel</form><morph check="True">
 								<ana correct="False">
 									<lemma>szabadságérzés</lemma>
 									<detailed>szabad[/Adj] + ság[_Nz_Abstr/N] + érez[/V]=érz + és[_Ger/N] + sel[Ins]</detailed>

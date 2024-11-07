@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -7496,7 +7496,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t491">
+							<token join="right" xml:id="t491">
 								<form modified="False">kollégium</form>
 								<morph check="True">
 									<ana correct="True">
@@ -10517,7 +10517,7 @@
 							</token>
 						</s>
 						<s modified="False" xml:id="s65">
-							<token join="no" xml:id="t706">
+							<token join="right" xml:id="t706">
 								<form modified="False">Megtévesztőnek</form>
 								<morph check="True">
 									<ana correct="True">
@@ -16287,7 +16287,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t1090">
+							<token join="right" xml:id="t1090">
 								<form modified="False">)</form>
 								<morph check="True">
 									<ana correct="True">
@@ -18937,7 +18937,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t1256">
+							<token join="right" xml:id="t1256">
 								<form modified="False">)</form>
 								<morph check="True">
 									<ana correct="True">
@@ -73737,7 +73737,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t4788">
+							<token join="right" xml:id="t4788">
 								<form modified="False">baccalaureus</form>
 								<morph check="True">
 									<ana correct="False">
@@ -75475,7 +75475,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t4905">
+							<token join="right" xml:id="t4905">
 								<form modified="False">magister</form>
 								<morph check="True">
 									<ana correct="False">
@@ -79895,7 +79895,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t5203">
+							<token join="right" xml:id="t5203">
 								<form modified="False">)</form>
 								<morph check="True">
 									<ana correct="True">

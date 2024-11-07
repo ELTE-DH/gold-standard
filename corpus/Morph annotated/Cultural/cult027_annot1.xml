@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -6907,7 +6907,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t424">
+					<token join="right" xml:id="t424">
 						<form modified="False">Cernan</form>
 						<morph check="True">
 							<ana correct="True">
@@ -8089,7 +8089,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s30">
-					<token join="no" xml:id="t506">
+					<token join="right" xml:id="t506">
 						<form modified="False">1966-ban</form>
 						<morph check="True">
 							<ana correct="True">
@@ -15444,7 +15444,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s54">
-						<token join="no" xml:id="t963">
+						<token join="right" xml:id="t963">
 							<form modified="False">Sejtettük</form>
 							<morph check="True">
 								<ana correct="True">
@@ -19194,7 +19194,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s67">
-						<token join="no" xml:id="t1206">
+						<token join="right" xml:id="t1206">
 							<form modified="False">Gyakori</form>
 							<morph check="True">
 								<ana correct="True">
@@ -21779,7 +21779,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1371">
+						<token join="right" xml:id="t1371">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -32850,7 +32850,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s117">
-						<token join="no" xml:id="t2076">
+						<token join="right" xml:id="t2076">
 							<form modified="False">Anélkül</form>
 							<morph check="True">
 								<ana correct="True">
@@ -35700,7 +35700,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2262"><form modified="True">Déli-sarkon</form><morph check="True">
+						<token join="right" xml:id="t2262"><form modified="True">Déli-sarkon</form><morph check="True">
 								<ana correct="False">
 									<lemma>déli-sarok</lemma>
 									<detailed>dél[/N] + i[_Adjz:i/Adj] + [Nom] + -[Hyph:Hyph] + sarok[/N]=sark + on[Supe]</detailed>
@@ -37847,7 +37847,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s137">
-						<token join="no" xml:id="t2408">
+						<token join="right" xml:id="t2408">
 							<form modified="False">Az</form>
 							<morph check="True">
 								<ana correct="False">
