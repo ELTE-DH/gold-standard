@@ -4720,7 +4720,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t314">
+					<token join="both" xml:id="t314">
 						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
@@ -20083,7 +20083,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1332">
+					<token join="both" xml:id="t1332">
 						<form modified="False">dollár</form>
 						<morph check="True">
 							<ana correct="False">

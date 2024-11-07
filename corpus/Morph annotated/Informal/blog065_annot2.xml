@@ -30145,7 +30145,7 @@
 				</p>
 				<p xml:id="p36">
 					<s modified="False" xml:id="s163">
-						<token join="no" xml:id="t2040">
+						<token join="right" xml:id="t2040">
 							<form modified="False">Példa</form>
 							<morph check="True">
 								<ana correct="True">

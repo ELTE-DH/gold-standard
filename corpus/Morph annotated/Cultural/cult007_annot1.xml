@@ -2068,7 +2068,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t137">
+						<token join="both" xml:id="t137">
 							<form modified="False">Shakespeare</form>
 							<morph check="True">
 								<ana correct="True">
@@ -9484,7 +9484,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t635">
+						<token join="both" xml:id="t635">
 							<form modified="False">…</form>
 							<morph check="True">
 								<ana correct="True">
@@ -17638,7 +17638,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1174">
+						<token join="left" xml:id="t1174">
 							<form modified="False">!</form>
 							<morph check="True">
 								<ana correct="True">
@@ -21093,7 +21093,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1408">
+						<token join="left" xml:id="t1408">
 							<form modified="False">Bűnök</form>
 							<morph check="True">
 								<ana correct="False">
@@ -21584,7 +21584,7 @@
 									<detailed/>
 									<simple>[/None]</simple>
 								</ana></morph></token>
-						<token join="no" xml:id="t1440"><form modified="True">Dante-kísérlete</form><morph check="True">
+						<token join="right" xml:id="t1440"><form modified="True">Dante-kísérlete</form><morph check="True">
 								<ana correct="False">
 									<lemma>Dante-kísérlet</lemma>
 									<detailed>Dante[/N] + [Nom] + -[Hyph:Hyph] + kísérlet[/N] + e[Poss.3Sg] + [Nom]</detailed>

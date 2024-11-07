@@ -10860,7 +10860,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t739">
+					<token join="both" xml:id="t739">
 						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
@@ -25844,7 +25844,7 @@
 			</p>
 			<p xml:id="p63">
 				<s modified="False" xml:id="s123">
-					<token join="no" xml:id="t1763">
+					<token join="right" xml:id="t1763">
 						<form modified="False">Legyintett</form>
 						<morph check="True">
 							<ana correct="True">

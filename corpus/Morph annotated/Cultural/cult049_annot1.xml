@@ -412,7 +412,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t20">
+						<token join="both" xml:id="t20">
 							<form modified="False">CSFK</form>
 							<morph check="True">
 								<ana correct="False">
@@ -692,7 +692,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t39">
+						<token join="both" xml:id="t39">
 							<form modified="False">MTA</form>
 							<morph check="True">
 								<ana correct="True">
@@ -18852,7 +18852,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t1253">
+					<token join="both" xml:id="t1253">
 						<form modified="False">ERC</form>
 						<morph check="True">
 							<ana correct="True">
@@ -22943,7 +22943,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1530">
+					<token join="both" xml:id="t1530">
 						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">

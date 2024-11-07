@@ -15363,7 +15363,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1003">
+						<token join="both" xml:id="t1003">
 							<form modified="False">könnyűvizes</form>
 							<morph check="True">
 								<ana correct="True">
@@ -15508,7 +15508,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1014">
+						<token join="left" xml:id="t1014">
 							<form modified="False">nyomottvizes</form>
 							<morph check="True">
 								<ana correct="False">

@@ -7780,7 +7780,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t521">
+						<token join="both" xml:id="t521">
 							<form modified="False">figyelve</form>
 							<morph check="True">
 								<ana correct="True">

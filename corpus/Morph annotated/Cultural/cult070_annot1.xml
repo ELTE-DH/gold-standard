@@ -9811,7 +9811,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t656">
+						<token join="left" xml:id="t656">
 							<form modified="False">50 000</form>
 							<morph check="True">
 								<ana correct="True">
@@ -9881,7 +9881,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t662">
+						<token join="left" xml:id="t662">
 							<form modified="False">félmillió</form>
 							<morph check="True">
 								<ana correct="True">
@@ -13846,7 +13846,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t936">
+						<token join="both" xml:id="t936">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -16130,7 +16130,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1094">
+						<token join="both" xml:id="t1094">
 							<form modified="False">ahová</form>
 							<morph check="True">
 								<ana correct="True">

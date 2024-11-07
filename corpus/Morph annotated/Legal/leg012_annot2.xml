@@ -2030,7 +2030,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t130">
+							<token join="both" xml:id="t130">
 								<form modified="False">védőruha</form>
 								<morph check="True">
 									<ana correct="False">
@@ -2215,7 +2215,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t142">
+							<token join="both" xml:id="t142">
 								<form modified="False">védőruha</form>
 								<morph check="True">
 									<ana correct="False">
@@ -6789,7 +6789,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t451">
+							<token join="both" xml:id="t451">
 								<form modified="False">könyvtár</form>
 								<morph check="True">
 									<ana correct="False">
@@ -8380,7 +8380,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t557">
+							<token join="both" xml:id="t557">
 								<form modified="False">minimálbér</form>
 								<morph check="True">
 									<ana correct="False">

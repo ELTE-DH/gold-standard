@@ -6886,7 +6886,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t433"><form modified="True">é.</form><morph check="True">
+						<token join="left" xml:id="t433"><form modified="True">é.</form><morph check="True">
 								<ana correct="True">
 									<lemma>é.</lemma>
 									<detailed>é.[/Adj|Abbr]=é + [Nom] + []=.</detailed>
@@ -28050,7 +28050,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1818"><form modified="True">é.</form><morph check="True">
+						<token join="left" xml:id="t1818"><form modified="True">é.</form><morph check="True">
 								<ana correct="True">
 									<lemma>é.</lemma>
 									<detailed>é.[/Adj|Abbr]=é + [Nom] + []=.</detailed>
@@ -30379,7 +30379,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1976">
+						<token join="both" xml:id="t1976">
 							<form modified="False">holdoszlop</form>
 							<morph check="True">
 								<ana correct="True">

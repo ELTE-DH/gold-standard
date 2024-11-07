@@ -16271,7 +16271,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="left" xml:id="t1054">
+						<token join="both" xml:id="t1054">
 							<form modified="True">1916</form>
 							<morph check="True">
 								<ana correct="False">
@@ -16471,7 +16471,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1068">
+						<token join="both" xml:id="t1068">
 							<form modified="False">Pilisszántói-kőfülke</form>
 							<morph check="True">
 								<ana correct="True">

@@ -530,7 +530,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t30">
+					<token join="both" xml:id="t30">
 						<form modified="False">1778–1846</form>
 						<morph check="True">
 							<ana correct="False">
@@ -20695,7 +20695,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1384">
+						<token join="both" xml:id="t1384">
 							<form modified="False">differenciáldiagnosztikai</form>
 							<morph check="True">
 								<ana correct="False">

@@ -9540,7 +9540,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t640">
+						<token join="both" xml:id="t640">
 							<form modified="False">mikro</form>
 							<morph check="True">
 								<ana correct="True">
@@ -13119,7 +13119,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t873">
+						<token join="both" xml:id="t873">
 							<form modified="False">vinclozolin</form>
 							<morph check="True">
 								<ana correct="False">
@@ -19041,7 +19041,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1264">
+						<token join="both" xml:id="t1264">
 							<form modified="False">pubertás</form>
 							<morph check="True">
 								<ana correct="True">
@@ -26215,7 +26215,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1745">
+						<token join="both" xml:id="t1745">
 							<form modified="False">feltételezett</form>
 							<morph check="True">
 								<ana correct="False">
@@ -27205,7 +27205,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1814">
+						<token join="both" xml:id="t1814">
 							<form modified="False">ADHD</form>
 							<morph check="True">
 								<ana correct="False">
@@ -30787,7 +30787,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2064">
+						<token join="left" xml:id="t2064">
 							<form modified="False">Sapiens</form>
 							<morph check="True">
 								<ana correct="False">
@@ -32351,7 +32351,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2172">
+						<token join="both" xml:id="t2172">
 							<form modified="False">kimutató</form>
 							<morph check="True">
 								<ana correct="True">
@@ -33170,7 +33170,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2228">
+						<token join="both" xml:id="t2228">
 							<form modified="False">benzpirén</form>
 							<morph check="True">
 								<ana correct="True">

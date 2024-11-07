@@ -11585,7 +11585,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t763">
+					<token join="both" xml:id="t763">
 						<form modified="False">halofil</form>
 						<morph check="True">
 							<ana correct="False">

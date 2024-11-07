@@ -4982,7 +4982,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t326">
+					<token join="both" xml:id="t326">
 						<form modified="False">prediktív</form>
 						<morph check="True">
 							<ana correct="True">
@@ -8810,7 +8810,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t574">
+						<token join="both" xml:id="t574">
 							<form modified="False">égetőnek</form>
 							<morph check="True">
 								<ana correct="False">
@@ -19962,7 +19962,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1277">
+						<token join="both" xml:id="t1277">
 							<form modified="False">bejóslási</form>
 							<morph check="True">
 								<ana correct="True">

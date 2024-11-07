@@ -18020,7 +18020,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s75">
-					<token join="no" xml:id="t1209">
+					<token join="right" xml:id="t1209">
 						<form modified="False">Döntése</form>
 						<morph check="True">
 							<ana correct="True">

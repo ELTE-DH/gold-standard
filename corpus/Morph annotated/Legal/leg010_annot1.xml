@@ -11080,7 +11080,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t671">
+							<token join="both" xml:id="t671">
 								<form modified="False">engedélyezési</form>
 								<morph check="True">
 									<ana correct="False">
@@ -11942,7 +11942,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t730">
+							<token join="both" xml:id="t730">
 								<form modified="False">minimálbér</form>
 								<morph check="True">
 									<ana correct="True">
@@ -26302,7 +26302,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t1627">
+							<token join="both" xml:id="t1627">
 								<form modified="False">minimálbér</form>
 								<morph check="True">
 									<ana correct="True">
@@ -61498,7 +61498,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t3748">
+							<token join="both" xml:id="t3748">
 								<form modified="False">főösszegeit</form>
 								<morph check="True">
 									<ana correct="True">

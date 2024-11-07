@@ -6566,7 +6566,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t418">
+						<token join="both" xml:id="t418">
 							<form modified="False">vibráció</form>
 							<morph check="True">
 								<ana correct="True">
@@ -18595,7 +18595,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1187">
+						<token join="both" xml:id="t1187">
 							<form modified="False">RFA</form>
 							<morph check="True">
 								<ana correct="False">
@@ -18957,7 +18957,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1213">
+						<token join="both" xml:id="t1213">
 							<form modified="False">LP1</form>
 							<morph check="True">
 								<ana correct="False">

@@ -6357,7 +6357,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t428">
+					<token join="left" xml:id="t428">
 						<form modified="False">Boğazkale</form>
 						<morph check="True">
 							<ana correct="True">
@@ -14188,7 +14188,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t948">
+					<token join="left" xml:id="t948">
 						<form modified="False">szerda</form>
 						<morph check="True">
 							<ana correct="True">
@@ -14238,7 +14238,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t953">
+					<token join="left" xml:id="t953">
 						<form modified="False">csütörtök</form>
 						<morph check="True">
 							<ana correct="True">
@@ -18209,7 +18209,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1211">
+						<token join="both" xml:id="t1211">
 							<form modified="False">Sümela</form>
 							<morph check="True">
 								<ana correct="True">
@@ -35742,7 +35742,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2384">
+						<token join="both" xml:id="t2384">
 							<form modified="False">matematika</form>
 							<morph check="True">
 								<ana correct="True">

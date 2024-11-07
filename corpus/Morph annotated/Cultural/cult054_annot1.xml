@@ -20121,7 +20121,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1364">
+						<token join="left" xml:id="t1364">
 							<form modified="False">ISZV</form>
 							<morph check="True">
 								<ana correct="False">

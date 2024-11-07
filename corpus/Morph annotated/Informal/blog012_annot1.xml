@@ -12057,13 +12057,13 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t777"><form modified="True">U.S.</form><morph check="True">
+						<token join="left" xml:id="t777"><form modified="True">U.S.</form><morph check="True">
 								<ana correct="True" modified="True">
 									<lemma>U.S.</lemma>
 									<detailed>U.S.[/N|Acron]</detailed>
 									<simple>[/N|Acron]</simple>
 								</ana></morph></token>
-						<token join="no" xml:id="t779">
+						<token join="right" xml:id="t779">
 							<form modified="False">Route</form>
 							<morph check="True">
 								<ana correct="True">

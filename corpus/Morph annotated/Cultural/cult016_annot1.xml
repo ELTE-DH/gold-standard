@@ -122,7 +122,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t7">
+						<token join="both" xml:id="t7">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -242,7 +242,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t14">
+						<token join="both" xml:id="t14">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -10868,7 +10868,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t724">
+						<token join="both" xml:id="t724">
 							<form modified="False">mikro-ébredések</form>
 							<morph check="True">
 								<ana correct="True">

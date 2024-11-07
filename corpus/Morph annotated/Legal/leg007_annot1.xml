@@ -7496,7 +7496,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t491">
+							<token join="both" xml:id="t491">
 								<form modified="False">kollégium</form>
 								<morph check="True">
 									<ana correct="True">
@@ -73737,7 +73737,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t4788">
+							<token join="both" xml:id="t4788">
 								<form modified="False">baccalaureus</form>
 								<morph check="True">
 									<ana correct="False">
@@ -75475,7 +75475,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t4905">
+							<token join="both" xml:id="t4905">
 								<form modified="False">magister</form>
 								<morph check="True">
 									<ana correct="False">
@@ -79860,7 +79860,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t5200">
+							<token join="both" xml:id="t5200">
 								<form modified="False">rövidítve</form>
 								<morph check="True">
 									<ana correct="False">
@@ -80075,7 +80075,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="no" xml:id="t5216">
+							<token join="both" xml:id="t5216">
 								<form modified="False">rövidítve</form>
 								<morph check="True">
 									<ana correct="False">

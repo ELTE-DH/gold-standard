@@ -56799,7 +56799,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t3846">
+					<token join="left" xml:id="t3846">
 						<form modified="False">smashbox</form>
 						<morph check="True">
 							<ana correct="False">

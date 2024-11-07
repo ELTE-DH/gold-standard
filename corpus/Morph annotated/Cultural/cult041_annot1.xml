@@ -13271,7 +13271,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t854">
+						<token join="both" xml:id="t854">
 							<form modified="False">ELF</form>
 							<morph check="True">
 								<ana correct="False">

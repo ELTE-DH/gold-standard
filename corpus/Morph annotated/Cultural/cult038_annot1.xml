@@ -39378,7 +39378,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2601">
+						<token join="both" xml:id="t2601">
 							<form modified="False">környezet</form>
 							<morph check="True">
 								<ana correct="True">
@@ -40773,7 +40773,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2694">
+						<token join="both" xml:id="t2694">
 							<form modified="False">fMRI</form>
 							<morph check="True">
 								<ana correct="False">

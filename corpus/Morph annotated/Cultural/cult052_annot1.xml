@@ -18234,7 +18234,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1211">
+						<token join="both" xml:id="t1211">
 							<form modified="False">Sümela</form>
 							<morph check="True">
 								<ana correct="True">
@@ -35794,7 +35794,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2384">
+						<token join="both" xml:id="t2384">
 							<form modified="False">matematika</form>
 							<morph check="True">
 								<ana correct="True">
