@@ -25588,7 +25588,7 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t856"><form modified="True">(3)</form><morph check="True">
+        <token join="no" xml:id="t856"><form modified="True">(3)</form><morph check="True">
           <ana correct="True">
            <lemma>3</lemma>
            <detailed>lpar[Punct]=( + 3[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -26424,7 +26424,7 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t885"><form modified="True">(4)</form><morph check="True">
+        <token join="no" xml:id="t885"><form modified="True">(4)</form><morph check="True">
           <ana correct="True">
            <lemma>4</lemma>
            <detailed>lpar[Punct]=( + 4[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -27933,7 +27933,7 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t934"><form modified="True">(1)</form><morph check="True">
+        <token join="no" xml:id="t934"><form modified="True">(1)</form><morph check="True">
           <ana correct="True">
            <lemma>1</lemma>
            <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -36389,7 +36389,7 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t1205"><form modified="True">(2)</form><morph check="True">
+        <token join="no" xml:id="t1205"><form modified="True">(2)</form><morph check="True">
           <ana correct="True">
            <lemma>2</lemma>
            <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -41392,7 +41392,7 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t1378"><form modified="True">(2)</form><morph check="True">
+        <token join="no" xml:id="t1378"><form modified="True">(2)</form><morph check="True">
           <ana correct="True">
            <lemma>2</lemma>
            <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -53563,7 +53563,7 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t1788"><form modified="True">(1)</form><morph check="True">
+        <token join="no" xml:id="t1788"><form modified="True">(1)</form><morph check="True">
           <ana correct="True">
            <lemma>1</lemma>
            <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -53587,7 +53587,7 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t1791"><form modified="True">(2)</form><morph check="True">
+        <token join="no" xml:id="t1791"><form modified="True">(2)</form><morph check="True">
           <ana correct="True">
            <lemma>2</lemma>
            <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -56050,7 +56050,7 @@
           </ana>
          </morph>
         </token>
-        <token join="right" xml:id="t1873"><form modified="True">(1)</form><morph check="True">
+        <token join="no" xml:id="t1873"><form modified="True">(1)</form><morph check="True">
           <ana correct="True">
            <lemma>1</lemma>
            <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -65782,7 +65782,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t2177"><form modified="True">(2)</form><morph check="True">
+       <token join="no" xml:id="t2177"><form modified="True">(2)</form><morph check="True">
          <ana correct="True">
           <lemma>2</lemma>
           <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -68950,7 +68950,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t2281"><form modified="True">(2)</form><morph check="True">
+       <token join="no" xml:id="t2281"><form modified="True">(2)</form><morph check="True">
          <ana correct="True">
           <lemma>2</lemma>
           <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -79818,7 +79818,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t2619"><form modified="True">(3)</form><morph check="True">
+       <token join="no" xml:id="t2619"><form modified="True">(3)</form><morph check="True">
          <ana correct="True" modified="True">
           <lemma>3</lemma>
           <detailed>lpar[Punct]=(+3[/Num|Digit]+[Nom]+rpar[Punct]=)</detailed>
@@ -89950,7 +89950,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t2931"><form modified="True">(1)</form><morph check="True">
+       <token join="no" xml:id="t2931"><form modified="True">(1)</form><morph check="True">
          <ana correct="True">
           <lemma>1</lemma>
           <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -92798,7 +92798,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t3020"><form modified="True">(3)</form><morph check="True">
+       <token join="no" xml:id="t3020"><form modified="True">(3)</form><morph check="True">
          <ana correct="True">
           <lemma>3</lemma>
           <detailed>lpar[Punct]=( + 3[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
