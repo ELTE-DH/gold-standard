@@ -21202,7 +21202,7 @@
 									<detailed/>
 									<simple>[Punct]</simple>
 								</ana></morph></token>
-						<token join="right" xml:id="t1396_2"><form modified="True">2</form><morph check="True">
+						<token join="both" xml:id="t1396_2"><form modified="True">2</form><morph check="True">
 								<ana correct="True">
 									<lemma>2</lemma>
 									<detailed>2[/Num|Digit] + [Nom]</detailed>
@@ -27651,7 +27651,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1816">
+						<token join="left" xml:id="t1816">
 							<form modified="False">2</form>
 							<morph check="True">
 								<ana correct="True">
@@ -27696,7 +27696,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1820">
+						<token join="left" xml:id="t1820">
 							<form modified="False">4</form>
 							<morph check="True">
 								<ana correct="True">
@@ -48511,7 +48511,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t3171">
+						<token join="left" xml:id="t3171">
 							<form modified="False">?</form>
 							<morph check="True">
 								<ana correct="True">
@@ -51622,7 +51622,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t3372">
+						<token join="left" xml:id="t3372">
 							<form modified="False">5</form>
 							<morph check="True">
 								<ana correct="True">

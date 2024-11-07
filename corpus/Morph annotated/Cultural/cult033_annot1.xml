@@ -1840,7 +1840,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s8">
-					<token join="no" xml:id="t116">
+					<token join="right" xml:id="t116">
 						<form modified="False">Egészséges</form>
 						<morph check="True">
 							<ana correct="False">

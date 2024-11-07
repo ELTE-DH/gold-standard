@@ -16542,7 +16542,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s53">
-						<token join="no" xml:id="t1098">
+						<token join="right" xml:id="t1098">
 							<form modified="False">Megtették</form>
 							<morph check="True">
 								<ana correct="True">
@@ -16639,7 +16639,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s54">
-						<token join="no" xml:id="t1104">
+						<token join="right" xml:id="t1104">
 							<form modified="False">Fogyasztott</form>
 							<morph check="True">
 								<ana correct="True">

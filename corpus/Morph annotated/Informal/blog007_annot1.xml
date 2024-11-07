@@ -10231,7 +10231,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s65">
-						<token join="no" xml:id="t710">
+						<token join="right" xml:id="t710">
 							<form modified="False">Soha</form>
 							<morph check="True">
 								<ana correct="True">

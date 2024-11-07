@@ -105,7 +105,7 @@
 			<div type="lead" xml:id="d1">
 				<p xml:id="p1">
 					<s modified="False" xml:id="s1">
-						<token join="no" xml:id="t1">
+						<token join="right" xml:id="t1">
 							<form modified="False">Van</form>
 							<morph check="True">
 								<ana correct="True">

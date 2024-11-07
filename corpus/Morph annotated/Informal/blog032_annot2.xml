@@ -7809,7 +7809,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s31">
-					<token join="no" xml:id="t504">
+					<token join="right" xml:id="t504">
 						<form modified="False">Megállt</form>
 						<morph check="True">
 							<ana correct="True">

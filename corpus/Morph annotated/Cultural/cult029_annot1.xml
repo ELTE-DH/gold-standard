@@ -7741,7 +7741,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s21">
-					<token join="no" xml:id="t500">
+					<token join="right" xml:id="t500">
 						<form modified="False">Van</form>
 						<morph check="True">
 							<ana correct="True">
@@ -7798,7 +7798,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s22">
-					<token join="no" xml:id="t505">
+					<token join="right" xml:id="t505">
 						<form modified="False">Léteznek</form>
 						<morph check="True">
 							<ana correct="False">

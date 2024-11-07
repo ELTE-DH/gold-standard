@@ -8634,7 +8634,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s28">
-					<token join="no" xml:id="t532">
+					<token join="right" xml:id="t532">
 						<form modified="False">Igen</form>
 						<morph check="True">
 							<ana correct="True">

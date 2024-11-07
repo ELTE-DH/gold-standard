@@ -24264,7 +24264,7 @@
 						</token>
 					</s>
 					<s modified="True" xml:id="s76">
-						<token join="no" xml:id="t1550">
+						<token join="right" xml:id="t1550">
 							<form modified="False">Szerencsére</form>
 							<morph check="True">
 								<ana correct="True">
