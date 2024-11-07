@@ -1477,7 +1477,7 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t48">
+       <token join="both" xml:id="t48">
         <form modified="False">
          )
         </form>
@@ -17304,7 +17304,7 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t562">
+       <token join="both" xml:id="t562">
         <form modified="False">
          )
         </form>
@@ -18016,7 +18016,7 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t585">
+       <token join="both" xml:id="t585">
         <form modified="False">
          )
         </form>
@@ -43705,7 +43705,7 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1470">
+        <token join="both" xml:id="t1470">
          <form modified="False">
           vendéghallgatói
          </form>
@@ -46418,7 +46418,7 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1567">
+        <token join="both" xml:id="t1567">
          <form modified="False">
           )
          </form>
@@ -48429,7 +48429,7 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1642">
+        <token join="both" xml:id="t1642">
          <form modified="False">
           diplomamunka
          </form>
@@ -48999,7 +48999,7 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1662">
+        <token join="both" xml:id="t1662">
          <form modified="False">
           )
          </form>
@@ -68207,7 +68207,7 @@
      </p>
      <p xml:id="p121">
       <s modified="False" xml:id="s252">
-       <token join="no" xml:id="t2268">
+       <token join="right" xml:id="t2268">
         <form modified="False">
          6.1
         </form>
@@ -72826,7 +72826,7 @@
      </p>
      <p xml:id="p131">
       <s modified="False" xml:id="s275">
-       <token join="no" xml:id="t2415">
+       <token join="right" xml:id="t2415">
         <form modified="False">
          6.2
         </form>
@@ -83159,7 +83159,7 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t2728">
+       <token join="both" xml:id="t2728">
         <form modified="False">
          továbbiakban
         </form>
@@ -83240,7 +83240,7 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t2732">
+       <token join="both" xml:id="t2732">
         <form modified="False">
          )
         </form>

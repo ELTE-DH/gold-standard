@@ -27744,7 +27744,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s87">
-					<token join="no" xml:id="t1900">
+					<token join="right" xml:id="t1900">
 						<form modified="False">Mivaaan</form>
 						<morph check="True">
 							<ana correct="False">
@@ -40828,7 +40828,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t2781">
+					<token join="both" xml:id="t2781">
 						<form modified="False">-e</form>
 						<morph check="True">
 							<ana correct="True">

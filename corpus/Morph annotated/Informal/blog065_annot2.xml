@@ -40756,7 +40756,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2750">
+						<token join="both" xml:id="t2750">
 							<form modified="False">-e</form>
 							<morph check="True">
 								<ana correct="True">
