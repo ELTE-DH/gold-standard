@@ -1235,7 +1235,7 @@
 									<simple>[/N|Pro][Ela][3Sg]</simple>
 								</ana></morph>
 						</token>
-						<token join="right" xml:id="t76_2">
+						<token join="both" xml:id="t76_2">
 							<form modified="True">.</form>
 							<morph check="True">
 								<ana correct="True">

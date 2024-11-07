@@ -9458,7 +9458,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t635">
+							<token join="both" xml:id="t635">
 								<form modified="False">egyetem</form>
 								<morph check="True">
 									<ana correct="True">
@@ -9508,7 +9508,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t639">
+							<token join="both" xml:id="t639">
 								<form modified="False">főiskola</form>
 								<morph check="True">
 									<ana correct="False">
@@ -41409,7 +41409,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t2716">
+							<token join="both" xml:id="t2716">
 								<form modified="False">C</form>
 								<morph check="True">
 									<ana correct="False">

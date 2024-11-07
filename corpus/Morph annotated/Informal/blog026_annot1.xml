@@ -4218,7 +4218,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t283">
+						<token join="both" xml:id="t283">
 							<form modified="False">guest</form>
 							<morph check="True">
 								<ana correct="False">
@@ -13539,7 +13539,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t902">
+						<token join="both" xml:id="t902">
 							<form modified="False">Tekapo</form>
 							<morph check="True">
 								<ana correct="True">

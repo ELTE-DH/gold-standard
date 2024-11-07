@@ -2563,7 +2563,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t162">
+					<token join="both" xml:id="t162">
 						<form modified="False">lehet</form>
 						<morph check="True">
 							<ana correct="True">
@@ -9626,7 +9626,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t645">
+					<token join="both" xml:id="t645">
 						<form modified="False">Lucy</form>
 						<morph check="True">
 							<ana correct="True">
@@ -12901,7 +12901,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t862">
+					<token join="both" xml:id="t862">
 						<form modified="False">műanyagok</form>
 						<morph check="True">
 							<ana correct="False">
@@ -15911,7 +15911,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1047">
+					<token join="both" xml:id="t1047">
 						<form modified="False">egységes</form>
 						<morph check="True">
 							<ana correct="True">

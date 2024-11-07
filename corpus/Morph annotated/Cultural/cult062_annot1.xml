@@ -26378,7 +26378,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1723">
+						<token join="both" xml:id="t1723">
 							<form modified="False">sötét</form>
 							<morph check="True">
 								<ana correct="True">
@@ -31316,7 +31316,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2041">
+						<token join="both" xml:id="t2041">
 							<form modified="False">kiművelt</form>
 							<morph check="True">
 								<ana correct="True">

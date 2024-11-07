@@ -10636,7 +10636,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t689">
+						<token join="both" xml:id="t689">
 							<form modified="False">Úristen</form>
 							<morph check="True">
 								<ana correct="False">
@@ -14838,7 +14838,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t966">
+						<token join="left" xml:id="t966">
 							<form modified="False">négybetűs</form>
 							<morph check="True">
 								<ana correct="True">

@@ -3226,7 +3226,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t213">
+						<token join="both" xml:id="t213">
 							<form modified="False">bárhol-bármikor</form>
 							<morph check="True">
 								<ana correct="True">
@@ -8973,7 +8973,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t598">
+						<token join="both" xml:id="t598">
 							<form modified="False">töredezett</form>
 							<morph check="True">
 								<ana correct="True">
@@ -9569,7 +9569,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t640">
+						<token join="both" xml:id="t640">
 							<form modified="False">fulladozás</form>
 							<morph check="True">
 								<ana correct="True">

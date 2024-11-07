@@ -8889,7 +8889,7 @@
 									<simple>[/N][Poss.3Sg][Nom]</simple>
 								</ana></morph>
 						</token>
-						<token join="right" xml:id="t592_2">
+						<token join="both" xml:id="t592_2">
 							<form modified="True">.</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12804,7 +12804,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t850">
+						<token join="both" xml:id="t850">
 							<form modified="False">eszköz</form>
 							<morph check="True">
 								<ana correct="True">
@@ -20605,7 +20605,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1392">
+						<token join="both" xml:id="t1392">
 							<form modified="False">odaát</form>
 							<morph check="True">
 								<ana correct="True">

@@ -2706,7 +2706,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t174">
+						<token join="left" xml:id="t174">
 							<form modified="False">gittegyletek</form>
 							<morph check="True">
 								<ana correct="True">
@@ -7244,7 +7244,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t469">
+						<token join="left" xml:id="t469">
 							<form modified="False">.</form>
 							<morph check="True">
 								<ana correct="True">

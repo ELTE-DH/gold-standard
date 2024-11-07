@@ -19210,7 +19210,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1279">
+						<token join="right" xml:id="t1279">
 							<form modified="False">(</form>
 							<morph check="True">
 								<ana correct="True">
@@ -28267,7 +28267,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1874">
+						<token join="both" xml:id="t1874">
 							<form modified="False">pikantériája</form>
 							<morph check="True">
 								<ana correct="True">
@@ -46081,7 +46081,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s146">
-						<token join="no" xml:id="t3056">
+						<token join="right" xml:id="t3056">
 							<form modified="False">(</form>
 							<morph check="True">
 								<ana correct="True">
@@ -47097,7 +47097,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s150">
-						<token join="no" xml:id="t3123">
+						<token join="right" xml:id="t3123">
 							<form modified="False">(</form>
 							<morph check="True">
 								<ana correct="True">

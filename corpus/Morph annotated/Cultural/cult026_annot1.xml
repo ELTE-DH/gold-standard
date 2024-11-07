@@ -20770,7 +20770,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s61">
-						<token join="no" xml:id="t1360">
+						<token join="right" xml:id="t1360">
 							<form modified="False">(</form>
 							<morph check="True">
 								<ana correct="True">

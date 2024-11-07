@@ -9064,7 +9064,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t589">
+						<token join="both" xml:id="t589">
 							<form modified="False">eltalálni</form>
 							<morph check="True">
 								<ana correct="True">

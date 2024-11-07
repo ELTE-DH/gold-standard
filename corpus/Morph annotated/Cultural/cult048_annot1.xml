@@ -12458,7 +12458,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t821">
+					<token join="both" xml:id="t821">
 						<form modified="False">színekből</form>
 						<morph check="True">
 							<ana correct="True">

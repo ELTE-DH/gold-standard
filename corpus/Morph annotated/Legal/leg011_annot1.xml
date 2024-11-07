@@ -2997,7 +2997,7 @@
 					</p>
 					<p xml:id="p9">
 						<s modified="False" xml:id="s18">
-							<token join="no" xml:id="t205">
+							<token join="right" xml:id="t205">
 								<form modified="False">(</form>
 								<morph check="True">
 									<ana correct="True">

@@ -3402,7 +3402,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s14">
-					<token join="no" xml:id="t212">
+					<token join="right" xml:id="t212">
 						<form modified="False">(</form>
 						<morph check="True">
 							<ana correct="True">
@@ -4485,7 +4485,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t287">
+						<token join="both" xml:id="t287">
 							<form modified="False">pollenanalízis</form>
 							<morph check="True">
 								<ana correct="True">

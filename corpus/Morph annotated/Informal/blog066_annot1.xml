@@ -622,7 +622,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t32">
+					<token join="both" xml:id="t32">
 						<form modified="False">tudással</form>
 						<morph check="True">
 							<ana correct="False">
@@ -6303,7 +6303,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t398">
+						<token join="left" xml:id="t398">
 							<form modified="False">.</form>
 							<morph check="True">
 								<ana correct="True">
@@ -8747,7 +8747,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t564">
+						<token join="both" xml:id="t564">
 							<form modified="False">profi</form>
 							<morph check="True">
 								<ana correct="False">

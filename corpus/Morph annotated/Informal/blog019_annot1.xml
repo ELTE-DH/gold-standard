@@ -7085,7 +7085,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t486">
+						<token join="left" xml:id="t486">
 							<form modified="False">Corn-dog</form>
 							<morph check="True">
 								<ana correct="False">
@@ -9141,7 +9141,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t628">
+						<token join="both" xml:id="t628">
 							<form modified="False">honu</form>
 							<morph check="True">
 								<ana correct="False">
@@ -10604,7 +10604,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t722">
+						<token join="both" xml:id="t722">
 							<form modified="False">túlhype-olt</form>
 							<morph check="True">
 								<ana correct="False">
@@ -12677,7 +12677,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t871">
+						<token join="both" xml:id="t871">
 							<form modified="False">csak</form>
 							<morph check="True">
 								<ana correct="True">
@@ -16527,7 +16527,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1127">
+						<token join="both" xml:id="t1127">
 							<form modified="False">festői</form>
 							<morph check="True">
 								<ana correct="False">

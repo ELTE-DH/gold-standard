@@ -18231,7 +18231,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1218">
+						<token join="both" xml:id="t1218">
 							<form modified="False">örömhormonokat</form>
 							<morph check="True">
 								<ana correct="True">
@@ -39861,7 +39861,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2607">
+						<token join="both" xml:id="t2607">
 							<form modified="False">zeneszerző</form>
 							<morph check="True">
 								<ana correct="True">
@@ -40228,7 +40228,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2630">
+						<token join="both" xml:id="t2630">
 							<form modified="False">festők</form>
 							<morph check="True">
 								<ana correct="True">
@@ -41366,7 +41366,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2699">
+						<token join="both" xml:id="t2699">
 							<form modified="False">festő</form>
 							<morph check="True">
 								<ana correct="True">

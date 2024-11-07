@@ -2411,7 +2411,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t150">
+					<token join="left" xml:id="t150">
 						<form modified="False">tanulás</form>
 						<morph check="True">
 							<ana correct="True">
@@ -3208,7 +3208,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t200">
+					<token join="left" xml:id="t200">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">

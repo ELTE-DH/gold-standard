@@ -12420,7 +12420,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t793">
+						<token join="left" xml:id="t793">
 							<form modified="False">meghamísították</form>
 							<morph check="True">
 								<ana correct="False">

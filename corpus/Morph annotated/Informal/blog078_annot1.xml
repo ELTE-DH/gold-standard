@@ -1923,7 +1923,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t132">
+					<token join="both" xml:id="t132">
 						<form modified="False">károsodó</form>
 						<morph check="True">
 							<ana correct="False">
@@ -2245,7 +2245,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t151">
+					<token join="both" xml:id="t151">
 						<form modified="False">kinyitom</form>
 						<morph check="True">
 							<ana correct="True">
@@ -17105,7 +17105,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1162">
+					<token join="both" xml:id="t1162">
 						<form modified="False">új</form>
 						<morph check="True">
 							<ana correct="True">
@@ -46627,7 +46627,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t3202">
+					<token join="both" xml:id="t3202">
 						<form modified="False">üzletrontás</form>
 						<morph check="True">
 							<ana correct="False">
@@ -49540,7 +49540,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t3400">
+					<token join="both" xml:id="t3400">
 						<form modified="False">pár</form>
 						<morph check="True">
 							<ana correct="True">

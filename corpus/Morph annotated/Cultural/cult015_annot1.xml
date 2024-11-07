@@ -7166,7 +7166,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s25">
-						<token join="no" xml:id="t476">
+						<token join="right" xml:id="t476">
 							<form modified="False">(</form>
 							<morph check="True">
 								<ana correct="True">
