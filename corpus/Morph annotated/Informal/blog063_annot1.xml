@@ -17241,7 +17241,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1118">
+						<token join="no" xml:id="t1118">
 							<form modified="False">mutatott</form>
 							<morph check="True">
 								<ana correct="False">
@@ -27003,7 +27003,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1763"><form modified="True">karácsony/húsvét/pünkösd</form><morph check="True">
+						<token join="no" xml:id="t1763"><form modified="True">karácsony/húsvét/pünkösd</form><morph check="True">
 								<ana correct="False">
 									<lemma>karácsony/húsvét/pünkösd</lemma>
 									<detailed>karácsony[/N] + [Nom] + /[Hyph:Slash] + húsvét[/N] + [Nom] + /[Hyph:Slash] + pünkösd[/N] + [Nom]</detailed>

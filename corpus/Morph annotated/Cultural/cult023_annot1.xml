@@ -3501,7 +3501,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t227">
+						<token join="no" xml:id="t227">
 							<form modified="False">Gutenberg-csatorna</form>
 							<morph check="True">
 								<ana correct="True">
@@ -20383,7 +20383,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1356">
+						<token join="no" xml:id="t1356">
 							<form modified="False">magasságkülönbségeknek</form>
 							<morph check="True">
 								<ana correct="False">
@@ -29647,7 +29647,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1968">
+						<token join="no" xml:id="t1968">
 							<form modified="False">felszerelkezve</form>
 							<morph check="True">
 								<ana correct="True">
@@ -31906,7 +31906,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2112">
+						<token join="no" xml:id="t2112">
 							<form modified="False">félszigeten</form>
 							<morph check="True">
 								<ana correct="True">

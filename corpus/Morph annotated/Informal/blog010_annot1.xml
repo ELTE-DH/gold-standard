@@ -21855,7 +21855,7 @@
 									<simple>[/Adj][_Manner/Adv]</simple>
 								</ana></morph>
 						</token>
-						<token join="right" xml:id="t1477">
+						<token join="no" xml:id="t1477">
 							<form modified="True">rendbe</form>
 							<morph check="True">
 								<ana correct="True">

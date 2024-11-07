@@ -5886,7 +5886,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t387"><form modified="True">rozsdaszín</form><morph check="True">
+						<token join="no" xml:id="t387"><form modified="True">rozsdaszín</form><morph check="True">
 								<ana correct="False">
 									<lemma>rozsdaszín</lemma>
 									<detailed>rozsda[/N] + szín[/Adj|col] + [Nom]</detailed>

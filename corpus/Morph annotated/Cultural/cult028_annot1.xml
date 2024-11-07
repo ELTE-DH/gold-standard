@@ -24283,7 +24283,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1600">
+						<token join="no" xml:id="t1600">
 							<form modified="False">több</form>
 							<morph check="True">
 								<ana correct="True">

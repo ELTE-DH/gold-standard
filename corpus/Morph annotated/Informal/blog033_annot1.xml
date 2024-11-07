@@ -7274,7 +7274,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t469">
+						<token join="no" xml:id="t469">
 							<form modified="True">megyéről</form>
 							<morph check="True">
 								<ana correct="True">
@@ -7302,7 +7302,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t471">
+						<token join="no" xml:id="t471">
 							<form modified="True">településről</form>
 							<morph check="True">
 								<ana correct="False">

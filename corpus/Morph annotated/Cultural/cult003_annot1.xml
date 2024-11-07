@@ -15811,7 +15811,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1031"><form modified="True">'70-es</form><morph check="True">
+						<token join="no" xml:id="t1031"><form modified="True">'70-es</form><morph check="True">
 								<ana correct="True">
 									<lemma>70-es</lemma>
 									<detailed>aposl[Punct]=' + 70[/Num|Digit]=70- + es[_Adjz:s/Adj] + [Nom]</detailed>

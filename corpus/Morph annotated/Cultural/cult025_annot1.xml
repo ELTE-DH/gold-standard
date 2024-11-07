@@ -9554,7 +9554,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t601"><form modified="True">3.0"-nak</form><morph check="True">
+					<token join="no" xml:id="t601"><form modified="True">3.0"-nak</form><morph check="True">
 							<ana correct="True" modified="True">
 								<lemma>3.0"-nak</lemma>
 								<detailed/>

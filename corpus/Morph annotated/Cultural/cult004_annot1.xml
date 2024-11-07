@@ -2651,7 +2651,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t175">
+					<token join="no" xml:id="t175">
 						<form modified="False">után</form>
 						<morph check="True">
 							<ana correct="True">
@@ -18383,7 +18383,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1237">
+					<token join="no" xml:id="t1237">
 						<form modified="False">alakúvá</form>
 						<morph check="True">
 							<ana correct="True">
@@ -25774,7 +25774,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1740">
+					<token join="no" xml:id="t1740">
 						<form modified="True">guerillónak</form>
 						<morph check="True">
 							<ana correct="True" modified="True">
@@ -27826,7 +27826,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1888">
+					<token join="no" xml:id="t1888">
 						<form modified="False">maláriát</form>
 						<morph check="True">
 							<ana correct="True">
@@ -51574,7 +51574,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t3482">
+					<token join="no" xml:id="t3482">
 						<form modified="False">kevesebb</form>
 						<morph check="True">
 							<ana correct="True">
@@ -59117,7 +59117,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t3977">
+					<token join="no" xml:id="t3977">
 						<form modified="False">Amazonason</form>
 						<morph check="True">
 							<ana correct="True">

@@ -19237,7 +19237,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1258"><form modified="True">Teh-el-Hasszáni</form><morph check="True">
+						<token join="no" xml:id="t1258"><form modified="True">Teh-el-Hasszáni</form><morph check="True">
 								<ana correct="True" modified="True">
 									<lemma>Teh-el-Hasszáni</lemma>
 									<detailed>Teh-el-Hasszáni[/N]+[Nom]</detailed>

@@ -20182,7 +20182,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1266"><form modified="True">commune"-t</form><morph check="True">
+					<token join="no" xml:id="t1266"><form modified="True">commune"-t</form><morph check="True">
 							<ana correct="True" modified="True">
 								<lemma>commune</lemma>
 								<detailed>commune[/N] + "[Punct]="- + t[Acc]</detailed>

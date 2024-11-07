@@ -3174,7 +3174,7 @@
 									<detailed>27.60[/Num|Digit]+[Nom]</detailed>
 									<simple>[/Num|Digit][Nom]</simple>
 								</ana></morph></token>
-						<token join="right" xml:id="t202_2"><form modified="True">$-ért</form><morph check="True">
+						<token join="no" xml:id="t202_2"><form modified="True">$-ért</form><morph check="True">
 								<ana correct="False">
 									<lemma>$-ér</lemma>
 									<detailed>$[/N|Unit|Abbr] + [Nom] + -[Hyph:Hyph] + ér[/V] + t[Pst.NDef.3Sg]</detailed>
@@ -17244,7 +17244,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1157">
+						<token join="no" xml:id="t1157">
 							<form modified="True">makkos</form>
 							<morph check="True">
 								<ana correct="False">

@@ -4241,7 +4241,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t264">
+						<token join="no" xml:id="t264">
 							<form modified="False">rólunk</form>
 							<morph check="True">
 								<ana correct="True">
@@ -23848,7 +23848,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t1565">
+							<token join="no" xml:id="t1565">
 								<form modified="False">gépére/telefonjára</form>
 								<morph check="True">
 									<ana correct="True">
@@ -31701,7 +31701,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t2073">
+							<token join="no" xml:id="t2073">
 								<form modified="False">is</form>
 								<morph check="True">
 									<ana correct="True">
@@ -55713,7 +55713,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t3688">
+							<token join="no" xml:id="t3688">
 								<form modified="False">adatsora</form>
 								<morph check="True">
 									<ana correct="True">
@@ -62994,7 +62994,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t4150">
+							<token join="no" xml:id="t4150">
 								<form modified="False">ki</form>
 								<morph check="True">
 									<ana correct="True">
@@ -67650,7 +67650,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t4446">
+							<token join="no" xml:id="t4446">
 								<form modified="False">nevét</form>
 								<morph check="True">
 									<ana correct="True">
@@ -68333,7 +68333,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t4491">
+							<token join="no" xml:id="t4491">
 								<form modified="False">Facebook-baráttal</form>
 								<morph check="True">
 									<ana correct="True">
@@ -69833,7 +69833,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t4583"><form modified="True">Facebook-adatprofil-archívumukat</form><morph check="True">
+							<token join="no" xml:id="t4583"><form modified="True">Facebook-adatprofil-archívumukat</form><morph check="True">
 									<ana correct="True">
 										<lemma>Facebook-adatprofil-archívum</lemma>
 										<detailed>Facebook[/N] + [Nom] + -[Hyph:Hyph] + adat[/N] + profil[/N] + [Nom] + -[Hyph:Hyph] + archívum[/N] + uk[Poss.3Pl] + at[Acc]</detailed>

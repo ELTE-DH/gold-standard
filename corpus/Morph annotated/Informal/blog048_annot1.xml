@@ -16117,7 +16117,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1109">
+						<token join="no" xml:id="t1109">
 							<form modified="False">harmadik</form>
 							<morph check="True">
 								<ana correct="True">
@@ -18011,7 +18011,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1244">
+						<token join="no" xml:id="t1244">
 							<form modified="False">hajú</form>
 							<morph check="True">
 								<ana correct="True">
@@ -18091,7 +18091,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1251">
+						<token join="no" xml:id="t1251">
 							<form modified="False">nap</form>
 							<morph check="True">
 								<ana correct="False">
@@ -40522,7 +40522,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2742">
+						<token join="no" xml:id="t2742">
 							<form modified="True">hosszú</form>
 							<morph check="True">
 								<ana correct="False">

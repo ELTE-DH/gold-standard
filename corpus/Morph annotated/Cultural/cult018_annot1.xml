@@ -29413,7 +29413,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1911"><form modified="True">"fakóbb"-nak</form><morph check="True">
+						<token join="no" xml:id="t1911"><form modified="True">"fakóbb"-nak</form><morph check="True">
 								<ana correct="True" modified="True">
 									<lemma>"fakóbb"</lemma>
 									<detailed>"[Punct] + fakó[/Adj] + bb[_Comp/Adj] + "[Punct] + nak[Dat]=-nak</detailed>

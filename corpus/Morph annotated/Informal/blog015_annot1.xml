@@ -22715,7 +22715,7 @@
 								</token>
 							</s>
 							<s modified="False" xml:id="s82">
-								<token join="right" xml:id="t1512">
+								<token join="no" xml:id="t1512">
 									<form modified="True">Mi</form>
 									<morph check="True">
 										<ana correct="False">

@@ -11198,7 +11198,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t715">
+						<token join="no" xml:id="t715">
 							<form modified="True">test</form>
 							<morph check="True">
 								<ana correct="True">
@@ -29198,7 +29198,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1901"><form modified="True">Szent-Kereszt-hegységben</form><morph check="True">
+						<token join="no" xml:id="t1901"><form modified="True">Szent-Kereszt-hegységben</form><morph check="True">
 								<ana correct="False">
 									<lemma>Szen-kereszt-hegység</lemma>
 									<detailed>Szen[/N] + t[Acc] + -[Hyph:Hyph] + kereszt[/N] + [Nom] + -[Hyph:Hyph] + hegység[/N] + ben[Ine]</detailed>

@@ -5250,7 +5250,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t351"><form modified="True">Pál-völgyi-kőfejtőben</form><morph check="True">
+						<token join="no" xml:id="t351"><form modified="True">Pál-völgyi-kőfejtőben</form><morph check="True">
 								<ana correct="False">
 									<lemma>Pál-völgyi-kőfejtő</lemma>
 									<detailed>Pál[/N] + [Nom] + -[Hyph:Hyph] + völgyi[/Adj] + [Nom] + -[Hyph:Hyph] + kő[/N] + fej[/N] + tő[/N] + ben[Ine]</detailed>
@@ -11579,7 +11579,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t751"><form modified="True">Kecske-hegyi-kőfejtőt</form><morph check="True">
+						<token join="no" xml:id="t751"><form modified="True">Kecske-hegyi-kőfejtőt</form><morph check="True">
 								<ana correct="False">
 									<lemma>kecske-hegyi-kőfejtő</lemma>
 									<detailed>kecske[/N] + [Nom] + -[Hyph:Hyph] + hegy[/N] + i[_Adjz:i/Adj] + [Nom] + -[Hyph:Hyph] + kő[/N] + fejt[/V] + ő[_ImpfPtcp/Adj] + t[Acc]</detailed>
@@ -23999,7 +23999,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1530"><form modified="True">Mátyás-hegyi-barlang</form><morph check="True">
+						<token join="no" xml:id="t1530"><form modified="True">Mátyás-hegyi-barlang</form><morph check="True">
 								<ana correct="False">
 									<lemma>Mátyás-hegyi-barlang</lemma>
 									<detailed>Mátyás[/N] + [Nom] + -[Hyph:Hyph] + hegyi[/Adj] + [Nom] + -[Hyph:Hyph] + barlang[/N] + [Nom]</detailed>

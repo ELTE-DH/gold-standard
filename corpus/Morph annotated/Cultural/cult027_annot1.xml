@@ -1991,7 +1991,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t124">
+					<token join="no" xml:id="t124">
 						<form modified="False">űrhajó</form>
 						<morph check="True">
 							<ana correct="True">
@@ -12224,7 +12224,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t760">
+						<token join="no" xml:id="t760">
 							<form modified="True">holdra</form>
 							<morph check="True">
 								<ana correct="True">
@@ -20120,7 +20120,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1265">
+						<token join="no" xml:id="t1265">
 							<form modified="True">holdra</form>
 							<morph check="True">
 								<ana correct="True">
@@ -28430,7 +28430,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1789">
+						<token join="no" xml:id="t1789">
 							<form modified="False">űrhajók</form>
 							<morph check="True">
 								<ana correct="False">
@@ -32587,7 +32587,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2060"><form modified="True">lehet-e</form><morph check="True">
+						<token join="no" xml:id="t2060"><form modified="True">lehet-e</form><morph check="True">
 								<ana correct="True">
 									<lemma>lesz</lemma>
 									<detailed>lesz[/V]=le + het[_Mod/V] + [Prs.NDef.3Sg] + -e[QPtcl]</detailed>
@@ -35791,7 +35791,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2270">
+						<token join="no" xml:id="t2270">
 							<form modified="False">önálló</form>
 							<morph check="True">
 								<ana correct="False">

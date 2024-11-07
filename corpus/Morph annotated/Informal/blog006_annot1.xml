@@ -32209,7 +32209,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="both" xml:id="t2134">
+						<token join="left" xml:id="t2134">
 							<form modified="False">részünkről</form>
 							<morph check="True">
 								<ana correct="False">
@@ -36767,7 +36767,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2438">
+						<token join="no" xml:id="t2438">
 							<form modified="False">pedig</form>
 							<morph check="True">
 								<ana correct="True">

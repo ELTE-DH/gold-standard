@@ -10981,7 +10981,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t730">
+					<token join="no" xml:id="t730">
 						<form modified="True">reggeltől</form>
 						<morph check="True">
 							<ana correct="True">
@@ -14627,7 +14627,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t957">
+					<token join="no" xml:id="t957">
 						<form modified="False">több</form>
 						<morph check="True">
 							<ana correct="True">
@@ -14817,7 +14817,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t970">
+					<token join="no" xml:id="t970">
 						<form modified="True">reggeltől</form>
 						<morph check="True">
 							<ana correct="True">
