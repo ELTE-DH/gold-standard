@@ -9954,7 +9954,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s46">
-						<token join="no" xml:id="t643">
+						<token join="right" xml:id="t643">
 							<form modified="False">Ez</form>
 							<morph check="True">
 								<ana correct="True">

@@ -16955,7 +16955,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s88">
-						<token join="no" xml:id="t1085">
+						<token join="right" xml:id="t1085">
 							<form modified="False">Hmmm</form>
 							<morph check="True">
 								<ana correct="True">

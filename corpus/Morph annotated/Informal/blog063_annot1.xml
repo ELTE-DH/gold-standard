@@ -7765,7 +7765,7 @@
 									<simple>[/N][Nom]</simple>
 								</ana></morph>
 						</token>
-						<token join="right" xml:id="t502_3">
+						<token join="both" xml:id="t502_3">
 							<form modified="True">,</form>
 							<morph check="True">
 								<ana correct="True">
