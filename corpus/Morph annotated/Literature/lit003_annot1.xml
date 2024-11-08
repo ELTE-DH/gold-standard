@@ -28971,7 +28971,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s141">
-					<token join="no" xml:id="t1967">
+					<token join="right" xml:id="t1967">
 						<form modified="False">Gazdálkodó</form>
 						<morph check="True">
 							<ana correct="False">
@@ -28986,7 +28986,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1968">
+					<token join="both" xml:id="t1968">
 						<form modified="False">-e</form>
 						<morph check="True">
 							<ana correct="True">
