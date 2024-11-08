@@ -21123,7 +21123,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1410">
+						<token join="right" xml:id="t1410">
 							<form modified="False">Erények</form>
 							<morph check="True">
 								<ana correct="False">
@@ -21138,7 +21138,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1411">
+						<token join="both" xml:id="t1411">
 							<form modified="False">?</form>
 							<morph check="True">
 								<ana correct="False">
@@ -21153,7 +21153,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1412">
+						<token join="both" xml:id="t1412">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
