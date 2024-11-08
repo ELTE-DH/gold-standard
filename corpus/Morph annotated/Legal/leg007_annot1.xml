@@ -38017,7 +38017,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t2499"><form modified="True">13/A.</form><morph check="True">
+							<token join="no" xml:id="t2499"><form modified="True">13/A.</form><morph check="True">
 									<ana correct="False">
 										<lemma>13/A</lemma>
 										<detailed>1[/Num|Digit] + 3[/Num|Digit] + [Nom] + /[Hyph:Slash] + A[/N|Unit|Abbr] + [Nom] + period[Punct]=.</detailed>
@@ -57459,7 +57459,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t3746"><form modified="True">13/B.</form><morph check="True">
+							<token join="no" xml:id="t3746"><form modified="True">13/B.</form><morph check="True">
 									<ana correct="False">
 										<lemma>13/B</lemma>
 										<detailed>1[/Num|Digit] + 3[/Num|Digit] + [Nom] + /[Hyph:Slash] + B[/N|Abbr|ChemSym] + [Nom] + period[Punct]=.</detailed>

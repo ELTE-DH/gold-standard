@@ -5106,7 +5106,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t335"><form modified="True">84/A.</form><morph check="True">
+							<token join="no" xml:id="t335"><form modified="True">84/A.</form><morph check="True">
 									<ana correct="False">
 										<lemma>84/A</lemma>
 										<detailed>8[/Num|Digit] + 4[/Num|Digit] + [Nom] + /[Hyph:Slash] + A[/N|Unit|Abbr] + [Nom] + period[Punct]=.</detailed>
@@ -20954,7 +20954,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t1399"><form modified="True">114/D.</form><morph check="True">
+							<token join="no" xml:id="t1399"><form modified="True">114/D.</form><morph check="True">
 									<ana correct="False">
 										<lemma>114/D</lemma>
 										<detailed>1[/Num|Digit] + 1[/Num|Digit] + 4[/Num|Digit] + [Nom] + /[Hyph:Slash] + D[/N|Abbr] + [Nom] + period[Punct]=.</detailed>
@@ -27080,7 +27080,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t1800"><form modified="True">85/A.</form><morph check="True">
+							<token join="no" xml:id="t1800"><form modified="True">85/A.</form><morph check="True">
 									<ana correct="False">
 										<lemma>85/A</lemma>
 										<detailed>8[/Num|Digit] + 5[/Num|Digit] + [Nom] + /[Hyph:Slash] + A[/N|Unit|Abbr] + [Nom] + period[Punct]=.</detailed>
@@ -32319,7 +32319,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t2164"><form modified="True">85/C.</form><morph check="True">
+							<token join="no" xml:id="t2164"><form modified="True">85/C.</form><morph check="True">
 									<ana correct="False">
 										<lemma>85/C</lemma>
 										<detailed>8[/Num|Digit] + 5[/Num|Digit] + [Nom] + /[Hyph:Slash] + C[/N|Abbr|ChemSym] + [Nom] + period[Punct]=.</detailed>
@@ -32660,7 +32660,7 @@
 									</ana>
 								</morph>
 							</token>
-							<token join="right" xml:id="t2185"><form modified="True">85/C.</form><morph check="True">
+							<token join="no" xml:id="t2185"><form modified="True">85/C.</form><morph check="True">
 									<ana correct="False">
 										<lemma>85/C</lemma>
 										<detailed>8[/Num|Digit] + 5[/Num|Digit] + [Nom] + /[Hyph:Slash] + C[/N|Abbr|ChemSym] + [Nom] + period[Punct]=.</detailed>
