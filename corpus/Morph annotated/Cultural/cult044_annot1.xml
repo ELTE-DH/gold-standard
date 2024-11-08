@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -104,7 +104,7 @@
 			<head type="title">    150 sor a tudományról – Megértés és / vagy csodálkozás?   </head>
 			<p xml:id="p1">
 				<s modified="False" xml:id="s1">
-					<token join="left" xml:id="t1">
+					<token join="no" xml:id="t1">
 						<form modified="False">"</form>
 						<morph check="True">
 							<ana correct="True">
@@ -11918,7 +11918,7 @@
 			</p>
 			<p xml:id="p14">
 				<s modified="False" xml:id="s46">
-					<token join="no" xml:id="t771">
+					<token join="right" xml:id="t771">
 						<form modified="False">Ahhoz</form>
 						<morph check="True">
 							<ana correct="False">

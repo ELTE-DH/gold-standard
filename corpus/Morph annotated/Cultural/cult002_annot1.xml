@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -5250,7 +5250,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t351"><form modified="True">Pál-völgyi-kőfejtőben</form><morph check="True">
+						<token join="no" xml:id="t351"><form modified="True">Pál-völgyi-kőfejtőben</form><morph check="True">
 								<ana correct="False">
 									<lemma>Pál-völgyi-kőfejtő</lemma>
 									<detailed>Pál[/N] + [Nom] + -[Hyph:Hyph] + völgyi[/Adj] + [Nom] + -[Hyph:Hyph] + kő[/N] + fej[/N] + tő[/N] + ben[Ine]</detailed>
@@ -11579,7 +11579,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t751"><form modified="True">Kecske-hegyi-kőfejtőt</form><morph check="True">
+						<token join="no" xml:id="t751"><form modified="True">Kecske-hegyi-kőfejtőt</form><morph check="True">
 								<ana correct="False">
 									<lemma>kecske-hegyi-kőfejtő</lemma>
 									<detailed>kecske[/N] + [Nom] + -[Hyph:Hyph] + hegy[/N] + i[_Adjz:i/Adj] + [Nom] + -[Hyph:Hyph] + kő[/N] + fejt[/V] + ő[_ImpfPtcp/Adj] + t[Acc]</detailed>
@@ -23999,7 +23999,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1530"><form modified="True">Mátyás-hegyi-barlang</form><morph check="True">
+						<token join="no" xml:id="t1530"><form modified="True">Mátyás-hegyi-barlang</form><morph check="True">
 								<ana correct="False">
 									<lemma>Mátyás-hegyi-barlang</lemma>
 									<detailed>Mátyás[/N] + [Nom] + -[Hyph:Hyph] + hegyi[/Adj] + [Nom] + -[Hyph:Hyph] + barlang[/N] + [Nom]</detailed>
@@ -24264,7 +24264,7 @@
 						</token>
 					</s>
 					<s modified="True" xml:id="s76">
-						<token join="no" xml:id="t1550">
+						<token join="right" xml:id="t1550">
 							<form modified="False">Szerencsére</form>
 							<morph check="True">
 								<ana correct="True">
@@ -26008,7 +26008,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s83">
-						<token join="no" xml:id="t1658">
+						<token join="right" xml:id="t1658">
 							<form modified="False">Azoknak</form>
 							<morph check="True">
 								<ana correct="False">
@@ -30568,7 +30568,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1966">
+						<token join="both" xml:id="t1966">
 							<form modified="False">korábban</form>
 							<morph check="True">
 								<ana correct="True">

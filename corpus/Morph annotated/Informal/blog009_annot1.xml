@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -405,7 +405,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t29"><form modified="True">végigkísérte</form><morph check="True">
+						<token join="no" xml:id="t29"><form modified="True">végigkísérte</form><morph check="True">
 								<ana correct="False">
 									<lemma>végigkísérte</lemma>
 									<detailed>végig[/Prev] + kísér[/V] + te[_Ger:tA/N]=t + e[Poss.3Sg] + [Nom]</detailed>

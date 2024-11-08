@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -21855,7 +21855,7 @@
 									<simple>[/Adj][_Manner/Adv]</simple>
 								</ana></morph>
 						</token>
-						<token join="right" xml:id="t1477">
+						<token join="no" xml:id="t1477">
 							<form modified="True">rendbe</form>
 							<morph check="True">
 								<ana correct="True">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -1064,7 +1064,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s7">
-						<token join="no" xml:id="t67">
+						<token join="right" xml:id="t67">
 							<form modified="False">Anélkül</form>
 							<morph check="True">
 								<ana correct="True">
@@ -6506,7 +6506,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s28">
-						<token join="no" xml:id="t427">
+						<token join="right" xml:id="t427">
 							<form modified="False">Kérem</form>
 							<morph check="True">
 								<ana correct="True">
@@ -9954,7 +9954,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s46">
-						<token join="no" xml:id="t643">
+						<token join="right" xml:id="t643">
 							<form modified="False">Ez</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12787,7 +12787,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s65">
-						<token join="no" xml:id="t829">
+						<token join="right" xml:id="t829">
 							<form modified="False">Ismétlem</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12961,7 +12961,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s67">
-						<token join="no" xml:id="t842">
+						<token join="right" xml:id="t842">
 							<form modified="False">Ön</form>
 							<morph check="True">
 								<ana correct="True">
@@ -17536,7 +17536,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s82">
-						<token join="no" xml:id="t1139">
+						<token join="right" xml:id="t1139">
 							<form modified="False">Ugyebár</form>
 							<morph check="True">
 								<ana correct="True">
@@ -23412,7 +23412,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s110">
-						<token join="no" xml:id="t1510">
+						<token join="right" xml:id="t1510">
 							<form modified="False">Öregem</form>
 							<morph check="True">
 								<ana correct="True">
@@ -23529,7 +23529,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s111">
-						<token join="no" xml:id="t1518">
+						<token join="right" xml:id="t1518">
 							<form modified="False">Tudod</form>
 							<morph check="True">
 								<ana correct="True">
@@ -23850,7 +23850,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s115">
-						<token join="no" xml:id="t1540">
+						<token join="right" xml:id="t1540">
 							<form modified="False">Kollégám</form>
 							<morph check="True">
 								<ana correct="True">
@@ -25536,7 +25536,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s123">
-						<token join="no" xml:id="t1647">
+						<token join="right" xml:id="t1647">
 							<form modified="False">Miért</form>
 							<morph check="True">
 								<ana correct="True">
@@ -26014,7 +26014,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s127">
-						<token join="no" xml:id="t1678">
+						<token join="right" xml:id="t1678">
 							<form modified="False">Nekem</form>
 							<morph check="True">
 								<ana correct="True">
@@ -36486,7 +36486,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s198">
-						<token join="no" xml:id="t2363">
+						<token join="right" xml:id="t2363">
 							<form modified="False">Elpanaszolta</form>
 							<morph check="True">
 								<ana correct="True">
@@ -37785,7 +37785,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s205">
-						<token join="no" xml:id="t2443">
+						<token join="right" xml:id="t2443">
 							<form modified="False">Magas</form>
 							<morph check="True">
 								<ana correct="True">

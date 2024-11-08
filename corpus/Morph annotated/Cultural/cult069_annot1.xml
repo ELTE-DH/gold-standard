@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -1489,7 +1489,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t92">
+					<token join="both" xml:id="t92">
 						<form modified="False">tudásunkat</form>
 						<morph check="True">
 							<ana correct="False">
@@ -3373,7 +3373,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t220">
+					<token join="both" xml:id="t220">
 						<form modified="False">végeredményre</form>
 						<morph check="True">
 							<ana correct="True">
@@ -4982,7 +4982,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t326">
+					<token join="both" xml:id="t326">
 						<form modified="False">prediktív</form>
 						<morph check="True">
 							<ana correct="True">
@@ -8810,7 +8810,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t574">
+						<token join="both" xml:id="t574">
 							<form modified="False">égetőnek</form>
 							<morph check="True">
 								<ana correct="False">
@@ -16397,7 +16397,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s53">
-						<token join="no" xml:id="t1055">
+						<token join="right" xml:id="t1055">
 							<form modified="False">Lehet</form>
 							<morph check="True">
 								<ana correct="False">
@@ -19962,7 +19962,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1277">
+						<token join="both" xml:id="t1277">
 							<form modified="False">bejóslási</form>
 							<morph check="True">
 								<ana correct="True">
@@ -27471,7 +27471,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s92">
-						<token join="no" xml:id="t1765">
+						<token join="right" xml:id="t1765">
 							<form modified="False">Ahhoz</form>
 							<morph check="True">
 								<ana correct="True">

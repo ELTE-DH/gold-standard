@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -3801,7 +3801,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s19">
-						<token join="no" xml:id="t247">
+						<token join="right" xml:id="t247">
 							<form modified="False">Szenvedtem</form>
 							<morph check="True">
 								<ana correct="True">
@@ -9502,7 +9502,7 @@
 				</p>
 				<p xml:id="p13">
 					<s modified="False" xml:id="s48">
-						<token join="no" xml:id="t602">
+						<token join="right" xml:id="t602">
 							<form modified="False">Igaz</form>
 							<morph check="True">
 								<ana correct="True">
@@ -14288,7 +14288,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s74">
-						<token join="no" xml:id="t908">
+						<token join="right" xml:id="t908">
 							<form modified="False">Sáros</form>
 							<morph check="True">
 								<ana correct="True">
@@ -16613,7 +16613,7 @@
 				<head type="title">     Negyedik nap    </head>
 				<p xml:id="p25">
 					<s modified="False" xml:id="s87">
-						<token join="no" xml:id="t1056">
+						<token join="right" xml:id="t1056">
 							<form modified="False">Választhattam</form>
 							<morph check="True">
 								<ana correct="True">
@@ -16955,7 +16955,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s88">
-						<token join="no" xml:id="t1085">
+						<token join="right" xml:id="t1085">
 							<form modified="False">Hmmm</form>
 							<morph check="True">
 								<ana correct="True">
@@ -19910,7 +19910,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s104">
-						<token join="no" xml:id="t1272">
+						<token join="right" xml:id="t1272">
 							<form modified="False">Izzadtam</form>
 							<morph check="True">
 								<ana correct="True">
@@ -22178,7 +22178,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s118">
-						<token join="no" xml:id="t1416">
+						<token join="right" xml:id="t1416">
 							<form modified="False">Kiderült</form>
 							<morph check="True">
 								<ana correct="True">

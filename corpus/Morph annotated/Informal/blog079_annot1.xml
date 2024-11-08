@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -6106,7 +6106,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s20">
-					<token join="no" xml:id="t409">
+					<token join="right" xml:id="t409">
 						<form modified="False">Tudom</form>
 						<morph check="True">
 							<ana correct="True">
@@ -23697,7 +23697,7 @@
 								<simple>[/Inj-Utt]</simple>
 							</ana></morph>
 					</token>
-					<token join="no" xml:id="t1613_2">
+					<token join="right" xml:id="t1613_2">
 						<form modified="True">mindegy</form>
 						<morph check="True">
 							<ana correct="True">
@@ -27744,7 +27744,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s87">
-					<token join="no" xml:id="t1900">
+					<token join="right" xml:id="t1900">
 						<form modified="False">Mivaaan</form>
 						<morph check="True">
 							<ana correct="False">
@@ -32955,7 +32955,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s112">
-					<token join="no" xml:id="t2249">
+					<token join="right" xml:id="t2249">
 						<form modified="False">CF</form>
 						<morph check="True">
 							<ana correct="False">
@@ -40828,7 +40828,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t2781">
+					<token join="both" xml:id="t2781">
 						<form modified="False">-e</form>
 						<morph check="True">
 							<ana correct="True">
@@ -41147,7 +41147,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t2807">
+					<token join="left" xml:id="t2807">
 						<form modified="False">.</form>
 						<morph check="True">
 							<ana correct="True">
@@ -56799,7 +56799,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t3846">
+					<token join="left" xml:id="t3846">
 						<form modified="False">smashbox</form>
 						<morph check="True">
 							<ana correct="False">
@@ -56814,7 +56814,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t3847">
+					<token join="right" xml:id="t3847">
 						<form modified="False">)</form>
 						<morph check="True">
 							<ana correct="True">

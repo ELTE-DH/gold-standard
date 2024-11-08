@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -104,7 +104,7 @@
 			<head type="title">    Déchy Mór 111 éves expedíciója   </head>
 			<p xml:id="p1">
 				<s modified="False" xml:id="s1">
-					<token join="no" xml:id="t1">
+					<token join="right" xml:id="t1">
 						<form modified="False">1907-ben</form>
 						<morph check="True">
 							<ana correct="True">
@@ -1996,7 +1996,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s7">
-					<token join="no" xml:id="t124">
+					<token join="right" xml:id="t124">
 						<form modified="False">Gyermekkorát</form>
 						<morph check="True">
 							<ana correct="True">
@@ -4716,7 +4716,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s17">
-					<token join="no" xml:id="t297">
+					<token join="right" xml:id="t297">
 						<form modified="False">Azért</form>
 						<morph check="True">
 							<ana correct="True">

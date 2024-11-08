@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -10181,7 +10181,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s26">
-						<token join="left" xml:id="t646">
+						<token join="no" xml:id="t646">
 							<form modified="False">Lehetséges</form>
 							<morph check="True">
 								<ana correct="True">
@@ -11198,7 +11198,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t715">
+						<token join="no" xml:id="t715">
 							<form modified="True">test</form>
 							<morph check="True">
 								<ana correct="True">
@@ -21599,7 +21599,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s79">
-						<token join="no" xml:id="t1405">
+						<token join="right" xml:id="t1405">
 							<form modified="False">Lehetséges</form>
 							<morph check="True">
 								<ana correct="True">
@@ -29198,7 +29198,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1901"><form modified="True">Szent-Kereszt-hegységben</form><morph check="True">
+						<token join="no" xml:id="t1901"><form modified="True">Szent-Kereszt-hegységben</form><morph check="True">
 								<ana correct="False">
 									<lemma>Szen-kereszt-hegység</lemma>
 									<detailed>Szen[/N] + t[Acc] + -[Hyph:Hyph] + kereszt[/N] + [Nom] + -[Hyph:Hyph] + hegység[/N] + ben[Ine]</detailed>
@@ -32703,7 +32703,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2140">
+						<token join="both" xml:id="t2140">
 							<form modified="False">)</form>
 							<morph check="True">
 								<ana correct="True">
@@ -33382,7 +33382,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2188">
+						<token join="left" xml:id="t2188">
 							<form modified="False">.</form>
 							<morph check="True">
 								<ana correct="True">

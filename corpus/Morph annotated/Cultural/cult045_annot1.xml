@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -8634,7 +8634,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s28">
-					<token join="no" xml:id="t532">
+					<token join="right" xml:id="t532">
 						<form modified="False">Igen</form>
 						<morph check="True">
 							<ana correct="True">
@@ -19275,7 +19275,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s66">
-					<token join="no" xml:id="t1205">
+					<token join="right" xml:id="t1205">
 						<form modified="False">Azáltal</form>
 						<morph check="True">
 							<ana correct="True">
@@ -19842,7 +19842,7 @@
 					</token>
 				</s>
 				<s modified="False" xml:id="s67">
-					<token join="no" xml:id="t1244">
+					<token join="right" xml:id="t1244">
 						<form modified="False">Magyarországon</form>
 						<morph check="True">
 							<ana correct="True">
@@ -20182,7 +20182,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t1266"><form modified="True">commune"-t</form><morph check="True">
+					<token join="no" xml:id="t1266"><form modified="True">commune"-t</form><morph check="True">
 							<ana correct="True" modified="True">
 								<lemma>commune</lemma>
 								<detailed>commune[/N] + "[Punct]="- + t[Acc]</detailed>

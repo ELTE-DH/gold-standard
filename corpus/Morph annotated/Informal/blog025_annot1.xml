@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -1881,7 +1881,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s9">
-						<token join="no" xml:id="t120">
+						<token join="right" xml:id="t120">
 							<form modified="False">Elrabol</form>
 							<morph check="True">
 								<ana correct="True">
@@ -1903,7 +1903,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s10">
-						<token join="no" xml:id="t122">
+						<token join="right" xml:id="t122">
 							<form modified="False">Megerőszakol</form>
 							<morph check="True">
 								<ana correct="True">
@@ -1930,7 +1930,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s11">
-						<token join="no" xml:id="t124">
+						<token join="right" xml:id="t124">
 							<form modified="False">Feldarabol</form>
 							<morph check="True">
 								<ana correct="True">
@@ -4408,7 +4408,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t283">
+						<token join="both" xml:id="t283">
 							<form modified="False">-e</form>
 							<morph check="True">
 								<ana correct="True">
@@ -4540,7 +4540,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s24">
-						<token join="no" xml:id="t292">
+						<token join="right" xml:id="t292">
 							<form modified="False">Kérdeztem</form>
 							<morph check="True">
 								<ana correct="True">
@@ -4707,7 +4707,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s25">
-						<token join="no" xml:id="t302">
+						<token join="right" xml:id="t302">
 							<form modified="False">Nem</form>
 							<morph check="True">
 								<ana correct="False">

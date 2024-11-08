@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -1319,7 +1319,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t83">
+						<token join="left" xml:id="t83">
 							<form modified="False">.</form>
 							<morph check="True">
 								<ana correct="True">
@@ -8513,7 +8513,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s29">
-						<token join="no" xml:id="t545">
+						<token join="right" xml:id="t545">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -14175,7 +14175,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t918">
+						<token join="left" xml:id="t918">
 							<form modified="False">.</form>
 							<morph check="True">
 								<ana correct="True">

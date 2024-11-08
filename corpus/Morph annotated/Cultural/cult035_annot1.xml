@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -105,7 +105,7 @@
 			<div type="lead" xml:id="d1">
 				<p xml:id="p1">
 					<s modified="False" xml:id="s1">
-						<token join="no" xml:id="t1">
+						<token join="right" xml:id="t1">
 							<form modified="False">Van</form>
 							<morph check="True">
 								<ana correct="True">
@@ -5661,7 +5661,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t353">
+						<token join="right" xml:id="t353">
 							<form modified="False">'</form>
 							<morph check="True">
 								<ana correct="True">
@@ -8731,7 +8731,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t553">
+						<token join="both" xml:id="t553">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">
@@ -9831,7 +9831,7 @@
 				</p>
 				<p xml:id="p5">
 					<s modified="False" xml:id="s36">
-						<token join="no" xml:id="t625">
+						<token join="right" xml:id="t625">
 							<form modified="False">Társa</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12420,7 +12420,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t793">
+						<token join="left" xml:id="t793">
 							<form modified="False">meghamísították</form>
 							<morph check="True">
 								<ana correct="False">
@@ -12435,7 +12435,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t794">
+						<token join="right" xml:id="t794">
 							<form modified="False">"</form>
 							<morph check="True">
 								<ana correct="True">

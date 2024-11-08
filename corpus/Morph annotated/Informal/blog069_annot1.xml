@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -1634,7 +1634,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t105">
+					<token join="both" xml:id="t105">
 						<form modified="False">)</form>
 						<morph check="True">
 							<ana correct="True">
@@ -1829,7 +1829,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="no" xml:id="t119">
+					<token join="left" xml:id="t119">
 						<form modified="False">)</form>
 						<morph check="True">
 							<ana correct="True">
@@ -6125,7 +6125,7 @@
 				</p>
 				<p xml:id="p9">
 					<s modified="False" xml:id="s25">
-						<token join="no" xml:id="t415">
+						<token join="right" xml:id="t415">
 							<form modified="False">(</form>
 							<morph check="True">
 								<ana correct="True">
@@ -19174,7 +19174,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s71">
-						<token join="left" xml:id="t1307">
+						<token join="no" xml:id="t1307">
 							<form modified="False">Nos</form>
 							<morph check="True">
 								<ana correct="True">
@@ -25351,7 +25351,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s94">
-						<token join="no" xml:id="t1723">
+						<token join="right" xml:id="t1723">
 							<form modified="False">Nem</form>
 							<morph check="True">
 								<ana correct="True">
@@ -25692,7 +25692,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1749">
+						<token join="left" xml:id="t1749">
 							<form modified="False">.</form>
 							<morph check="True">
 								<ana correct="True">
@@ -25882,7 +25882,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s100">
-						<token join="left" xml:id="t1765">
+						<token join="no" xml:id="t1765">
 							<form modified="False">Javasolnám</form>
 							<morph check="True">
 								<ana correct="True">

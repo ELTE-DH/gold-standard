@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xml:lang="hu">
 	<teiHeader>
 		<fileDesc>
@@ -25241,7 +25241,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s155">
-						<token join="no" xml:id="t1673">
+						<token join="right" xml:id="t1673">
 							<form modified="False">Anyaság</form>
 							<morph check="True">
 								<ana correct="True">
@@ -25741,7 +25741,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1705"><form modified="True">(1)</form><morph check="True">
+						<token join="no" xml:id="t1705"><form modified="True">(1)</form><morph check="True">
 								<ana correct="True">
 									<lemma>1</lemma>
 									<detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -27147,7 +27147,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1802"><form modified="True">(1)</form><morph check="True">
+						<token join="no" xml:id="t1802"><form modified="True">(1)</form><morph check="True">
 								<ana correct="True">
 									<lemma>1</lemma>
 									<detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -38157,7 +38157,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t2515"><form modified="True">(4)</form><morph check="True">
+						<token join="no" xml:id="t2515"><form modified="True">(4)</form><morph check="True">
 								<ana correct="True">
 									<lemma>4</lemma>
 									<detailed>lpar[Punct]=( + 4[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -39953,7 +39953,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s230">
-						<token join="no" xml:id="t2632">
+						<token join="right" xml:id="t2632">
 							<form modified="False">Minden</form>
 							<morph check="True">
 								<ana correct="True">
