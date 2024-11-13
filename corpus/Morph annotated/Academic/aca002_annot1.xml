@@ -93707,7 +93707,7 @@
 									<detailed/>
 									<simple>[Punct]</simple>
 								</ana></morph></token>
-						<token join="left" xml:id="t6146"><form modified="True">működnek-e</form><morph check="True">
+						<token join="no" xml:id="t6146"><form modified="True">működnek-e</form><morph check="True">
 								<ana correct="False">
 									<lemma>működ</lemma>
 									<detailed>mű[/CmpdPfx] + köd[/N] + nek[Dat] + -e[QPtcl]</detailed>

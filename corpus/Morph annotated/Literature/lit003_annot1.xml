@@ -16042,7 +16042,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="left" xml:id="t1086">
+					<token join="no" xml:id="t1086">
 						<form modified="False">Messze</form>
 						<morph check="True">
 							<ana correct="True">
@@ -33270,7 +33270,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="left" xml:id="t2254">
+					<token join="no" xml:id="t2254">
 						<form modified="False">Majd</form>
 						<morph check="True">
 							<ana correct="True">

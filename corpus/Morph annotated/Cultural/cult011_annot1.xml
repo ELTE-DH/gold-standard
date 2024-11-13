@@ -6587,7 +6587,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t432"><form modified="True">XVIII–XIX.</form><morph check="True">
+						<token join="no" xml:id="t432"><form modified="True">XVIII–XIX.</form><morph check="True">
 								<ana correct="True">
 									<lemma>XVIII–XIX</lemma>
 									<detailed>X[/Num|Roman] + VIII[/Num|Roman] + [Nom] + –[Hyph:Dash] + X[/Num|Roman] + IX[/Num|Roman] + .[_Ord/Adj]= + [Nom] + []=.</detailed>

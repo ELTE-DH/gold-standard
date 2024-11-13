@@ -9998,7 +9998,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="right" xml:id="t667">
+					<token join="no" xml:id="t667">
 						<form modified="True">Nr.</form>
 						<morph check="True">
 							<ana correct="False">
