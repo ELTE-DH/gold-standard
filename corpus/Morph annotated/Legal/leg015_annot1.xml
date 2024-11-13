@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xml:lang="hu">
  <teiHeader>
   <fileDesc>
@@ -330,7 +330,7 @@
            1[/Num|Digit] + .[/Num|Digit] + 1[/Num|Digit] + .[_Ord/Adj]= + [Nom] + []=.
           </detailed>
           <simple>
-           [/Num|Digit][_Ord/Adj][Nom][]
+           [/Num|Digit][_Ord/Adj][Nom]
           </simple>
          </ana>
          <ana correct="False">
@@ -2825,7 +2825,7 @@
            1[/Num|Digit] + .[/Num|Digit] + 2[/Num|Digit] + .[_Ord/Adj]= + [Nom] + []=.
           </detailed>
           <simple>
-           [/Num|Digit][_Ord/Adj][Nom][]
+           [/Num|Digit][_Ord/Adj][Nom]
           </simple>
          </ana>
          <ana correct="False">
@@ -3551,7 +3551,7 @@
            I[/Num|Roman] + .[_Ord/Adj]= + [Nom] + []=.
           </detailed>
           <simple>
-           [/Num|Roman][_Ord/Adj][Nom][]
+           [/Num|Roman][_Ord/Adj][Nom]
           </simple>
          </ana>
          <ana correct="False">
@@ -5936,9 +5936,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>ESG</lemma>
-          <detailed>ESG[/N|Acron]+nek[Dat]</detailed>
-          <simple>[/N|Acron][Dat]</simple>
+          <lemma>
+           ESG
+          </lemma>
+          <detailed>
+           ESG[/N|Acron]+nek[Dat]
+          </detailed>
+          <simple>
+           [/N|Acron][Dat]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -20548,9 +20554,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>ca</lemma>
-           <detailed>ca[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            ca
+           </lemma>
+           <detailed>
+            ca[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -21529,9 +21541,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>cc)</lemma>
-           <detailed>cc)[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            cc)
+           </lemma>
+           <detailed>
+            cc)[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -21905,9 +21923,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>cd)</lemma>
-           <detailed>cd)[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            cd)
+           </lemma>
+           <detailed>
+            cd)[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -22119,9 +22143,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>ce</lemma>
-           <detailed>ce[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            ce
+           </lemma>
+           <detailed>
+            ce[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -22771,9 +22801,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>cf</lemma>
-           <detailed>cf[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            cf
+           </lemma>
+           <detailed>
+            cf[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -23278,9 +23314,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>cg</lemma>
-           <detailed>cg[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            cg
+           </lemma>
+           <detailed>
+            cg[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -23462,9 +23504,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>ch</lemma>
-           <detailed>ch[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            ch
+           </lemma>
+           <detailed>
+            ch[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -23795,9 +23843,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>ci)</lemma>
-           <detailed>ci)[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            ci)
+           </lemma>
+           <detailed>
+            ci)[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -24145,9 +24199,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>cj</lemma>
-           <detailed>cj[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            cj
+           </lemma>
+           <detailed>
+            cj[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -24529,9 +24589,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>ck</lemma>
-           <detailed>ck[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            ck
+           </lemma>
+           <detailed>
+            ck[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -25588,12 +25654,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t856"><form modified="True">(3)</form><morph check="True">
+        <token join="no" xml:id="t856">
+         <form modified="True">
+          (3)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>3</lemma>
-           <detailed>lpar[Punct]=( + 3[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            3
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 3[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t858">
          <form modified="False">
           bekezdés
@@ -25696,9 +25774,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>cm)</lemma>
-           <detailed>cm)[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            cm)
+           </lemma>
+           <detailed>
+            cm)[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -26424,12 +26508,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t885"><form modified="True">(4)</form><morph check="True">
+        <token join="no" xml:id="t885">
+         <form modified="True">
+          (4)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>4</lemma>
-           <detailed>lpar[Punct]=( + 4[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            4
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 4[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t887">
          <form modified="False">
           bekezdésében
@@ -27933,12 +28029,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t934"><form modified="True">(1)</form><morph check="True">
+        <token join="no" xml:id="t934">
+         <form modified="True">
+          (1)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>1</lemma>
-           <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            1
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t936">
          <form modified="False">
           bekezdés
@@ -29946,9 +30054,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>cm)</lemma>
-           <detailed>cm)[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            cm)
+           </lemma>
+           <detailed>
+            cm)[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -34163,9 +34277,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>CXXV</lemma>
-           <detailed>CXXV[/Num|Roman] + .[_Ord/Adj]= + [Nom] + []=.</detailed>
-           <simple>[/Num|Roman][_Ord/Adj][Nom][]</simple>
+           <lemma>
+            CXXV
+           </lemma>
+           <detailed>
+            CXXV[/Num|Roman] + .[_Ord/Adj]= + [Nom] + []=.
+           </detailed>
+           <simple>
+            [/Num|Roman][_Ord/Adj][Nom]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -34303,9 +34423,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>Nbtv.</lemma>
-           <detailed>Nbtv.[/N|Acron]+[Nom]</detailed>
-           <simple>[/N|Acron][Nom]</simple>
+           <lemma>
+            Nbtv.
+           </lemma>
+           <detailed>
+            Nbtv.[/N|Acron]+[Nom]
+           </detailed>
+           <simple>
+            [/N|Acron][Nom]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -35654,9 +35780,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>CXII</lemma>
-           <detailed>CXII[/Num|Roman] + .[_Ord/Adj]= + [Nom] + []=.</detailed>
-           <simple>[/Num|Roman][_Ord/Adj][Nom][]</simple>
+           <lemma>
+            CXII
+           </lemma>
+           <detailed>
+            CXII[/Num|Roman] + .[_Ord/Adj]= + [Nom] + []=.
+           </detailed>
+           <simple>
+            [/Num|Roman][_Ord/Adj][Nom]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -35794,9 +35926,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>Avtv2.</lemma>
-           <detailed>Avtv2.[/N|Acron]+[Nom]</detailed>
-           <simple>[/N|Acron][Nom]</simple>
+           <lemma>
+            Avtv2.
+           </lemma>
+           <detailed>
+            Avtv2.[/N|Acron]+[Nom]
+           </detailed>
+           <simple>
+            [/N|Acron][Nom]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -36314,9 +36452,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>Avtv2.</lemma>
-           <detailed>Avtv2.[/N|Acron]+[Nom]</detailed>
-           <simple>[/N|Acron][Nom]</simple>
+           <lemma>
+            Avtv2.
+           </lemma>
+           <detailed>
+            Avtv2.[/N|Acron]+[Nom]
+           </detailed>
+           <simple>
+            [/N|Acron][Nom]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -36389,12 +36533,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1205"><form modified="True">(2)</form><morph check="True">
+        <token join="no" xml:id="t1205">
+         <form modified="True">
+          (2)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>2</lemma>
-           <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            2
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t1207">
          <form modified="False">
           bekezdése
@@ -36926,9 +37082,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>cm</lemma>
-           <detailed>cm[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            cm
+           </lemma>
+           <detailed>
+            cm[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -37264,12 +37426,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1234"><form modified="True">(5)-(8)</form><morph check="True">
+        <token join="no" xml:id="t1234">
+         <form modified="True">
+          (5)-(8)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>(5)-(8)</lemma>
-           <detailed>lpar[Punct]=( + 5[/Num|Digit] + [Nom] + rpar[Punct]=) + -[Hyph:Hyph] + lpar[Punct]=( + 8[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            (5)-(8)
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 5[/Num|Digit] + [Nom] + rpar[Punct]=) + -[Hyph:Hyph] + lpar[Punct]=( + 8[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t1236">
          <form modified="False">
           bekezdést
@@ -37822,9 +37996,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>aa</lemma>
-           <detailed>aa[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            aa
+           </lemma>
+           <detailed>
+            aa[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -40452,9 +40632,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>ac</lemma>
-           <detailed>ac[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            ac
+           </lemma>
+           <detailed>
+            ac[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -41227,9 +41413,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>af</lemma>
-           <detailed>af[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            af
+           </lemma>
+           <detailed>
+            af[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -41339,9 +41531,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>48/D</lemma>
-           <detailed>48[/Num|Digit] +/[Hyph:Slash] +D[/N|Ltr]+[Nom]</detailed>
-           <simple>[/N][Nom]</simple>
+           <lemma>
+            48/D
+           </lemma>
+           <detailed>
+            48[/Num|Digit] +/[Hyph:Slash] +D[/N|Ltr]+[Nom]
+           </detailed>
+           <simple>
+            [/N][Nom]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -41392,12 +41590,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1378"><form modified="True">(2)</form><morph check="True">
+        <token join="no" xml:id="t1378">
+         <form modified="True">
+          (2)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>2</lemma>
-           <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            2
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t1380">
          <form modified="False">
           bekezdése
@@ -41794,9 +42004,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>ba</lemma>
-           <detailed>ba[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            ba
+           </lemma>
+           <detailed>
+            ba[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -43738,9 +43954,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bb</lemma>
-           <detailed>bb[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bb
+           </lemma>
+           <detailed>
+            bb[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -45380,9 +45602,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bc</lemma>
-           <detailed>bc[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bc
+           </lemma>
+           <detailed>
+            bc[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -45539,9 +45767,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>résztanulmány</lemma>
-           <detailed>résztanulmány[/N] + ok[Pl] + [Nom]</detailed>
-           <simple>[/N][Pl][Nom]</simple>
+           <lemma>
+            résztanulmány
+           </lemma>
+           <detailed>
+            résztanulmány[/N] + ok[Pl] + [Nom]
+           </detailed>
+           <simple>
+            [/N][Pl][Nom]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -45643,9 +45877,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bd</lemma>
-           <detailed>bd[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bd
+           </lemma>
+           <detailed>
+            bd[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -45979,9 +46219,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>be</lemma>
-           <detailed>be[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            be
+           </lemma>
+           <detailed>
+            be[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -46737,9 +46983,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bf</lemma>
-           <detailed>bf[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bf
+           </lemma>
+           <detailed>
+            bf[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -46943,9 +47195,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bg</lemma>
-           <detailed>bg[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bg
+           </lemma>
+           <detailed>
+            bg[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -47309,9 +47567,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bh</lemma>
-           <detailed>bh[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bh
+           </lemma>
+           <detailed>
+            bh[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -47715,9 +47979,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bi</lemma>
-           <detailed>bi[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bi
+           </lemma>
+           <detailed>
+            bi[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -47961,9 +48231,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bj</lemma>
-           <detailed>bj[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bj
+           </lemma>
+           <detailed>
+            bj[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -48299,9 +48575,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bk</lemma>
-           <detailed>bk[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bk
+           </lemma>
+           <detailed>
+            bk[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -48796,9 +49078,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>bl</lemma>
-           <detailed>bl[/X]</detailed>
-           <simple>[/X]</simple>
+           <lemma>
+            bl
+           </lemma>
+           <detailed>
+            bl[/X]
+           </detailed>
+           <simple>
+            [/X]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -53563,12 +53851,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1788"><form modified="True">(1)</form><morph check="True">
+        <token join="no" xml:id="t1788">
+         <form modified="True">
+          (1)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>1</lemma>
-           <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            1
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t1790">
          <form modified="False">
           és
@@ -53587,12 +53887,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1791"><form modified="True">(2)</form><morph check="True">
+        <token join="no" xml:id="t1791">
+         <form modified="True">
+          (2)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>2</lemma>
-           <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            2
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t1793">
          <form modified="False">
           bekezdésében
@@ -56050,12 +56362,24 @@
           </ana>
          </morph>
         </token>
-        <token join="no" xml:id="t1873"><form modified="True">(1)</form><morph check="True">
+        <token join="no" xml:id="t1873">
+         <form modified="True">
+          (1)
+         </form>
+         <morph check="True">
           <ana correct="True">
-           <lemma>1</lemma>
-           <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-           <simple>[/Num|Digit][Nom][Punct]</simple>
-          </ana></morph></token>
+           <lemma>
+            1
+           </lemma>
+           <detailed>
+            lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)
+           </detailed>
+           <simple>
+            [/Num|Digit][Nom][Punct]
+           </simple>
+          </ana>
+         </morph>
+        </token>
         <token join="no" xml:id="t1875">
          <form modified="False">
           bekezdés
@@ -59558,9 +59882,15 @@
            </simple>
           </ana>
           <ana correct="True" modified="True">
-           <lemma>Nbtv.</lemma>
-           <detailed>Nbtv.[/N|Acron]</detailed>
-           <simple>[/N|Acron][Ine]</simple>
+           <lemma>
+            Nbtv.
+           </lemma>
+           <detailed>
+            Nbtv.[/N|Acron]
+           </detailed>
+           <simple>
+            [/N|Acron][Ine]
+           </simple>
           </ana>
          </morph>
         </token>
@@ -64029,9 +64359,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>LXXXIII</lemma>
-          <detailed>LXXXIII[/Num|Roman]+.[_Ord/Adj]=+[Nom]+[]=.</detailed>
-          <simple>[/Num|Roman][_Ord/Adj][Nom][]</simple>
+          <lemma>
+           LXXXIII
+          </lemma>
+          <detailed>
+           LXXXIII[/Num|Roman]+.[_Ord/Adj]=+[Nom]+[]=.
+          </detailed>
+          <simple>
+           [/Num|Roman][_Ord/Adj][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -64169,9 +64505,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Nektv.</lemma>
-          <detailed>Nektv.[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Nektv.
+          </lemma>
+          <detailed>
+           Nektv.[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -64455,9 +64797,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Nektv</lemma>
-          <detailed>Nektv.[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Nektv
+          </lemma>
+          <detailed>
+           Nektv.[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -65108,9 +65456,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>NEK</lemma>
-          <detailed>NEK[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           NEK
+          </lemma>
+          <detailed>
+           NEK[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -65294,9 +65648,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>NEK</lemma>
-          <detailed>NEK[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           NEK
+          </lemma>
+          <detailed>
+           NEK[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -65689,9 +66049,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Nektv</lemma>
-          <detailed>Nektv[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Nektv
+          </lemma>
+          <detailed>
+           Nektv[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -65782,12 +66148,24 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t2177"><form modified="True">(2)</form><morph check="True">
+       <token join="no" xml:id="t2177">
+        <form modified="True">
+         (2)
+        </form>
+        <morph check="True">
          <ana correct="True">
-          <lemma>2</lemma>
-          <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-          <simple>[/Num|Digit][Nom][Punct]</simple>
-         </ana></morph></token>
+          <lemma>
+           2
+          </lemma>
+          <detailed>
+           lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)
+          </detailed>
+          <simple>
+           [/Num|Digit][Nom][Punct]
+          </simple>
+         </ana>
+        </morph>
+       </token>
        <token join="no" xml:id="t2179">
         <form modified="False">
          bekezdés
@@ -65818,13 +66196,20 @@
         </morph>
        </token>
        <token join="no" xml:id="t2180">
-        <form modified="True">        a)-b)
+        <form modified="True">
+         a)-b)
         </form>
         <morph check="True">
          <ana correct="True">
-          <lemma>a)-b)</lemma>
-          <detailed>a[/N|Ltr][Nom] + rpar[Punct]) + -[Hyph:Hyph] + b[/N|Ltr][Nom] + rpar[Punct])</detailed>
-          <simple>[/N|Ltr][Nom]</simple>
+          <lemma>
+           a)-b)
+          </lemma>
+          <detailed>
+           a[/N|Ltr][Nom] + rpar[Punct]) + -[Hyph:Hyph] + b[/N|Ltr][Nom] + rpar[Punct])
+          </detailed>
+          <simple>
+           [/N|Ltr][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -66133,9 +66518,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Nektv</lemma>
-          <detailed>Nektv[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron]+[Nom]</simple>
+          <lemma>
+           Nektv
+          </lemma>
+          <detailed>
+           Nektv[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron]+[Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -68334,9 +68725,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>megküld</lemma>
-          <detailed>meg[/Prev]+küld[/V]+i[Prs.Def.3Sg]</detailed>
-          <simple>[/V][Prs.Def.3Sg]</simple>
+          <lemma>
+           megküld
+          </lemma>
+          <detailed>
+           meg[/Prev]+küld[/V]+i[Prs.Def.3Sg]
+          </detailed>
+          <simple>
+           [/V][Prs.Def.3Sg]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -68822,9 +69219,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Nektv</lemma>
-          <detailed>Nektv.[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Nektv
+          </lemma>
+          <detailed>
+           Nektv.[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -68915,23 +69318,53 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t2277"><form modified="True">(1)</form><morph check="True">
+       <token join="no" xml:id="t2277">
+        <form modified="True">
+         (1)
+        </form>
+        <morph check="True">
          <ana correct="True">
-          <lemma>1</lemma>
-          <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-          <simple>[/Num|Digit][Nom][Punct]</simple>
-         </ana></morph></token>
-       <token join="no" xml:id="t2278_2"><form modified="True">bekezdése</form><morph check="True">
+          <lemma>
+           1
+          </lemma>
+          <detailed>
+           lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)
+          </detailed>
+          <simple>
+           [/Num|Digit][Nom][Punct]
+          </simple>
+         </ana>
+        </morph>
+       </token>
+       <token join="no" xml:id="t2278_2">
+        <form modified="True">
+         bekezdése
+        </form>
+        <morph check="True">
          <ana correct="False">
-          <lemma>bekezdés</lemma>
-          <detailed>be[/Prev] + kezd[/V] + és[_Ger/N] + e[Poss.3Sg] + [Nom]</detailed>
-          <simple>[/N][Poss.3Sg][Nom]</simple>
+          <lemma>
+           bekezdés
+          </lemma>
+          <detailed>
+           be[/Prev] + kezd[/V] + és[_Ger/N] + e[Poss.3Sg] + [Nom]
+          </detailed>
+          <simple>
+           [/N][Poss.3Sg][Nom]
+          </simple>
          </ana>
          <ana correct="True">
-          <lemma>bekezdés</lemma>
-          <detailed>bekezdés[/N] + e[Poss.3Sg] + [Nom]</detailed>
-          <simple>[/N][Poss.3Sg][Nom]</simple>
-         </ana></morph></token>
+          <lemma>
+           bekezdés
+          </lemma>
+          <detailed>
+           bekezdés[/N] + e[Poss.3Sg] + [Nom]
+          </detailed>
+          <simple>
+           [/N][Poss.3Sg][Nom]
+          </simple>
+         </ana>
+        </morph>
+       </token>
        <token join="no" xml:id="t2280">
         <form modified="False">
          és
@@ -68950,12 +69383,24 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t2281"><form modified="True">(2)</form><morph check="True">
+       <token join="no" xml:id="t2281">
+        <form modified="True">
+         (2)
+        </form>
+        <morph check="True">
          <ana correct="True">
-          <lemma>2</lemma>
-          <detailed>lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-          <simple>[/Num|Digit][Nom][Punct]</simple>
-         </ana></morph></token>
+          <lemma>
+           2
+          </lemma>
+          <detailed>
+           lpar[Punct]=( + 2[/Num|Digit] + [Nom] + rpar[Punct]=)
+          </detailed>
+          <simple>
+           [/Num|Digit][Nom][Punct]
+          </simple>
+         </ana>
+        </morph>
+       </token>
        <token join="no" xml:id="t2283">
         <form modified="False">
          bekezdés
@@ -69080,9 +69525,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>aa</lemma>
-          <detailed>aa[/X]</detailed>
-          <simple>[/X]</simple>
+          <lemma>
+           aa
+          </lemma>
+          <detailed>
+           aa[/X]
+          </detailed>
+          <simple>
+           [/X]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -73073,9 +73524,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Nektv</lemma>
-          <detailed>Nektv[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Nektv
+          </lemma>
+          <detailed>
+           Nektv[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -75205,9 +75662,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>I/A</lemma>
-          <detailed>I[/Num|Roman] + [Nom] + /[Hyph:Slash] + A[/N|Ltr] + [Nom]</detailed>
-          <simple>[/N][Nom]</simple>
+          <lemma>
+           I/A
+          </lemma>
+          <detailed>
+           I[/Num|Roman] + [Nom] + /[Hyph:Slash] + A[/N|Ltr] + [Nom]
+          </detailed>
+          <simple>
+           [/N][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -75326,9 +75789,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>I/B</lemma>
-          <detailed>I[/Num|Roman] + [Nom] + /[Hyph:Slash] + B [/N|Ltr] + [Nom]</detailed>
-          <simple>[/N][Nom]</simple>
+          <lemma>
+           I/B
+          </lemma>
+          <detailed>
+           I[/Num|Roman] + [Nom] + /[Hyph:Slash] + B [/N|Ltr] + [Nom]
+          </detailed>
+          <simple>
+           [/N][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -79246,9 +79715,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Avtv2.</lemma>
-          <detailed>Avtv2.[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Avtv2.
+          </lemma>
+          <detailed>
+           Avtv2.[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -79743,9 +80218,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Avtv2.</lemma>
-          <detailed>Avtv2.[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Avtv2.
+          </lemma>
+          <detailed>
+           Avtv2.[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -79818,12 +80299,24 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t2619"><form modified="True">(3)</form><morph check="True">
+       <token join="no" xml:id="t2619">
+        <form modified="True">
+         (3)
+        </form>
+        <morph check="True">
          <ana correct="True" modified="True">
-          <lemma>3</lemma>
-          <detailed>lpar[Punct]=(+3[/Num|Digit]+[Nom]+rpar[Punct]=)</detailed>
-          <simple>[/Num|Digit][Nom][Punct]</simple>
-         </ana></morph></token>
+          <lemma>
+           3
+          </lemma>
+          <detailed>
+           lpar[Punct]=(+3[/Num|Digit]+[Nom]+rpar[Punct]=)
+          </detailed>
+          <simple>
+           [/Num|Digit][Nom][Punct]
+          </simple>
+         </ana>
+        </morph>
+       </token>
        <token join="no" xml:id="t2621">
         <form modified="False">
          bekezdése
@@ -88585,7 +89078,7 @@
            II[/Num|Roman] + .[_Ord/Adj]= + [Nom] + []=.
           </detailed>
           <simple>
-           [/Num|Roman][_Ord/Adj][Nom][]
+           [/Num|Roman][_Ord/Adj][Nom]
           </simple>
          </ana>
          <ana correct="False">
@@ -89950,12 +90443,24 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t2931"><form modified="True">(1)</form><morph check="True">
+       <token join="no" xml:id="t2931">
+        <form modified="True">
+         (1)
+        </form>
+        <morph check="True">
          <ana correct="True">
-          <lemma>1</lemma>
-          <detailed>lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-          <simple>[/Num|Digit][Nom][Punct]</simple>
-         </ana></morph></token>
+          <lemma>
+           1
+          </lemma>
+          <detailed>
+           lpar[Punct]=( + 1[/Num|Digit] + [Nom] + rpar[Punct]=)
+          </detailed>
+          <simple>
+           [/Num|Digit][Nom][Punct]
+          </simple>
+         </ana>
+        </morph>
+       </token>
        <token join="no" xml:id="t2933">
         <form modified="False">
          bekezdés
@@ -91931,9 +92436,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Nbtv.</lemma>
-          <detailed>Nbtv.[/N|Acron]+ben[Ine]</detailed>
-          <simple>[Ine]</simple>
+          <lemma>
+           Nbtv.
+          </lemma>
+          <detailed>
+           Nbtv.[/N|Acron]+ben[Ine]
+          </detailed>
+          <simple>
+           [Ine]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -92226,9 +92737,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Avtv2.</lemma>
-          <detailed>Avtv2.[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Avtv2.
+          </lemma>
+          <detailed>
+           Avtv2.[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -92723,9 +93240,15 @@
           </simple>
          </ana>
          <ana correct="True" modified="True">
-          <lemma>Avtv2.</lemma>
-          <detailed>Avtv2.[/N|Acron]+[Nom]</detailed>
-          <simple>[/N|Acron][Nom]</simple>
+          <lemma>
+           Avtv2.
+          </lemma>
+          <detailed>
+           Avtv2.[/N|Acron]+[Nom]
+          </detailed>
+          <simple>
+           [/N|Acron][Nom]
+          </simple>
          </ana>
         </morph>
        </token>
@@ -92798,12 +93321,24 @@
          </ana>
         </morph>
        </token>
-       <token join="no" xml:id="t3020"><form modified="True">(3)</form><morph check="True">
+       <token join="no" xml:id="t3020">
+        <form modified="True">
+         (3)
+        </form>
+        <morph check="True">
          <ana correct="True">
-          <lemma>3</lemma>
-          <detailed>lpar[Punct]=( + 3[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
-          <simple>[/Num|Digit][Nom][Punct]</simple>
-         </ana></morph></token>
+          <lemma>
+           3
+          </lemma>
+          <detailed>
+           lpar[Punct]=( + 3[/Num|Digit] + [Nom] + rpar[Punct]=)
+          </detailed>
+          <simple>
+           [/Num|Digit][Nom][Punct]
+          </simple>
+         </ana>
+        </morph>
+       </token>
        <token join="no" xml:id="t3022">
         <form modified="False">
          bekezdése
