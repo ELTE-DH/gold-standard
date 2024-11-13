@@ -5167,13 +5167,13 @@
 										<simple>[None]</simple>
 									</ana></morph>
 							</token>
-							<token join="right" xml:id="t326_2">
+							<token join="both" xml:id="t326_2">
 								<form modified="True">-</form>
 								<morph check="True">
 									<ana correct="True">
 										<lemma>-</lemma>
-										<detailed>-[Hyph:Hyph]</detailed>
-										<simple>[Hyph:Hyph]</simple>
+										<detailed>-[Hyph:Dash]</detailed>
+										<simple>[Hyph:Dash]</simple>
 									</ana>
 									<ana correct="False">
 										<lemma>-</lemma>
@@ -5181,7 +5181,7 @@
 										<simple>[Punct]</simple>
 									</ana></morph>
 							</token>
-							<token join="no" xml:id="t327"><form modified="True">(6)</form><morph check="True">
+							<token join="left" xml:id="t327"><form modified="True">(6)</form><morph check="True">
 									<ana correct="False">
 										<lemma>6</lemma>
 										<detailed>lpar[Punct]=( + 6[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
