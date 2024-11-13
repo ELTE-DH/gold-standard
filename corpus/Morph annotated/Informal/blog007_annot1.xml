@@ -12790,7 +12790,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t890">
+						<token join="left" xml:id="t890">
 							<form modified="False">-</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12825,7 +12825,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t892">
+						<token join="left" xml:id="t892">
 							<form modified="False">-</form>
 							<morph check="True">
 								<ana correct="True">
@@ -12840,7 +12840,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="left" xml:id="t893">
+						<token join="no" xml:id="t893">
 							<form modified="False">senki</form>
 							<morph check="True">
 								<ana correct="True">

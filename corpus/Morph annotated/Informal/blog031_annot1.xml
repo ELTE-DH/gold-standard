@@ -3163,7 +3163,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t202"><form modified="True">27.60</form><morph check="True">
+						<token join="no" xml:id="t202"><form modified="True">27.60</form><morph check="True">
 								<ana correct="False">
 									<lemma>27.60</lemma>
 									<detailed>2[/Num|Digit] + 7[/Num|Digit] + .[/Num|Digit] + 60[/Num|Digit] + [Nom]</detailed>
