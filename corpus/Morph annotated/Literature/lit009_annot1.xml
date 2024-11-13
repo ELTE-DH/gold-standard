@@ -14551,7 +14551,7 @@
 						</token>
 					</s>
 					<s modified="False" xml:id="s160">
-						<token join="no" xml:id="t953">
+						<token join="right" xml:id="t953">
 							<form modified="False">Különben</form>
 							<morph check="True">
 								<ana correct="True">
