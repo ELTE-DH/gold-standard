@@ -8665,7 +8665,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t565">
+						<token join="both" xml:id="t565">
 							<form modified="False">–</form>
 							<morph check="True">
 								<ana correct="False">

@@ -14927,7 +14927,7 @@
 									<detailed>2004[/Num|Digit]+[Nom]</detailed>
 									<simple>[/Num|Digit][Nom]</simple>
 								</ana></morph></token>
-						<token join="both" xml:id="t1006_2"><form modified="True">)</form><morph check="True">
+						<token join="left" xml:id="t1006_2"><form modified="True">)</form><morph check="True">
 								<ana correct="True">
 									<lemma>)</lemma>
 									<detailed/>

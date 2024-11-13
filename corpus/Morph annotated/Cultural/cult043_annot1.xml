@@ -6466,7 +6466,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t442">
+						<token join="both" xml:id="t442">
 							<form modified="False">–</form>
 							<morph check="True">
 								<ana correct="True">
@@ -11664,7 +11664,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t780">
+						<token join="both" xml:id="t780">
 							<form modified="False">–</form>
 							<morph check="True">
 								<ana correct="True">
@@ -16994,7 +16994,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1123">
+						<token join="both" xml:id="t1123">
 							<form modified="False">–</form>
 							<morph check="True">
 								<ana correct="True">
@@ -30787,7 +30787,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="left" xml:id="t2064">
+						<token join="right" xml:id="t2064">
 							<form modified="False">Sapiens</form>
 							<morph check="True">
 								<ana correct="False">
@@ -31594,7 +31594,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t2117">
+						<token join="both" xml:id="t2117">
 							<form modified="False">–</form>
 							<morph check="True">
 								<ana correct="True">

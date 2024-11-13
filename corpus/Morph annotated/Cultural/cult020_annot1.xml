@@ -24663,7 +24663,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t1587">
+						<token join="no" xml:id="t1587">
 							<form modified="False">Ca</form>
 							<morph check="True">
 								<ana correct="True">
@@ -24676,12 +24676,12 @@
 						<token join="no" xml:id="t1588">
 							<form modified="False">-</form>
 							<morph check="True">
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>-</lemma>
 									<detailed/>
 									<simple>[Punct]</simple>
 								</ana>
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>-</lemma>
 									<detailed>-[Hyph:Hyph]</detailed>
 									<simple>[Hyph:Hyph]</simple>
@@ -24703,18 +24703,18 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="no" xml:id="t1590">
+						<token join="both" xml:id="t1590">
 							<form modified="False">-</form>
 							<morph check="True">
-								<ana correct="True">
+								<ana correct="False">
 									<lemma>-</lemma>
 									<detailed/>
 									<simple>[Punct]</simple>
 								</ana>
-								<ana correct="False">
+								<ana correct="True">
 									<lemma>-</lemma>
-									<detailed>-[Hyph:Hyph]</detailed>
-									<simple>[Hyph:Hyph]</simple>
+									<detailed>-[Hyph:Dash]</detailed>
+									<simple>[Hyph:Dash]</simple>
 								</ana>
 							</morph>
 						</token>

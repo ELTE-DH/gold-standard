@@ -12915,7 +12915,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="left" xml:id="t854">
+						<token join="no" xml:id="t854">
 							<form modified="False">így</form>
 							<morph check="True">
 								<ana correct="True">
