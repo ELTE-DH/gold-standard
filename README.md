@@ -56,3 +56,10 @@ If you use this corpus, please cite:
 K. Molnár Emese, Dömötör Andrea: Gondolatok a gondola-tokról. Morfológiai annotációt javító módszerek tesztelése gold standard korpuszon. In: Berend G., Gosztolya G., Vincze V. (szerk.): XIX. Magyar Számítógépes Nyelvészeti Konferencia, Szeged, 2023. 341--356.
 ```
 
+## Acknowledgements
+
+The authors acknowledge the support of the National Laboratory for Digital
+Heritage. Project no. 2022-2.1.1-NL-2022-00009 has been implemented with the
+support provided by the Ministry of Culture and Innovation of Hungary from the
+National Research, Development and Innovation Fund, financed under the
+2022-2.1.1-NL funding scheme.
