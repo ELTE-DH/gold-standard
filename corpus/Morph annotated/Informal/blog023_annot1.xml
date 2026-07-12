@@ -2779,6 +2779,15 @@
 							</ana>
 						</morph>
 					</token>
+					<token join="left" xml:id="t178">
+						<form modified="True">,</form>
+						<morph check="True">
+							<ana correct="True">
+								<lemma>,</lemma>
+								<detailed/>
+								<simple>[Punct]</simple>
+							</ana></morph>
+					</token>
 					<token join="no" xml:id="t179">
 						<form modified="False">–</form>
 						<morph check="True">
@@ -3237,6 +3246,15 @@
 								<simple>[/V][Inf]</simple>
 							</ana>
 						</morph>
+					</token>
+					<token join="left" xml:id="t207">
+						<form modified="True">,</form>
+						<morph check="True">
+							<ana correct="True">
+								<lemma>,</lemma>
+								<detailed/>
+								<simple>[Punct]</simple>
+							</ana></morph>
 					</token>
 					<token join="no" xml:id="t208">
 						<form modified="False">–</form>
@@ -13487,7 +13505,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="left" xml:id="t884">
+					<token join="no" xml:id="t884">
 						<form modified="False">teknősöket</form>
 						<morph check="True">
 							<ana correct="False">
@@ -14969,7 +14987,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="left" xml:id="t982">
+					<token join="no" xml:id="t982">
 						<form modified="False">nem</form>
 						<morph check="True">
 							<ana correct="True">

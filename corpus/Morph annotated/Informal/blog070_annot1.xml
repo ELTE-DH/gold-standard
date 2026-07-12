@@ -11125,7 +11125,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t725"><form modified="True">stb.</form><morph check="True">
+						<token join="no" xml:id="t725"><form modified="True">stb.</form><morph check="True">
 								<ana correct="False">
 									<lemma>stb.</lemma>
 									<detailed>stb.[/N|Abbr]=stb + [Nom] + []=.</detailed>

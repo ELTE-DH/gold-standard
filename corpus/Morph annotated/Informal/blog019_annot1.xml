@@ -11023,7 +11023,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t752"><form modified="True">humuhumunukunukuapua'a-t.</form><morph check="True">
+						<token join="no" xml:id="t752"><form modified="True">humuhumunukunukuapua'a-t.</form><morph check="True">
 								<ana correct="True" modified="True">
 									<lemma>humuhumunukunukapua'a</lemma>
 									<detailed>humuhumunukunukapua'a[/X] +- t[Acc]</detailed>

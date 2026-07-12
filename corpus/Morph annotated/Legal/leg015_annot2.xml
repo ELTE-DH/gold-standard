@@ -37293,7 +37293,7 @@
            <detailed/>
            <simple>[None]</simple>
           </ana></morph></token>
-        <token join="right" xml:id="t1234_4"><form modified="True">-</form><morph check="True">
+        <token join="both" xml:id="t1234_4"><form modified="True">-</form><morph check="True">
           <ana correct="False">
            <lemma>-</lemma>
            <detailed>-[Hyph:Hyph]</detailed>
@@ -37304,7 +37304,7 @@
            <detailed/>
            <simple>[Punct]</simple>
           </ana></morph></token>
-        <token join="no" xml:id="t1235"><form modified="True">(8)</form><morph check="True">
+        <token join="left" xml:id="t1235"><form modified="True">(8)</form><morph check="True">
           <ana correct="False">
            <lemma>8</lemma>
            <detailed>lpar[Punct]=( + 8[/Num|Digit] + [Nom] + rpar[Punct]=)</detailed>
@@ -64019,7 +64019,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t2132"><form modified="True">Nektv.</form><morph check="True">
+       <token join="no" xml:id="t2132"><form modified="True">Nektv.</form><morph check="True">
          <ana correct="True" modified="True">
           <lemma>Nektv.</lemma>
           <detailed>Nektv.[/N|Abbr] + [Nom]</detailed>
@@ -65227,7 +65227,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t2173"><form modified="True">Nektv.</form><morph check="True">
+       <token join="no" xml:id="t2173"><form modified="True">Nektv.</form><morph check="True">
          <ana correct="True" modified="True">
           <lemma>Nektv.</lemma>
           <detailed>Nektv.[/N|Abbr] + [Nom]</detailed>
@@ -65696,7 +65696,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t2191"><form modified="True">Nektv.</form><morph check="True">
+       <token join="no" xml:id="t2191"><form modified="True">Nektv.</form><morph check="True">
          <ana correct="True" modified="True">
           <lemma>Nektv.</lemma>
           <detailed>Nektv.[/N|Abbr] + [Nom]</detailed>
@@ -68374,7 +68374,7 @@
          </ana>
         </morph>
        </token>
-       <token join="right" xml:id="t2273"><form modified="True">Nektv.</form><morph check="True">
+       <token join="no" xml:id="t2273"><form modified="True">Nektv.</form><morph check="True">
          <ana correct="True" modified="True">
           <lemma>Nektv.</lemma>
           <detailed>Nektv.[/N|Abbr] + [Nom]</detailed>

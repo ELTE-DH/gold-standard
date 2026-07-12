@@ -10201,7 +10201,7 @@
 							</ana>
 						</morph>
 					</token>
-					<token join="left" xml:id="t629">
+					<token join="no" xml:id="t629">
 						<form modified="False">aki</form>
 						<morph check="True">
 							<ana correct="True">
@@ -32533,7 +32533,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="left" xml:id="t2056">
+						<token join="no" xml:id="t2056">
 							<form modified="True">e</form>
 							<morph check="True">
 								<ana correct="False">

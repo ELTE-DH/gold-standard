@@ -7469,7 +7469,7 @@
 								</ana>
 							</morph>
 						</token>
-						<token join="right" xml:id="t494"><form modified="True">XV–XVI.</form><morph check="True">
+						<token join="no" xml:id="t494"><form modified="True">XV–XVI.</form><morph check="True">
 								<ana correct="False">
 									<lemma>XV–XVI</lemma>
 									<detailed>X[/Num|Roman] + V[/Num|Roman] + [Nom] + –[Hyph:Dash] + X[/Num|Roman] + VI[/Num|Roman] + .[_Ord/Adj]= + [Nom] + []=.</detailed>
