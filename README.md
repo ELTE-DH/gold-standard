@@ -33,6 +33,42 @@ The \<ana\> elements inside \<morph\> elements contain the analysis options prov
 
 The UD files follow the [conllu](https://universaldependencies.org/format.html) format.
 
+## Converting XML to CoNLL-U
+
+The script [`script/xml_to_conllu.py`](script/xml_to_conllu.py) converts the XML files into a single CoNLL-U file. For each token, it uses the analysis marked as correct (`<ana correct="True">`):
+
+* FORM: the word form;
+* LEMMA: the lemma (`_` for words unknown to emMorph, whose lemma is `[None]`);
+* XPOS: the simplified emMorph tag (`<simple>`);
+* UPOS and FEATS: derived from the emMorph tag with [emmorph2ud2](https://github.com/vadno/emmorph2ud2);
+* MISC: `SpaceAfter=No`, based on the `join` attribute of the token;
+* HEAD, DEPREL and DEPS: empty (`_`), as the corpus has no syntactic annotation.
+
+The text structure is kept in the following comments:
+
+* `# newdoc id`: the name of the XML file without the annotator suffix (e.g. `blog044`);
+* `# newpar id`: the document id and the `xml:id` of the paragraph (e.g. `blog044_p1`);
+* `# sent_id`: the document id and the `xml:id` of the sentence (e.g. `blog044_s1`);
+* `# text`: the text of the sentence.
+
+emmorph2ud2 is not available on PyPI. Install it from GitHub without its dependencies, which the script does not need:
+
+```bash
+pip install --no-deps git+https://github.com/vadno/emmorph2ud2
+```
+
+The script accepts XML files and directories. In directories, only the files of the first annotator (`*_annot1.xml`) are converted by default; use `--pattern` to select other files. The output is written to the file given by `--output-file` (`-o`), or to the standard output. For example, the conllu files of the corpus can be created with:
+
+```bash
+M="corpus/Morph annotated"
+python script/xml_to_conllu.py "$M/Informal" -o corpus/conllu/blog.conllu
+python script/xml_to_conllu.py "$M/Academic" "$M/Cultural" -o corpus/conllu/cult.conllu
+python script/xml_to_conllu.py "$M/Legal" -o corpus/conllu/leg.conllu
+python script/xml_to_conllu.py "$M/Literature" -o corpus/conllu/lit.conllu
+```
+
+The script prints a warning for tokens with missing annotation (e.g. an empty lemma or simplified tag). If the simplified tag is missing, it is reconstructed from the detailed analysis.
+
 
 ## Corpus size
 
